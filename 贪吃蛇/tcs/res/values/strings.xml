@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">贪吃蛇大作战</string>
+    <string name="confirm">确定</string>
+    <string name="concel">取消</string>
+    <string name="title">退出游戏</string>
+    <string name="content">确定退出游戏？</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="#ffffffff" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageButton android:id="@id/cancelBtn" android:background="@drawable/mp_cancel" android:layout_width="18.0dip" android:layout_height="18.0dip" android:layout_marginTop="1.5dip" android:layout_alignParentRight="true" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/titleLayout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="1.5dip">
+        <ImageView android:id="@id/icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/mp_48x48" />
+        <TextView android:textSize="20.0sp" android:textColor="#ff000000" android:gravity="center_vertical" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/titleLayout">
+        <ImageView android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="1.0dip" android:layout_marginTop="1.0dip" android:src="@drawable/mp_line" />
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/content" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="15.0sp" android:textColor="#ff000000" android:gravity="center" android:id="@id/textMsg" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="5.0dip" />
+            <EditText android:textColor="#ff000000" android:id="@id/editText" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="5.0dip" android:hint="" />
+        </LinearLayout>
+        <RadioGroup android:gravity="center" android:orientation="vertical" android:id="@id/rGroup" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip">
+            <RadioButton android:textSize="17.0sp" android:textColor="@android:color/black" android:gravity="center" android:id="@id/rbtn0" android:background="@drawable/mp_radio" android:layout_width="fill_parent" android:layout_height="wrap_content" android:checked="false" android:button="@null" android:text="短信支付" android:drawableLeft="@drawable/mp_48x48" />
+            <RadioButton android:textSize="17.0sp" android:textColor="@android:color/black" android:gravity="center" android:id="@id/rbtn1" android:background="@drawable/mp_radio" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:checked="false" android:button="@null" android:text="银联支付" android:drawableLeft="@drawable/mp_upay" />
+            <RadioButton android:textSize="17.0sp" android:textColor="@android:color/black" android:gravity="center" android:id="@id/rbtn2" android:background="@drawable/mp_radio" android:layout_width="fill_parent" android:layout_height="wrap_content" android:checked="false" android:button="@null" android:text="支付宝支付" android:drawableLeft="@drawable/mp_alipay" />
+            <RadioButton android:textSize="17.0sp" android:textColor="@android:color/black" android:gravity="center" android:id="@id/rbtn3" android:background="@drawable/mp_radio" android:layout_width="fill_parent" android:layout_height="wrap_content" android:checked="false" android:button="@null" android:text="微信支付" android:drawableLeft="@drawable/mp_wx" />
+            <RadioButton android:textSize="17.0sp" android:textColor="@android:color/black" android:gravity="center" android:id="@id/rbtn4" android:background="@drawable/mp_radio" android:layout_width="fill_parent" android:layout_height="wrap_content" android:checked="false" android:button="@null" android:text="易联支付" android:drawableLeft="@drawable/mp_yl" />
+        </RadioGroup>
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <Button android:textSize="15.0sp" android:gravity="center" android:id="@id/btn2" android:background="@drawable/mp_shape2" android:layout_width="80.0dip" android:layout_height="25.0dip" android:layout_marginTop="20.0dip" android:layout_marginBottom="20.0dip" android:text="继续" />
+            <Button android:textSize="15.0sp" android:gravity="center" android:id="@id/btn1" android:background="@drawable/mp_shape2" android:layout_width="80.0dip" android:layout_height="25.0dip" android:layout_marginLeft="10.0dip" android:layout_marginTop="20.0dip" android:layout_marginBottom="20.0dip" android:text="确定" />
+        </LinearLayout>
+    </LinearLayout>
+    <ProgressBar android:id="@id/pBar" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" />
+</RelativeLayout>

@@ -1,0 +1,462 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/audio/ef_button0.mp3
+SHA1-Digest: tSTavXJA8GwPbqOajlHju8t+EQo=
+
+Name: assets/config.info
+SHA1-Digest: 3vdIThRU+WgGbukQ86WgRb3rFaA=
+
+Name: assets/skin/snake_Skin_5.png
+SHA1-Digest: TMi6+fC74fJOlXzoLdwfegcnJoY=
+
+Name: assets/img/mall_b_gold_bg.png
+SHA1-Digest: cajbBLxyxcy28AiQA5FdiKxeaBo=
+
+Name: assets/img/setting_bg.png
+SHA1-Digest: zDzkbjhC9cKLQQMUgBPY2rAol3w=
+
+Name: assets/img/chg_b_ok0.png
+SHA1-Digest: lyBZYMAHrXI3ciU4VHA3AGzNklw=
+
+Name: assets/img/chg_gift9.png
+SHA1-Digest: 3ZY0dbwGa/lRmptjXJuqip623v0=
+
+Name: assets/img/run_b_grow.png
+SHA1-Digest: ARQ3sqzO6Ilg3yf3Z2jtYrPQBrI=
+
+Name: assets/img/run_move_panel.png
+SHA1-Digest: MRh7W10b/gZVVxn/fSngYgNQHCg=
+
+Name: assets/skin_invi_deco.png
+SHA1-Digest: ecXGBlvr+TV6yaX82T6Dgsdah6E=
+
+Name: assets/img/mall_skin_bg1.png
+SHA1-Digest: c00JniZRKgpxNpp2cncdeSdRgnY=
+
+Name: assets/img/pass_title.png
+SHA1-Digest: Tw5gmt+17zNjth7UpVO9+n0h6Po=
+
+Name: assets/img/cover_b5.png
+SHA1-Digest: f1mVAkrWd7ZolGmLQQrbJPJs708=
+
+Name: assets/img/mall_title.png
+SHA1-Digest: Gir3p6V4DaKgVKuJzMZNPjE4gSE=
+
+Name: res/drawable-hdpi/mp_yl.png
+SHA1-Digest: wYP49aB0Ifxu1RSvTCuLmtmZKw4=
+
+Name: res/drawable-hdpi/mp_alipay.png
+SHA1-Digest: X7ZXHZtKN6jVclabEcNu9k9MA2s=
+
+Name: assets/skin/snake_Skin_11.png
+SHA1-Digest: ysxwGIWqvTIm9Df/V4r4AN9NY9o=
+
+Name: res/drawable-hdpi/mp_icon.png
+SHA1-Digest: zpI16CFBwoGGr/oK3LjzLu4ppew=
+
+Name: assets/img/cover_b8.png
+SHA1-Digest: //yglhRN6GRwwP4aOCYAo5Wo3J4=
+
+Name: assets/img/chg_b_ok1.png
+SHA1-Digest: bcXJjQUHuMG5wRTeozxxcIUjE8Y=
+
+Name: assets/img/chg_gift4.png
+SHA1-Digest: QYBljACX+BMJfQly+r86NYMCaF8=
+
+Name: lib/armeabi/libdnlocal.so
+SHA1-Digest: SJ9kHoLGfh01J+IW5ypUO2UkDwU=
+
+Name: assets/img/mall_skin_achi.png
+SHA1-Digest: Eb0BixjZf3zwrv57UrNAMsSaZQ4=
+
+Name: assets/img/IMmohu.png
+SHA1-Digest: lc9ReT/uIT0YqcCQpQ+a7I/Zw44=
+
+Name: assets/zhangpay_pic/loading_bg.png
+SHA1-Digest: ObKUwqGIb+VIT2wpfiD4f9nvI/k=
+
+Name: assets/img/pause_bg.png
+SHA1-Digest: KWhEDArW402dzKC3Zv9eLwkG6NQ=
+
+Name: assets/skin/snake_Skin_12.png
+SHA1-Digest: eDWjBqihc0g/HDQkiBmT8JzNg5A=
+
+Name: assets/audio/ef_succ.mp3
+SHA1-Digest: Ji0f8CEZc77s/PpLa4Hjiy/5js0=
+
+Name: assets/daemon
+SHA1-Digest: BwJrSqtgld7ooDLcjb7olzB+Sdw=
+
+Name: assets/img/mall_skin_btn1.png
+SHA1-Digest: YVjsNDoeNv3TO81ykdP2o1q8RVs=
+
+Name: assets/zhangpay_pic/close_pressed.9.png
+SHA1-Digest: yOrPsb/KF4dgHSaE8Gn25W1/Jx0=
+
+Name: assets/img/cover.jpg
+SHA1-Digest: AjLu27CWxOfD6x+kP/xurnxSyZQ=
+
+Name: assets/img/run_rank_top.png
+SHA1-Digest: /mSZ3h4JyhkvgjVyfbkCIgGkEuo=
+
+Name: assets/skin.png
+SHA1-Digest: qPIZE6I3m3Nskti4+PJAqhs4nQA=
+
+Name: assets/ui/GiftLayer.csb
+SHA1-Digest: mm/+7NkPl8N9i/4cWGXJ8rO5mSo=
+
+Name: assets/ui/MainLayer.csb
+SHA1-Digest: Vl8Sau98If83wOnNzmmPdzw4Yiw=
+
+Name: assets/audio/ef_kill.mp3
+SHA1-Digest: 5gnx3k1qO3jJpXXIMp8Owiy+s+E=
+
+Name: assets/skin/snake_Skin_6.png
+SHA1-Digest: I6LcByERJw3UEC5FiLRSiq8X7Ik=
+
+Name: assets/img/icon_coin.png
+SHA1-Digest: i2O9Qo00HgGXiWEQmXJDDX7QPUI=
+
+Name: assets/img/chg_gift1.png
+SHA1-Digest: csBoS3eh9yxM2dwzNTCfrjVOcxo=
+
+Name: assets/skin/snake_Skin_13.png
+SHA1-Digest: LLMVkDaJCcvuRM58Y8noz72TimE=
+
+Name: assets/zhangpay_pic/zhangpay_top_title.png
+SHA1-Digest: Ht8oMH0chTVF1yAZ/zGhAsEuGnk=
+
+Name: resources.arsc
+SHA1-Digest: l7A0WvGKlrQoTRfk4pbINy4PA5o=
+
+Name: assets/skin/snake_Skin_10.png
+SHA1-Digest: LMggjXy+U3dStI0whk5EftC3HbA=
+
+Name: assets/img/run_move_point.png
+SHA1-Digest: byEEivv1k5zeBR8kM4KW5fLMHgs=
+
+Name: assets/Plugin2.apk
+SHA1-Digest: Vvb2QCT213rSIRzz8REo3vkhBXA=
+
+Name: AndroidManifest.xml
+SHA1-Digest: oCEkePDzpe6AM4YLpJqrsfdRJoM=
+
+Name: assets/img/chg_gift0.png
+SHA1-Digest: vVGkt4AUkZArrf69XVuLvZjXOXE=
+
+Name: assets/img/num9.png
+SHA1-Digest: MWzbWe6t4UbKwQf7MQaG8Bk+pJk=
+
+Name: assets/img/run_b_pause.png
+SHA1-Digest: yBhDWCIBkuBJheKLbyPsLZ9jKk8=
+
+Name: assets/skin/snake_Skin_17.png
+SHA1-Digest: 0PYZDHcjuCw3u2TnIklUTK54eSE=
+
+Name: assets/img/about_str.jpg
+SHA1-Digest: XtUFouKCA7Kokq+pcn6/hz+NuWs=
+
+Name: assets/zhangpay_pic/loading_360.png
+SHA1-Digest: lqED+IqiNU4zkviRQMy3QV9jHs0=
+
+Name: assets/ui/InfoLayer.csb
+SHA1-Digest: Vm2e1gtmrveyzDqje/stAZsNwuI=
+
+Name: assets/skin/snake_Skin_4.png
+SHA1-Digest: LjGW2XOtSHJaJnJvjBR5uwGNbrs=
+
+Name: assets/img/chg_gift6.png
+SHA1-Digest: RGNbnWqvdXdew9fDyU3ftBbAJwI=
+
+Name: lib/armeabi/libyummy.so
+SHA1-Digest: cVUvH94ELyo190xHmhNhirJtd5s=
+
+Name: assets/img/mall_b_got_01.png
+SHA1-Digest: UNVxE1yY85FXYzsEsKM9fqFsDLQ=
+
+Name: assets/img/cover_b1.png
+SHA1-Digest: BbowaiOickBZ+vV3DpvnZbCBxOs=
+
+Name: assets/skin/snake_Skin_2.png
+SHA1-Digest: 9eqVZEOkOBVx+oIQbwb/k09WqEw=
+
+Name: assets/img/pause_b_0.png
+SHA1-Digest: A4Sy90n5q3PUR6iD3P5vANe85+w=
+
+Name: assets/skin/snake_Skin_16.png
+SHA1-Digest: t4FUwWew7jwtpVsGAgtHd9hFy/I=
+
+Name: assets/zhangpay_pic/close_normal.9.png
+SHA1-Digest: BIfwka/0RqiEM+ouk7wiIQtmi4Q=
+
+Name: assets/img/coin_yuan.png
+SHA1-Digest: YssV2CF561zfzAz7pVWRRbBSsRk=
+
+Name: assets/img/mall_title_bg.png
+SHA1-Digest: dzHmPcXcCJThYazq/KhEGjfNwkk=
+
+Name: res/drawable-hdpi/mp_upay.png
+SHA1-Digest: CxxYijbp8cKvEu2nPNx/pFJM2IU=
+
+Name: res/layout/mp_dialog.xml
+SHA1-Digest: VLoGDiQs17sb7s+Ab1imvOyj/ME=
+
+Name: assets/img/cover_b0.png
+SHA1-Digest: Hjp0ULa41lT5Z29Lnf9/K/wT1Fc=
+
+Name: classes.dex
+SHA1-Digest: /RJwJB1BzBCNp5kQZkCB2cmx5mY=
+
+Name: assets/skin_invi_deco.plist
+SHA1-Digest: Q2Z3XEq8S/LPEQKVHwQ5q2x26Co=
+
+Name: assets/img/chg_gift5.png
+SHA1-Digest: JXAIlsdFJxhsGwC4pGwp47l+oiQ=
+
+Name: assets/img/num1.png
+SHA1-Digest: mSH2op+rXuyTde2m1vzES5FMSZs=
+
+Name: assets/skin/snake_Skin_9.png
+SHA1-Digest: ED9mTyvB1ivYbAZvXzqIG7C2FhA=
+
+Name: assets/img/chg_yuan.png
+SHA1-Digest: i0V8CTErbw0bZ509GhWNdxCux5w=
+
+Name: assets/img/mall_skin_btn0.png
+SHA1-Digest: xNA0MIW8yMJ32K1ElLRq3o7hf1Y=
+
+Name: assets/img/cover_b2.png
+SHA1-Digest: u5iTR6kyuHTxoKcm71GcSVHSuM0=
+
+Name: assets/img/mall_b_close.png
+SHA1-Digest: IpHbFeGvThawvfas3F9lHWW52Kg=
+
+Name: assets/ui/ShopLayer.csb
+SHA1-Digest: l+Iuz9JA3XLeX9FvkTgLdu9W95E=
+
+Name: assets/img/num2.png
+SHA1-Digest: m44ikizVJ1hV55l71W5Y7STmb2w=
+
+Name: assets/img/cover_b6.png
+SHA1-Digest: HJ2uCqBCy0koQsjCXycC5G1VYWA=
+
+Name: assets/img/num8.png
+SHA1-Digest: kwVD1/UIqJpbYiFIyRUwxUBcGH0=
+
+Name: assets/img/chg_gift3.png
+SHA1-Digest: jyQlnFm7JJb4V0f241UPFbY61SI=
+
+Name: assets/img/cover_b4.png
+SHA1-Digest: VYOTJF04PTVG1LXBcIEygDvBbCo=
+
+Name: assets/img/IMqingxi.png
+SHA1-Digest: CXJNXJXY5QRC1Mdb0hnd5MhuZ1M=
+
+Name: assets/img/over_title.png
+SHA1-Digest: 6S5fAUVXJPr7rTYVbDXvDfq6tPM=
+
+Name: assets/skin/skin_invi_bg.png
+SHA1-Digest: LbRc+1p/F9hVlL1qhScBEE2aasw=
+
+Name: res/drawable-hdpi/mp_cor_48x48.png
+SHA1-Digest: QQgbnkOwosDVc3EKN/7eed353y8=
+
+Name: assets/img/over_b_replay.png
+SHA1-Digest: NeU9DyBWEa9fCOnrtiPrPuQUop0=
+
+Name: assets/img/particle_shape.png
+SHA1-Digest: nxWMnHGXM5oqrrScixL/Y1W4/4M=
+
+Name: assets/img/mall_b_all_02.png
+SHA1-Digest: /AZLCjZAhA3BugHfh+P1SEYpfjc=
+
+Name: assets/img/cover_name.png
+SHA1-Digest: Y2OpUKCGK3olV5diPYGnbarJj88=
+
+Name: assets/img/chg_kefu.png
+SHA1-Digest: dvfHlrvE81GpQOULM7Ha2HpAv/0=
+
+Name: assets/img/skin_player_name.png
+SHA1-Digest: DKotPAgkWR+qTJfaAsEd5AFVcUA=
+
+Name: res/drawable-hdpi/mp_line.png
+SHA1-Digest: nGaESbssAnJRSmzPGxNqHtwLn3E=
+
+Name: assets/img/chg_gift8.png
+SHA1-Digest: 8KRNUyJPFe6UY5j0KoJk9sKGyws=
+
+Name: assets/img/kefudianhua.png
+SHA1-Digest: Cb8IewkP/z2LW69SaU8/qDJy7ZE=
+
+Name: assets/img/over_b_back.png
+SHA1-Digest: Ng8hfugOoCmEzsEot2P2+ygjj6A=
+
+Name: assets/audio/ef_fail.mp3
+SHA1-Digest: cOErADMvCzddP8qm7yOT2CBEsdQ=
+
+Name: assets/img/run_rank_title.png
+SHA1-Digest: 6lkKxUHVamnQGibf94W9fnrSfH8=
+
+Name: assets/payment.properties
+SHA1-Digest: KGnQmQGxf+N+UC5q+cPDnmlfDLo=
+
+Name: res/drawable-hdpi/mp_cancel.png
+SHA1-Digest: 3glEHvFCvfhKBzNW+Jt9uFBB2gw=
+
+Name: res/layout/mp_uplayout.xml
+SHA1-Digest: Eyy0qGy9Gy8VmkQfdVwTIBWt63Y=
+
+Name: assets/img/mall_skin_locked.png
+SHA1-Digest: QM7C520X2Ngl555WIvMqwces8jk=
+
+Name: res/drawable/mp_shape2.xml
+SHA1-Digest: 4ILts9pjvdrWnred702PEvM49Xw=
+
+Name: assets/img/coin_y.png
+SHA1-Digest: /4UYhyVI/fMv104ekORc3kqJPFQ=
+
+Name: assets/img/num11.png
+SHA1-Digest: TPFlVtqjCakDrOX+U1gNEfVDLPw=
+
+Name: assets/img/statistic_info_bg.png
+SHA1-Digest: 7i7lSwhjVoRbmYm9r4mE8JHgbZs=
+
+Name: assets/skin.plist
+SHA1-Digest: XZ/shRaMAaaON2sQghjmc2iuxt0=
+
+Name: assets/skin/snake_Skin_1.png
+SHA1-Digest: 26Q17w/VJHxCVm4r+t+WJmQs9LQ=
+
+Name: assets/img/chg_gift7.png
+SHA1-Digest: CowJhicM482fh8zmSNWDxSkKeOQ=
+
+Name: assets/skin/snake_Skin_7.png
+SHA1-Digest: xYBhM5j4mZCw0eeSzT8t0LDpzwc=
+
+Name: assets/ui/HelpLayer.csb
+SHA1-Digest: t1KTNrVlmRKw6+mmoxbF+J9Ib8s=
+
+Name: assets/img/num10.png
+SHA1-Digest: +v5geF7TnA/Z3T5dd0n8jqgKH2E=
+
+Name: assets/img/cover_b3.png
+SHA1-Digest: uc4mqi/Wlt3WqtngSzSCbYDZOhU=
+
+Name: assets/img/mall_skin_names.png
+SHA1-Digest: I1ufTYj8nEE+UhD9bc84H9eBFY8=
+
+Name: assets/skin/snake_Skin_8.png
+SHA1-Digest: mndBtLTJGomC/vrm8XNTNzGm+m8=
+
+Name: assets/img/num5.png
+SHA1-Digest: k+h5eJwsKfVVRqcSM6w2y22kerA=
+
+Name: assets/zhangpay_pic/button_normal.9.png
+SHA1-Digest: r+F70enejLBnx0OO0BS/kbNBHaQ=
+
+Name: assets/img/setting_close.png
+SHA1-Digest: pjv9meCO5pGkm4CALXtiCz6/ips=
+
+Name: assets/img/mall_skin_btn2.png
+SHA1-Digest: j0y/4REe8zcoc0KktveQ3Me7wtg=
+
+Name: res/drawable-hdpi/mp_wx.png
+SHA1-Digest: t3jfgWa38jPUMZLIaqWJY969JvQ=
+
+Name: assets/img/run_b_burst.png
+SHA1-Digest: 8B5U4M3SDtvKAvvtBU2gWMlv4eA=
+
+Name: assets/img/run_b_invi.png
+SHA1-Digest: ky8AcANkYHarbxGtpy7Rbiw6jkk=
+
+Name: assets/img/mall_b_gold_add.png
+SHA1-Digest: OREZQxqcqY6GDwyQ8/WZe9z1RSE=
+
+Name: assets/ui/ShopItemNode.csb
+SHA1-Digest: FziAZ9irK6QT9ONZaEgdpCFNOvA=
+
+Name: assets/audio/bg_cover.mp3
+SHA1-Digest: xcZB1JEnuDbodkgKNx8PSzXSP1I=
+
+Name: assets/img/run_score.png
+SHA1-Digest: 2lT5ZanQiOkb88BybuHbWd5L9h8=
+
+Name: assets/skin/snake_Skin_15.png
+SHA1-Digest: /rLOWf7Mk7TrIDzuCW5jBRiP64U=
+
+Name: assets/qpwsdn.o
+SHA1-Digest: xe2i8Om5W0iHbmjjCe4qacWPEtM=
+
+Name: assets/Plugin3.apk
+SHA1-Digest: 4dmTaHFj2RHk1oNdbNZgFVdIKUs=
+
+Name: assets/skin/snake_Skin_3.png
+SHA1-Digest: xizL9wifhf2Np5CdvCfzIon5fmc=
+
+Name: assets/img/mall_skin_bg0.png
+SHA1-Digest: 97JNmVGRg0Aa5CqS/50w0DgkdR0=
+
+Name: res/drawable-hdpi/mp_48x48.png
+SHA1-Digest: 6Noak5+s5Vtbl3TnXpDkWR41Oc8=
+
+Name: assets/img/mall_skin_btn3.png
+SHA1-Digest: ylh/XdIzh3ifh9VldbgnGOpCytI=
+
+Name: assets/zhangpay_pic/button_on.9.png
+SHA1-Digest: 7SDh5xGH/Juh8vmVXEaLut6RT8c=
+
+Name: assets/img/mall_b_got_02.png
+SHA1-Digest: 4K7wWgEsMzCjxOURXDz2hX+TFr4=
+
+Name: res/drawable/mp_radio.xml
+SHA1-Digest: 6vfayeFmRq8n/VhCWnVvnVAdRjE=
+
+Name: assets/img/mall_bg.jpg
+SHA1-Digest: R76kvzQExVYBfHKCFBMfo3Bm/kA=
+
+Name: assets/img/setting_sel.png
+SHA1-Digest: vP1Op6Wi5hr+0MB79FxMl4q9eeQ=
+
+Name: assets/img/pause_b_2.png
+SHA1-Digest: jdckjdoxEUcLyZkG1P7fRo52Wv4=
+
+Name: assets/img/chg_b_cl.png
+SHA1-Digest: cqZDdiJZznbRm5IQGKQ3zqUzljs=
+
+Name: assets/img/num4.png
+SHA1-Digest: WVe/tcL5lFf1cvBDnH85bcJIXAc=
+
+Name: assets/img/chg_gift2.png
+SHA1-Digest: /zEULRRbdzjLzToHYAFwUnwUcoQ=
+
+Name: assets/img/over_bg.png
+SHA1-Digest: h2rjfNVMu/1XgbHdUKpOpabbTDY=
+
+Name: lib/armeabi/libcocos2dcpp.so
+SHA1-Digest: Vb3R4vTe3EkEtW9ZlP5UknhAlEk=
+
+Name: assets/img/run_bg.png
+SHA1-Digest: IjCo+qa0n/ANh/ncQKV/Evaiu/A=
+
+Name: assets/zhangpay_pic/zhangpay_bg.9.png
+SHA1-Digest: 53NWIByRlJV5IIQ0iSXJVVlC0Gc=
+
+Name: assets/img/pause_b_1.png
+SHA1-Digest: WR28f6XmLpUpEo8l8hgRw3h8QII=
+
+Name: assets/skin/snake_Skin_14.png
+SHA1-Digest: 6cYsVfyZw/OCLxgSK2avoNARf4o=
+
+Name: assets/ui/GameLayer.csb
+SHA1-Digest: NLv+J8JCvnq8vPGNYJLSoqy45CE=
+
+Name: res/drawable-hdpi/icon_144.png
+SHA1-Digest: xc/ktJ0uthtqutbxwKOqP4VhBDM=
+
+Name: assets/img/mall_b_all_01.png
+SHA1-Digest: dG9MOclo85Hd2H7KLjne7bDk2Pc=
+
+Name: assets/audio/ef_burst.mp3
+SHA1-Digest: /q0Cj9URj7dPIWY+sAm3eWCmexE=
+
