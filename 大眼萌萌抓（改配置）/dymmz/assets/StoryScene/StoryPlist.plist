@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>StoryScene/Launch_normal.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{272,1063},{142,142}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{142,142}</string>
+			</dict>
+			<key>StoryScene/loading1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,483},{480,248}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{480,248}</string>
+			</dict>
+			<key>StoryScene/loading2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{405,874},{480,187}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{480,187}</string>
+			</dict>
+			<key>StoryScene/loading3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{483,665},{480,207}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{480,207}</string>
+			</dict>
+			<key>StoryScene/loading4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{492,396},{480,267}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{480,267}</string>
+			</dict>
+			<key>StoryScene/loading5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{492,1},{480,393}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{480,393}</string>
+			</dict>
+			<key>StoryScene/loading6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{480,489}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{480,489}</string>
+			</dict>
+			<key>StoryScene/tip_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,733},{402,238}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{402,238}</string>
+			</dict>
+			<key>StoryScene/xiahuangren.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,973},{269,245}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{269,245}</string>
+			</dict>
+			<key>Purchase/BuyBtn_normal.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{405,733},{124,64}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{124,64}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>StoryPlist.png</string>
+			<key>realTextureFileName</key>
+			<string>StoryPlist.png</string>
+			<key>size</key>
+			<string>{973,1219}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>973</integer>
+			<key>height</key>
+			<integer>1219</integer>
+		</dict>
+	</dict>
+</plist>

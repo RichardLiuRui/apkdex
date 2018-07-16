@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Purchase/Purchase_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{928,1},{424,330}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{424,330}</string>
+			</dict>
+			<key>Purchase/Purchase_10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{446,303},{424,330}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{424,330}</string>
+			</dict>
+			<key>Purchase/Purchase_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,405},{424,330}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{424,330}</string>
+			</dict>
+			<key>Purchase/Purchase_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1354,1},{424,330}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{424,330}</string>
+			</dict>
+			<key>Purchase/Purchase_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{914,333},{424,330}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{424,330}</string>
+			</dict>
+			<key>Purchase/Purchase_5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{427,635},{424,330}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{424,330}</string>
+			</dict>
+			<key>Purchase/Purchase_6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,737},{424,330}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{424,330}</string>
+			</dict>
+			<key>Purchase/Purchase_8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1340,333},{424,330}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{424,330}</string>
+			</dict>
+			<key>Purchase/Purchase_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{443,402}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{443,402}</string>
+			</dict>
+			<key>Purchase/Purchase_btn_close.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{872,303},{23,25}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{23,25}</string>
+			</dict>
+			<key>Purchase/Purchase_btn_confirm.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{446,1},{480,300}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{480,300}</string>
+			</dict>
+			<key>Purchase/price_10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{899,303},{29,13}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{29,13}</string>
+			</dict>
+			<key>Purchase/price_6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{872,328},{21,13}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{21,13}</string>
+			</dict>
+			<key>Purchase/price_8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{427,405},{21,13}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{21,13}</string>
+			</dict>
+			<key>Purchase/Purchase_7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{853,665},{424,330}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{424,330}</string>
+			</dict>
+			<key>Purchase/Purchase_9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{427,967},{424,330}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{424,330}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>PurchasePlist.png</string>
+			<key>realTextureFileName</key>
+			<string>PurchasePlist.png</string>
+			<key>size</key>
+			<string>{1779,1298}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1779</integer>
+			<key>height</key>
+			<integer>1298</integer>
+		</dict>
+	</dict>
+</plist>

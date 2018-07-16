@@ -1,0 +1,354 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/result/restart_btn.png
+SHA1-Digest: lwffCU3+9TCyDBfwvUSRHTmyKWY=
+
+Name: assets/mainscene/coin_bg.png
+SHA1-Digest: LuviBE/oLQoILef8r6SEFZGS3b0=
+
+Name: assets/upgrade/5000.png
+SHA1-Digest: l88sVOIOA183muKp5UrVGT5ITjk=
+
+Name: assets/map/rock5.png
+SHA1-Digest: Pcv2sL36+hhcuhfymiqQQ64KLLM=
+
+Name: assets/setting/logo.png
+SHA1-Digest: RnfWA1DlaXmwNlBw5wHk+/kLcHE=
+
+Name: assets/setting/di.png
+SHA1-Digest: TKknMoqlwfPJu6mTC7qHexd317A=
+
+Name: assets/gamescene/rock2.png
+SHA1-Digest: G0VAF7s5+rU2sNxXqNbvs2UF6CM=
+
+Name: assets/upgrade/1000.png
+SHA1-Digest: eN5mdskdDxJB+J9Z6A29mko+iQY=
+
+Name: assets/upgrade/2000.png
+SHA1-Digest: zbHYO+KGV301KN4qxF+7yf6U5tc=
+
+Name: assets/result/jixian.png
+SHA1-Digest: QgCLKFEM0cFKjWf6jpxAXiND+5A=
+
+Name: assets/setting/fanzhuananniu.png
+SHA1-Digest: 2kS98OJ5n8nyWnQ1DoSTyGeULgY=
+
+Name: assets/mainscene/setting_btn.png
+SHA1-Digest: s2BoMLD0pL+YmlTwn7Ga2VPXB4k=
+
+Name: assets/setting/queren.png
+SHA1-Digest: rOzg1NmSSNV9kZ6DvBHr0mwkR9U=
+
+Name: assets/setting/yinxiaotubiao.png
+SHA1-Digest: SOYU7uBfaDuA8HekyBWxcHXp4Wk=
+
+Name: assets/music/bgm_2.ogg
+SHA1-Digest: P4I2ZBmXyFnrJgwNzfwryMDOQxs=
+
+Name: assets/upgrade/wudi.png
+SHA1-Digest: lWUO1nPK6Znfd0cGe2KD/wFPA88=
+
+Name: assets/gamescene/shiwu.png
+SHA1-Digest: 1/kFxILbrv0B8N0OFYdULeSRMSY=
+
+Name: assets/setLayer.csb
+SHA1-Digest: NCecfUMMeuNFEo7KsDm+IiLgaF4=
+
+Name: assets/gamescene/prop/Boold01.png
+SHA1-Digest: RVve4G40B7878UbvQJDS4SzDXSQ=
+
+Name: assets/mainscene/gradeBg.png
+SHA1-Digest: 2LD8aiSh7SZjSwizAzsi/+gONBI=
+
+Name: assets/result/baikuang.png
+SHA1-Digest: u0zuySQH42TwPf7CRCpTp32mM9A=
+
+Name: assets/gamescene/prop/enemyBoold04.png
+SHA1-Digest: W+zsZYMEqGDdJOlNHz+ymfFEGF8=
+
+Name: assets/map/rock3.png
+SHA1-Digest: 58XgEnqGkCep3YvqEw8GUHDWKo0=
+
+Name: assets/number/checkin_number.png
+SHA1-Digest: iZ3ETkDUgl+RZJKgavXq7NaF4JM=
+
+Name: assets/setting/fanzhuananniutubiao.png
+SHA1-Digest: XuHNpp4CQtd0NWDwpZCRB7enoRA=
+
+Name: assets/upgrade/di.png
+SHA1-Digest: AZK8T7XrtKfwSkg8buby2P1H7jQ=
+
+Name: assets/setting/querenkuang.png
+SHA1-Digest: 12//geRqFKf6hUu4fEM/D10T0lc=
+
+Name: assets/gamescene/prop/shieldWhilebg.png
+SHA1-Digest: m8JiBOkAzPDKckgKPbkvDY4Hrjk=
+
+Name: assets/gamescene/map.png
+SHA1-Digest: 7woxCdtmSmi71UPFRgZy/3dFKbE=
+
+Name: assets/gamescene/prop/ShowProp.png
+SHA1-Digest: DSis4cREGhlleGpEnyAIFpjIFPc=
+
+Name: assets/gamescene/rock0.png
+SHA1-Digest: QiOYE+/zvSWD1Xj5H9FKs5KEX+w=
+
+Name: assets/gamescene/prop/heixuetiao.png
+SHA1-Digest: s0fFIPuR7FUkzhlrfEx1YErHeoY=
+
+Name: assets/gamescene/prop/enemyBoold02.png
+SHA1-Digest: gY2jNgpu/It1V7JDrh4DsN2W+vo=
+
+Name: resources.arsc
+SHA1-Digest: JkhzgTXTjb5/2XKkAcN83tLs0gM=
+
+Name: assets/gamescene/prop/Boold03.png
+SHA1-Digest: 2C00M33X6+jYMTpwVnycehSA6J8=
+
+Name: assets/upgrade/thousandsBg.png
+SHA1-Digest: eaHZ31quk/k/wfUDb8Yos2lIqRg=
+
+Name: AndroidManifest.xml
+SHA1-Digest: xWOgxv9uPtD6dTusp9zr+YHz//0=
+
+Name: assets/result/main_btn.png
+SHA1-Digest: PYihPggSM1DXMJhmY8lc02aHLhE=
+
+Name: assets/map/rock0.png
+SHA1-Digest: QiOYE+/zvSWD1Xj5H9FKs5KEX+w=
+
+Name: assets/gamescene/jumpBtn.png
+SHA1-Digest: WZ5fx0ZbFQQaepawBnknMAd1fDE=
+
+Name: assets/gamescene/shalou.png
+SHA1-Digest: HQ6Xf91ZhBa7UqNGaUFCADZiWRk=
+
+Name: assets/gamescene/shiwuhei.png
+SHA1-Digest: 4CTi92tyeeCl9CN8yUFBlqqYRVk=
+
+Name: assets/mainscene/zuijiaBg.png
+SHA1-Digest: sUMFZGnhjKulvJawpThZIu97kfY=
+
+Name: assets/upgrade/xuebao.png
+SHA1-Digest: R8yjvOMjBerXzz+BYcyZYxlYahA=
+
+Name: assets/gamescene/rock6.png
+SHA1-Digest: wTw3q4Z/UUoK9RX4R7tFiJDEBhQ=
+
+Name: assets/mainscene/shanti_bg.png
+SHA1-Digest: T42EFRVKNZeCBYueJnAnh8F3Wi4=
+
+Name: assets/gamescene/hero.plist
+SHA1-Digest: Xnzo9Etsce5f0YspCMquv3ADVSk=
+
+Name: assets/gamescene/prop/suduxian.png
+SHA1-Digest: Y6Q2KP1y7pNH8pH3flWUw5D6UsA=
+
+Name: assets/gamescene/prop/doubleHit2.png
+SHA1-Digest: xTsXxt9Z+6knOHy8CxdaDdS+UeA=
+
+Name: assets/setting/yinyue.png
+SHA1-Digest: zdgRiMbKqJKqLe8yD2MnLwsJFgU=
+
+Name: assets/setting/yinxiao.png
+SHA1-Digest: 7N0WmKVucLmZ+Z9IQLYeTNr1/eI=
+
+Name: assets/gamescene/rock4.png
+SHA1-Digest: Rj+J1uY1LRijbWc/abHJzdaVUgM=
+
+Name: assets/gamescene/prop/eBoold.png
+SHA1-Digest: gR5IIIZxiK+cW5dXWxUgCrfagTY=
+
+Name: assets/music/junp_sound.wav
+SHA1-Digest: xmGufnrfHknVzPfs9N5i/XcB2wI=
+
+Name: assets/map/rock7.png
+SHA1-Digest: 6pervMAsK+N8DxS97yOgRSp4CO4=
+
+Name: assets/gamescene/prop/eScroll.png
+SHA1-Digest: q2Vb9ym92qtXohmxAPM/DEabYwg=
+
+Name: assets/result/lianji.png
+SHA1-Digest: 4z2ggwYeU/UtDqa22TCfvDr7ThQ=
+
+Name: assets/gamescene/prop/hongxuetiao.png
+SHA1-Digest: Z8uB6xcu+J+w56tgPp08s/i4fZg=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA1-Digest: 8jpEH4xsipUcVBiKB+LMwz7Grl0=
+
+Name: assets/upgrade/denglong.png
+SHA1-Digest: JaZe/YXRqGtAbi/L/JwUmyQyl7w=
+
+Name: assets/map/level1.tmx
+SHA1-Digest: 9AnKahC9xqYATm5wU0aMBM59YvY=
+
+Name: assets/upgrade/jiahao.png
+SHA1-Digest: fi+Ngk+jZArg6qYZlhEnGQrOVZg=
+
+Name: assets/result/result_bg.png
+SHA1-Digest: m0I4GyT8EmRPHONNfeE59PISIoE=
+
+Name: assets/music/bgm_1.ogg
+SHA1-Digest: nW9LdkVOYn93hjhOIV1QmzmQ0Ys=
+
+Name: assets/result/revive_btn.png
+SHA1-Digest: gb5KXjhGvLUes1gkLTaFvfHXRqU=
+
+Name: assets/gamescene/rock1.png
+SHA1-Digest: XsA5jJ2PPi6+0F0/U/sRxiVSTXk=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: U9QCJ5J2L/ypJr4k4i1TG2N4C2o=
+
+Name: assets/upgrade/RMB.png
+SHA1-Digest: 1qAM+pkeXGMz4t+UOg/db1IZD/c=
+
+Name: assets/result/heikuang.png
+SHA1-Digest: PmRdkovnzLXRohFLUl4fPVVHsaY=
+
+Name: assets/gamescene/rock3.png
+SHA1-Digest: 58XgEnqGkCep3YvqEw8GUHDWKo0=
+
+Name: assets/map/rock6.png
+SHA1-Digest: wTw3q4Z/UUoK9RX4R7tFiJDEBhQ=
+
+Name: assets/gamescene/hero.png
+SHA1-Digest: 60zdjNf8Tg6IWgBENPvcEkODswM=
+
+Name: assets/number/doublehit_number.png
+SHA1-Digest: BS0vXlHLyb2g1NETqlZtKxiP6KM=
+
+Name: assets/upgrade/fanhui.png
+SHA1-Digest: WH/zpCeVWuLtAWFIX4FRzjc7gsg=
+
+Name: assets/number/fenshu.png
+SHA1-Digest: YV0tB094ebC6OQJ1aXxaztlJowE=
+
+Name: assets/mainscene/beijing.png
+SHA1-Digest: Q0gZ1UT6nk0DwohxSZICEqdQyvU=
+
+Name: assets/map/rock2.png
+SHA1-Digest: G0VAF7s5+rU2sNxXqNbvs2UF6CM=
+
+Name: assets/gamescene/prop/enemyBoold03.png
+SHA1-Digest: LgBF6I2pb7Uwj5uQgjF/6b5+4cw=
+
+Name: assets/gamescene/prop/Boold02.png
+SHA1-Digest: RVve4G40B7878UbvQJDS4SzDXSQ=
+
+Name: assets/music/attack1_sound.wav
+SHA1-Digest: TxUplhE5c1ALuHH11fDfbYYnhfE=
+
+Name: assets/number/score_num.png
+SHA1-Digest: acKDRCFtwotTKc+SYhzJmJSiV9M=
+
+Name: lib/armeabi/libcocos2dcpp.so
+SHA1-Digest: cuxP8bfMQkCdxW/PbuFVnrc3vAs=
+
+Name: assets/gamescene/rock8.png
+SHA1-Digest: 9vbNbm3jaRpBZV5s9SwIKB27D9c=
+
+Name: assets/gamescene/prop/Boold04.png
+SHA1-Digest: bLkye8iwIDgSYeywS1EMvvQ3cik=
+
+Name: assets/gamescene/prop/baixuetiao.png
+SHA1-Digest: rDdXhyC/+Tv33a/t9rtsJDmYuN8=
+
+Name: assets/gamescene/prop/shieldWhileBar.png
+SHA1-Digest: k8FTfd4Xcdm5OgJi7lu7rQSgqOI=
+
+Name: assets/map/rock4.png
+SHA1-Digest: Rj+J1uY1LRijbWc/abHJzdaVUgM=
+
+Name: assets/number/jinbishu.png
+SHA1-Digest: AZ195ylyNjDEMDr+iB6wUvNVLO4=
+
+Name: assets/mainscene/start_btn.png
+SHA1-Digest: RHIiPmYOUrur533gu5p4DMkvvqg=
+
+Name: assets/setting/yinyuetubiao.png
+SHA1-Digest: RxN16dkTQk2Oja/nWakJ2xpUSyg=
+
+Name: assets/upgrade/shengji.png
+SHA1-Digest: x/MBWOtFFIQrfDV1QM0TDSCkjx4=
+
+Name: assets/number/score_number.png
+SHA1-Digest: 032mZeq7VkZ+gEQadYQ8IwSmhCg=
+
+Name: res/drawable-ldpi-v4/icon.png
+SHA1-Digest: Sd+uXXdDFPrDBlRcEfI/W+715Nk=
+
+Name: assets/upgrade/chongci.png
+SHA1-Digest: ie6WbYeKrJ5OeOZvBgfA9Ixr59A=
+
+Name: assets/gamescene/prop/doubleHit3.png
+SHA1-Digest: EGKTfS851nJWHKa7bXAv8bTkcXM=
+
+Name: assets/mainscene/renwu0.png
+SHA1-Digest: MPWHCe2muKshOFlfhVyHawb3amE=
+
+Name: assets/gamescene/prop/enemyBoold01.png
+SHA1-Digest: Vwi9ZD+tRwDcsz6uQRVz9ThPMHI=
+
+Name: assets/map/rules.txt
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: assets/music/attack2_sound.wav
+SHA1-Digest: CSCN48sMMT6NZkLQcA5M+VLcrkI=
+
+Name: assets/gamescene/prop/doubleHit1.png
+SHA1-Digest: 5a07Fx7oAsBvu9biUegUM34xgV4=
+
+Name: assets/gamescene/baseline.png
+SHA1-Digest: rcCWkndV8Qe2ZE8B2Th1FM9Us8E=
+
+Name: assets/gamescene/rock7.png
+SHA1-Digest: 6pervMAsK+N8DxS97yOgRSp4CO4=
+
+Name: assets/setting/close_btn.png
+SHA1-Digest: IHbGAx+FVx2M6tPR5P7LYxzVP+Y=
+
+Name: assets/map/rock1.png
+SHA1-Digest: XsA5jJ2PPi6+0F0/U/sRxiVSTXk=
+
+Name: assets/setting/shezhi.png
+SHA1-Digest: Xnh6xLa7YlTrMSVF748xiin81Ik=
+
+Name: assets/Default/Button_Disable.png
+SHA1-Digest: ElrxAPZj/h2MkOT2vZwyVq1RCGw=
+
+Name: assets/upGradeLayer.csb
+SHA1-Digest: EHpKAM9Do19SN1+uSqOUJDVE8jQ=
+
+Name: assets/map/level2.tmx
+SHA1-Digest: pccxYmFg41RQhF6LkQurbCfksCY=
+
+Name: assets/gamescene/rock5.png
+SHA1-Digest: Pcv2sL36+hhcuhfymiqQQ64KLLM=
+
+Name: assets/upgrade/jinbilan.png
+SHA1-Digest: kj7d8fR1R7MzJ2FtVYlekz/btgA=
+
+Name: assets/gamescene/prop/eShield.png
+SHA1-Digest: B8jNKFYAANlKOHQ6tuzbRit5UDw=
+
+Name: assets/mainLayer.csb
+SHA1-Digest: vROTaqZaVoR7kPfo8MuUxBJ75R0=
+
+Name: assets/upgrade/jinbi.png
+SHA1-Digest: ViK0bYQjCytIZKoSdDzC1Jw81Bk=
+
+Name: classes.dex
+SHA1-Digest: IEZctTYLkXtiCBfd/xBmZTze1H8=
+
+Name: assets/mainscene/upGrade_btn.png
+SHA1-Digest: JrkNW2RBmbSfzkWpAISF7WCY5NU=
+
+Name: assets/gamescene/attackBtn.png
+SHA1-Digest: VgyA38Zcyc/tknwtfPBOtrMuT44=
+
+Name: assets/upgrade/10000.png
+SHA1-Digest: MDOP9YvVYpsNu5rk+/d4C/Lhomw=
+

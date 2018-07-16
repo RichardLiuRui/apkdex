@@ -1,0 +1,853 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: 8aLh5Vqtu7iMJ8gzo1xS+AL6Qd0=
+
+Name: assets/sres/Power/buManPowerButton.png
+SHA1-Digest: nd5XkqrN/nhqVTMhCq2vVoIxlRU=
+
+Name: assets/sres/main_bg.jpg
+SHA1-Digest: Yuts+08nvwKCsMwtwf9yJSZwL3c=
+
+Name: assets/sres/crazyModeSprite.png
+SHA1-Digest: JN40z40x5AQd84/tYG0hGQWbPYo=
+
+Name: assets/sres/DailyTask/xianshiLiBaoBg.png
+SHA1-Digest: L8mTStFrESdP704/BECyy1xqBL8=
+
+Name: assets/sres/Guide/4.png
+SHA1-Digest: MWSzVPVJ/1gb67dRmWWKv+fHIGo=
+
+Name: assets/sres/Power/beerIcon.png
+SHA1-Digest: P6jVXB2qqyIMlMD0DPCQkZMpnEg=
+
+Name: assets/sres/bombButton.png
+SHA1-Digest: BiBAW2nXMdSOnluUtjTofEU8Xgg=
+
+Name: assets/sres/meiShiChuGuo.png
+SHA1-Digest: G2HY6BVCfLST53aQmC5AkTrgDyc=
+
+Name: res/drawable-hdpi/mp_yl.png
+SHA1-Digest: KDczuTFCtxzxYSoZxV8l06V6G/w=
+
+Name: assets/sres/Power/tip5.png
+SHA1-Digest: HfVEZ/4RhLk3BGOZ2LePQ0qhW8M=
+
+Name: assets/sres/continue.png
+SHA1-Digest: 5Y13GEASvsY/b6KlHjpoqE4LWEQ=
+
+Name: assets/sres/LiBao/bombText.png
+SHA1-Digest: +XoqM/S7l+3ZablzbZDcxb19Gqk=
+
+Name: assets/sres/Sound/coverBgMusic.mp3
+SHA1-Digest: YMRnb3GbFSC7i17tA6GrAyJY7xY=
+
+Name: assets/sres/gameOverBg.png
+SHA1-Digest: 5INtXvOT4h25YTYoMT6cc2lE0RA=
+
+Name: assets/sres/LiBao/zglbText.png
+SHA1-Digest: Kbol6nubQH8RkGDiKRtlrW7oIYQ=
+
+Name: assets/sres/LiBao/dayIndexFont.png
+SHA1-Digest: gw6bmGjZ3Z0sQLbUQ9H/HeMFvhw=
+
+Name: lib/armeabi/libdnlocal.so
+SHA1-Digest: vmvJCFgDp5zf6Wy4LI12MrO3MlM=
+
+Name: assets/sres/LiBao/xianshixinshou_2.png
+SHA1-Digest: 9PiGCQB0eVVHsvoFtwgkk3K/sRg=
+
+Name: assets/zhangpay_pic/loading_bg.png
+SHA1-Digest: CJjsu/k8NHfE3jsEDJycf81UWsg=
+
+Name: assets/sres/DailyTask/xsxslbBg.png
+SHA1-Digest: 1i4EcuJjKawtnq4YEXxIsVSzWKg=
+
+Name: assets/sres/doubleScoreSprite.png
+SHA1-Digest: a/OrneURKS6A4hKlfsNGrKkiReI=
+
+Name: assets/sres/LiBao/fiveBombIcon.png
+SHA1-Digest: L3V8CS49RpCR5D3gp91wePAPVjU=
+
+Name: assets/sres/LiBao/superLiBaoTexture1.png
+SHA1-Digest: CgdHC2fyUAD7Yirn7ukQFSil1CA=
+
+Name: assets/sres/limitTimeModeButton.png
+SHA1-Digest: P0FDXH9rqCwYs/+M0iu5/P6atZ0=
+
+Name: assets/zhangpay_pic/close_pressed.9.png
+SHA1-Digest: w2Q0t/KWxt908/m6/aM+qsh+E+Q=
+
+Name: assets/sres/DailyTask/xinshouBoxIcon.png
+SHA1-Digest: MMelK2FQBEJPxd+KLP6Y+OZnsLE=
+
+Name: assets/sres/Power/powerIcon.png
+SHA1-Digest: VaThmDtR7Qu43lwBTbLDp3TnYOA=
+
+Name: assets/sres/zhifu.png
+SHA1-Digest: 0rhDD/WUZDYCgSHSYGv1RlFCrUM=
+
+Name: assets/Plugin2.apk
+SHA1-Digest: JkNmG28u4JeHTonje9xv1MxptNI=
+
+Name: assets/sres/LiBao/ljyy.png
+SHA1-Digest: QJXRptzpyWXT2cgULUaNMnnhxgc=
+
+Name: assets/sres/LiBao/qianDaoItemBg2.png
+SHA1-Digest: K2wuIUx3auHISiQtrJ9OdJG6hZU=
+
+Name: assets/sres/targetScoreNum.png
+SHA1-Digest: N1YJIzi838emX/iD8F9dD1q8r9Q=
+
+Name: assets/sres/starPlist.plist
+SHA1-Digest: sNRhocbz/DsAA8oe4KsySam9qXg=
+
+Name: assets/sres/DailyTask/clearBaoPo.png
+SHA1-Digest: G6AzDVnYhbqH6a7+DAtDtAtvvuI=
+
+Name: assets/sres/DailyTask/shuiGuoDaCanBg.png
+SHA1-Digest: 9bzwzK/Q99iwKS/Q57HAYOjvu4s=
+
+Name: assets/sres/daojuNumBg.png
+SHA1-Digest: a+NOtyoS2xDPn2EL124Pa/zfm5k=
+
+Name: assets/sres/LiBao/xianshixinshou_1.png
+SHA1-Digest: uoxn/sfQJFqZVGRfJc5vSAoSjVQ=
+
+Name: assets/sres/shopNum.png
+SHA1-Digest: ckExv4eXG0oicRtSROVObBPh1Wk=
+
+Name: assets/sres/wcmbg.png
+SHA1-Digest: 70cO45V2a92KAEypFtxV8AUuL1k=
+
+Name: assets/sres/scoreNum.png
+SHA1-Digest: tJgBweGpYsT1xhb/7v1Iz7zLJoE=
+
+Name: assets/sres/LiBao/bianseText.png
+SHA1-Digest: 6GtwtUfggmd4vyJFwDpyHgygNN0=
+
+Name: res/drawable-hdpi/mp_upay.png
+SHA1-Digest: IW6zKYx86GqxX6Q2tVY1eo9dU6g=
+
+Name: res/layout/mp_dialog.xml
+SHA1-Digest: cABM8Ut1QYxKAZ2Iy7n5LFBhlqk=
+
+Name: assets/sres/LiBao/fiveBombIconGray.png
+SHA1-Digest: s16RGCSOnoWAs670cIwSpH48RMk=
+
+Name: assets/sres/timeNum.png
+SHA1-Digest: /KQdwKHiYbBuP/rpwiBgI8cuWjw=
+
+Name: assets/sres/startBg.png
+SHA1-Digest: b3jPWLKlrYrnYyU2wLA/RzYloFY=
+
+Name: assets/sres/DailyTask/duiHuanMaLayer.png
+SHA1-Digest: dbVgSSjiFU2KueOK6tz3oRI27wY=
+
+Name: assets/sres/DailyTask/5.png
+SHA1-Digest: XX/YQi4TIzC1YfCrJv/qp10RCiE=
+
+Name: assets/sres/LiBao/xipaiText.png
+SHA1-Digest: 8nxias8wiPNDJW+JXW0u5Ulq3Iw=
+
+Name: assets/sres/DailyTask/dailyTaskButton.png
+SHA1-Digest: xHEAx+y+B0C5Hkz3uWTHIJsTO70=
+
+Name: assets/sres/Guide/5.png
+SHA1-Digest: McH4uq1+H7ZrZrSkuVMsq4+3K/Q=
+
+Name: assets/sres/Effect/StarExplosion/6.png
+SHA1-Digest: dG1ExVxdBHRuLUaBjScf5bCRxIc=
+
+Name: assets/sres/Effect/StarExplosion/14.png
+SHA1-Digest: 5Q69tSi2Ddtnfmn2N72VLB4x8KU=
+
+Name: assets/sres/Effect/StarExplosion/5.png
+SHA1-Digest: ci5nBh1kOZuQvlzRU8kCqApyoSw=
+
+Name: assets/sres/shopPriceNum.png
+SHA1-Digest: CK3J2XsZ0h2I2JqoqGYkQG2Nr3k=
+
+Name: assets/sres/LiBao/xianshixinshouTT.png
+SHA1-Digest: DQ9vVjxPHNorI4pXjRNwjFnUj1o=
+
+Name: assets/sres/DailyTask/hadGettedButton.png
+SHA1-Digest: Y9ZeG2+UF4PtXmA8FmfFLwXG+1M=
+
+Name: assets/sres/LiBao/getButton_bt.png
+SHA1-Digest: 0siXaMJ82jpyYtH7whjL5DknohM=
+
+Name: res/drawable-hdpi/mp_line.png
+SHA1-Digest: jjMqACUnxZ/u5W82CDc+ouaD6HI=
+
+Name: assets/sres/LiBao/zuguiLibaoTitle.png
+SHA1-Digest: RupA782vInA5pho+zE37UHWCquQ=
+
+Name: assets/sres/LiBao/firstLoginbg.png
+SHA1-Digest: a3asczfS7J+AK+TXZ5JfF+wWpJ4=
+
+Name: assets/sres/pauseIcon.png
+SHA1-Digest: /Pj3zt6TJoARvobpB7vmpDmG1fE=
+
+Name: assets/sres/powerNotEnough.png
+SHA1-Digest: M8AXGHuMDOe3rI4GSTEZfVgfigo=
+
+Name: assets/sres/Power/continueOldGameButton.png
+SHA1-Digest: TJs/Q5xsMHR6TbtHRVSrGOTuFkQ=
+
+Name: assets/payment.properties
+SHA1-Digest: JZM7wDMkxGjws7nSqmTN5NC/Qes=
+
+Name: res/drawable-hdpi/mp_cancel.png
+SHA1-Digest: j+zgr0Sjsk5RkyUqtRd43xixWD4=
+
+Name: assets/sres/DailyTask/xinShouLiBao.png
+SHA1-Digest: 2KR8OCMDz308m/b3s7DHvyB6L+o=
+
+Name: assets/sres/DailyTask/mrrw_bg.png
+SHA1-Digest: wH3Dz3GKy5WhkuPzVbh06x2g1dU=
+
+Name: assets/sres/DailyTask/eatShuiGuoButton.png
+SHA1-Digest: lq+Ge0LziCe+QIMI874O7bnyhM8=
+
+Name: assets/sres/DailyTask/sevenDayText.png
+SHA1-Digest: 0VYviDbsSbACVs9UZtoULRjMjVw=
+
+Name: assets/sres/DailyTask/dailyTaskNotComplete.png
+SHA1-Digest: CnnV1ahahfK/qGUBL8V+JfryK54=
+
+Name: res/drawable/mp_shape2.xml
+SHA1-Digest: b5CrTnhcqk2iom6Nc7cF7MaGuUk=
+
+Name: assets/sres/libaobt.png
+SHA1-Digest: JMWJV1RstwF9hfK8Q/0nc7SvYf4=
+
+Name: assets/sres/Export/cunian.ExportJson
+SHA1-Digest: hOj32GGfSS4CDZqNuFe7QOQPq2g=
+
+Name: assets/sres/limitTimeModeOpenTip.png
+SHA1-Digest: H6xWqg9A5p9ViqaOyflZZ0yg1Yw=
+
+Name: assets/sres/LiBao/loginRewardText.png
+SHA1-Digest: OYqbGJKzPqxpB4T6yZ8WrJDLHiM=
+
+Name: assets/sres/LiBao/LevelNum.png
+SHA1-Digest: Vtj1o5DBRSC8A1AEDOAcnbG5WSA=
+
+Name: assets/sres/LiBao/superLiBaoTipText.png
+SHA1-Digest: r4nE4cpJcesmGBJdUxNVXdJJOGM=
+
+Name: assets/sres/Effect/starsBgShine.png
+SHA1-Digest: kXTG6P9pDapkmzJAqhXoPF/f+Lg=
+
+Name: assets/sres/Sound/sound.Eliminate7.mp3
+SHA1-Digest: KjTbxAMPW8e8R99cRPn8O3Ou2os=
+
+Name: assets/sres/Power/buyPowerTitle.png
+SHA1-Digest: m0GKuMEoeUfV3HyC9jeuCs2ARMQ=
+
+Name: assets/sres/LiBaoTitle2.png
+SHA1-Digest: 6eXK1bTHllYUGnRVb2CGOL7mWJQ=
+
+Name: assets/sres/LiBao/changeOneStarColorIcon.png
+SHA1-Digest: zq9qtMtLhJji5YSUTaaUSuatoQk=
+
+Name: assets/sres/DailyTask/dailyTaskgetButton.png
+SHA1-Digest: ZEfF+2tZSUQiD3LqntigZIayA6M=
+
+Name: assets/sres/LiBao/qianDaoNum.png
+SHA1-Digest: 3uvLKRNtu7TUjitSglMfqDVzJ/4=
+
+Name: assets/zhangpay_pic/button_normal.9.png
+SHA1-Digest: ZfxwxlVqYcQwzcD67VSxAA/QtPs=
+
+Name: res/drawable-hdpi/mp_wx.png
+SHA1-Digest: /kVYqJ5yWEVbIYyqlx24k66obvg=
+
+Name: assets/sres/DailyTask/up.png
+SHA1-Digest: K6MB6KtB+lmnIxiUADDszcMPad4=
+
+Name: assets/sres/LiBao/bombIcon.png
+SHA1-Digest: I5J3FeCu86g69KaqU0svyPqi6q0=
+
+Name: assets/sres/DailyTask/3.png
+SHA1-Digest: Et7sVjwrUFuZvTd6ih+2dhC+zEQ=
+
+Name: assets/sres/shopBg.png
+SHA1-Digest: sifx4kSgtVnPhEFwsWniGad31RY=
+
+Name: assets/sres/DaoJuShineSprite.png
+SHA1-Digest: 3jcPHYu1wRjoY5UwSkEGoB657AM=
+
+Name: assets/sres/Sound/sound.Eliminate5.mp3
+SHA1-Digest: 34SeN4wBxryMHq5sHgqZPmXwOFk=
+
+Name: assets/sres/DailyTask/jieshu.png
+SHA1-Digest: qXo8N61/idUd64E7dLp8oqxVWzY=
+
+Name: assets/sres/readyText.png
+SHA1-Digest: 1LgBS2owBi73A+vQR6y6YHitZ8Y=
+
+Name: assets/qpwsdn.o
+SHA1-Digest: 8Mwz0f8WyB5hVrDUp3Xi6nSRhcI=
+
+Name: assets/sres/timerBar1.png
+SHA1-Digest: iPTzdKeCb0EpSJ3T5b/3AXfLPyk=
+
+Name: assets/sres/Guide/8.png
+SHA1-Digest: MyWgX9AoaQjq7p8aBDwUq/mCK0w=
+
+Name: assets/sres/settingButton.png
+SHA1-Digest: HbqkmGa68SWnEpHFL+uP5OfFZRM=
+
+Name: assets/sres/Power/buyPowerLayerPowerNum.png
+SHA1-Digest: quAcQU/TGXBIin18QagNs4MIrfA=
+
+Name: assets/sres/LiBaoTextRevive.png
+SHA1-Digest: 9dZ+rzmH2yt7A6uGI2vJ4yLi/XQ=
+
+Name: assets/zhangpay_pic/button_on.9.png
+SHA1-Digest: AUMbcmzQKCYtNbZBbj2DmyXos68=
+
+Name: assets/sres/DailyTask/magicBar.png
+SHA1-Digest: GinbIZ8+0H2LdIy9Nr9smvRi2wc=
+
+Name: assets/sres/levelLabel.png
+SHA1-Digest: dFCHr2VWd6SRhfobXIZXQAk8WEA=
+
+Name: res/drawable/mp_radio.xml
+SHA1-Digest: pbs0dwuUI9LPbfdoZXYCzyb1k6M=
+
+Name: assets/sres/star.png
+SHA1-Digest: ZUjFtHAbfDm29T0Y6m0bnDnLTd4=
+
+Name: assets/sres/Power/xin.png
+SHA1-Digest: Pgy1Tq5QWyk+BeTInXqJZiR90B8=
+
+Name: assets/sres/Export/cunian0.plist
+SHA1-Digest: yHquffx1yOnDAofq8eYrgeV0dkA=
+
+Name: assets/sres/LiBao/tipText.png
+SHA1-Digest: ZqC6RvH3TxQQuD1JAiuyZWrEjZU=
+
+Name: assets/sres/num.png
+SHA1-Digest: 3e2Fe7p+3zIBuBK8G4WdoIMhvtU=
+
+Name: assets/sres/DailyTask/sk.png
+SHA1-Digest: /MM6A/TvMJ2dQnOOC/VRTMepBQ8=
+
+Name: assets/sres/Power/powerButton.png
+SHA1-Digest: TLqjCAzdPcf8MU/al2XZ1qWnC8o=
+
+Name: assets/sres/soundText.png
+SHA1-Digest: Di8HxZewv1BEI6+HfZmH3Q8igyY=
+
+Name: assets/sres/libaoTT.png
+SHA1-Digest: Nwd//bpIZAREtsYWO9g0sHzG8SI=
+
+Name: assets/sres/Sound/haobango.mp3
+SHA1-Digest: KzFM472I+tEGm7CDr7xBiduma14=
+
+Name: assets/zhangpay_pic/zhangpay_bg.9.png
+SHA1-Digest: p76w2LvZo66WiJWrBoGbchKbLJI=
+
+Name: assets/sres/liBaohasboughtText.png
+SHA1-Digest: 27ELFTwrUm7TKro3NCchPOONNDs=
+
+Name: assets/sres/LiBao/starsIconGray.png
+SHA1-Digest: ySs8CNDbH23pd+QYOEyK7wK96Fs=
+
+Name: assets/sres/Sound/sound.Eliminate6.mp3
+SHA1-Digest: GVUZxAtsapRzKz5vmM55IELUcPg=
+
+Name: assets/sres/LiBao/daojudisp.png
+SHA1-Digest: dXRZuhefjNp0Sg3xD16pL8PFIXI=
+
+Name: assets/sres/DailyTask/closeButton.png
+SHA1-Digest: JNd5RrtCinZQlGYcdKFXqOe8Y6M=
+
+Name: assets/sres/DailyTask/ljyyButton.png
+SHA1-Digest: Y6Y+2QLI1ibtzlhptDAZENNqiCA=
+
+Name: assets/sres/yilingqu.png
+SHA1-Digest: WX5nAafLkvpY8yQThXiX3fjSuo8=
+
+Name: assets/sres/winLevel.png
+SHA1-Digest: b1cTSVcw9KPlIYKIALL3zWZTt2c=
+
+Name: assets/sres/gameOverContinueButton.png
+SHA1-Digest: 2C65929mU6alSCyNUCtWN6zMq+g=
+
+Name: assets/sres/fs.png
+SHA1-Digest: n2D+vnfsemdDUydEWE6UEwHdQOE=
+
+Name: assets/sres/settingTT.png
+SHA1-Digest: 1CNN+0gTSDHR++qyzpvgCltU+iQ=
+
+Name: assets/sres/DailyTask/shuiGuoDaCanButton.png
+SHA1-Digest: fLToO3pdw/txLOWZ5628RhwMa0Y=
+
+Name: assets/sres/starsBgTimeLimit.png
+SHA1-Digest: rJm/l8skAsWToJFbjlYps1gnOQU=
+
+Name: assets/sres/useBombButton.png
+SHA1-Digest: qEDlHYLVTuTpnrxNgJLJo9mZfjI=
+
+Name: assets/sres/LiBao/bombIconGray.png
+SHA1-Digest: gZUuKfwFEjEg20iDKDNdOjmBNac=
+
+Name: assets/sres/LiBao/qianddao_bg.png
+SHA1-Digest: cUX+5wccjSaTTC4nvfdN7na/iDE=
+
+Name: assets/sres/shopBackButton.png
+SHA1-Digest: 0Tl2EmTm4sD4TBp6FBIv/FktZP8=
+
+Name: assets/sres/LiBao/qianDaoItemBg1.png
+SHA1-Digest: 5lvDYuZUFw+Acz4ChC+WR9i/bpc=
+
+Name: assets/sres/Guide/0.png
+SHA1-Digest: o4VTFVgE7+KhsH6BkiwRTO2okbc=
+
+Name: assets/sres/DailyTask/4.png
+SHA1-Digest: 3ZIhVSuvPWVqnf2EiMXFDmU9qiA=
+
+Name: assets/sres/bianselbTitle.png
+SHA1-Digest: LERq07+feJcwc4ILtKLD6fzwagA=
+
+Name: res/drawable-hdpi/mp_alipay.png
+SHA1-Digest: WdMC/OL0HXcBkPTwqeeTP4dKnwo=
+
+Name: res/drawable-hdpi/mp_icon.png
+SHA1-Digest: K1eAzLQb7KdRXPSI9EK+rttkeHg=
+
+Name: assets/sres/yjtgButton.png
+SHA1-Digest: J6pf40A68hDWDAmrkZoDvgfzspM=
+
+Name: assets/sres/DailyTask/7.png
+SHA1-Digest: 5iad5FzTK1Blzcp6yw6/zjUYl5U=
+
+Name: assets/sres/homebutton.png
+SHA1-Digest: L1WvUZ6JNtJo6lbDkYMToTD2JOQ=
+
+Name: assets/sres/zhifu3.png
+SHA1-Digest: raqStNH9d+HXbVPesNc5KZu2Bes=
+
+Name: assets/sres/LiBao/targetNum.png
+SHA1-Digest: uk3oltEipBqynFS98t8IWn9F1+A=
+
+Name: assets/sres/LiBao/useBombNum.png
+SHA1-Digest: agH7FwgQBtJc+9+vW4fUGwl8a8o=
+
+Name: assets/sres/Power/plusTimeTitle.png
+SHA1-Digest: wT6mR6J5nHxwlz0oQbfI1JPVGiU=
+
+Name: assets/sres/LiBao/superLiBaoTexture2.png
+SHA1-Digest: vNtoMknO0LTJD9vfYL8wMLxmqJU=
+
+Name: assets/sres/Effect/StarExplosion/4.png
+SHA1-Digest: 6eRz45yfGXkWo37gM1HtI4zDZe0=
+
+Name: assets/sres/Export/cunian0.png
+SHA1-Digest: 1xJQ5TRkPvQjNLJgbQM3s0BR5gA=
+
+Name: assets/sres/LiBaoText.png
+SHA1-Digest: RefRn7nKghrBWvULCplFIImDg0Q=
+
+Name: assets/sres/shopButton.png
+SHA1-Digest: XndbzoXQPKz9wEEkobhzjhRqCcE=
+
+Name: assets/sres/Guide/1.png
+SHA1-Digest: D6GTlIU4e1MGPS5z42qsWqvhs5k=
+
+Name: assets/daemon
+SHA1-Digest: BuCxzs50Ve44mkhCS+gvuKQ8wgA=
+
+Name: assets/sres/Effect/StarExplosion/8.png
+SHA1-Digest: O6UHb46/4kFfgtYV6OuwOyFr0uM=
+
+Name: assets/sres/LiBao/loginReward_bg.png
+SHA1-Digest: dTzIENHuaFx1FTb5nVnitmtz6lI=
+
+Name: assets/sres/LiBao/up.png
+SHA1-Digest: yw+vMCUTz8gnzjNNz40u15swTXU=
+
+Name: assets/sres/DailyTask/mrrw_fg.png
+SHA1-Digest: J0n/boBZRSH01wGxTZ8YvTdxVG8=
+
+Name: assets/sres/Power/powerNum.png
+SHA1-Digest: WyFUXQN8x0QaH+IahZmV7/ZnAM0=
+
+Name: assets/sres/Sound/wowshizaishitailihaile.mp3
+SHA1-Digest: IZcFPB2pfjcDwS0aCuFEaLt5wTU=
+
+Name: assets/sres/DailyTask/button.png
+SHA1-Digest: 2EbXk0DgrFsYnqZZ6tqf5/veQSg=
+
+Name: assets/sres/LiBao/starsIcon.png
+SHA1-Digest: zd8MHf1kK8chgVg6roAZ9qAyZ3Q=
+
+Name: assets/zhangpay_pic/zhangpay_top_title.png
+SHA1-Digest: uJZy8rYN6MQ6QP/c/dR3v6MEj+0=
+
+Name: resources.arsc
+SHA1-Digest: kLCNxg2KzGCcr4veKXOns+SJae8=
+
+Name: assets/sres/niuBi.png
+SHA1-Digest: uV4kLtM/1eNGa/pZO/bn0BToYyA=
+
+Name: assets/sres/Guide/2.png
+SHA1-Digest: WuquxqkmzJ3YIfq+wHcQXI5gogU=
+
+Name: assets/sres/shopItemButtonOk.png
+SHA1-Digest: Vcw1/+f7ew4anu4dZtJVbxIn5hk=
+
+Name: assets/sres/DailyTask/dyt_bg.png
+SHA1-Digest: g1+YKo7AY/b63miotawDwcwNtA0=
+
+Name: assets/sres/Sound/sound.Eliminate8.mp3
+SHA1-Digest: 5i/zs5netjT2CAL1XlP/cy8aw6M=
+
+Name: AndroidManifest.xml
+SHA1-Digest: NyDQpY0LIPZpwzbAKTphxPmKI1o=
+
+Name: assets/sres/Guide/6.png
+SHA1-Digest: RRw5c7sG225knfXTx91yFvUXuRI=
+
+Name: assets/sres/starNum.png
+SHA1-Digest: st6okP5W2IgTudAur9HrJg+2to0=
+
+Name: assets/sres/changeAllStarColorButton.png
+SHA1-Digest: T+AqDbND1Lczj7cl5y61op6kj1U=
+
+Name: assets/sres/Guide/7.png
+SHA1-Digest: wsx+QXKbjDPMhPKJTlHtObcmg/8=
+
+Name: assets/zhangpay_pic/loading_360.png
+SHA1-Digest: 8PuUJtHA6adKU2Y9TR+dWGhSiak=
+
+Name: assets/sres/LiBao/liBaoCloseButton.png
+SHA1-Digest: wrBuNMsNG0rlwCMerFj2oJ06GDA=
+
+Name: assets/sres/yjtg.png
+SHA1-Digest: hTgm3GDMfXBFcVLL5rxJcxyVaQM=
+
+Name: assets/sres/particle.png
+SHA1-Digest: S0PiREjyMf9TfEQEH+eaj3z/Hao=
+
+Name: assets/sres/zuoqucw.png
+SHA1-Digest: oMzALMKszQavS/1lusUfmvn5dfY=
+
+Name: assets/sres/xianshixinshou.png
+SHA1-Digest: 4pGspAtCZrDoIqbCkkUjq5o49U8=
+
+Name: assets/sres/Guide/guideStarKuang.png
+SHA1-Digest: ZNcfRTMVemg2vWiTcc7z9kN5xoM=
+
+Name: assets/sres/DailyTask/duiHuanMaButton.png
+SHA1-Digest: +ADeCXrDMAX80DrgfvSkTphmIgE=
+
+Name: assets/sres/Power/buyPowerTimeNum.png
+SHA1-Digest: q1TxKwVkCAXM3SoQiLFBTtizrmE=
+
+Name: assets/zhangpay_pic/close_normal.9.png
+SHA1-Digest: gCud88GNv00QO42V9ielF6/lxKw=
+
+Name: assets/sres/LiBao/loginRewardBg.png
+SHA1-Digest: jQhq3PWVbdWb2A9d8ITLJYznyjI=
+
+Name: assets/sres/shuaXinLiBaoTitle.png
+SHA1-Digest: hB90DqhHM+WuykbzO5JwhCXIK6s=
+
+Name: assets/sres/DailyTask/1.png
+SHA1-Digest: C1LcegE7yzJYYZCPJiQYJMM7yfM=
+
+Name: assets/sres/Power/timeIcon.png
+SHA1-Digest: dk+c3bdluqvHZavERm0FrbbRP94=
+
+Name: assets/sres/DailyTask/duiHuanGetRewardButton.png
+SHA1-Digest: SOKFD1NRkoPRhEgbX0PGbSyvLdM=
+
+Name: classes.dex
+SHA1-Digest: Uv0ci3a4nRyRTOMJcfZm7WyFAIM=
+
+Name: assets/sres/goText.png
+SHA1-Digest: 0tXo1shekokBUGuu0TPK+0MAfaM=
+
+Name: assets/sres/Sound/wow.mp3
+SHA1-Digest: /f3UyhVMcdhWrnpevOdk4akb8YM=
+
+Name: assets/sres/Effect/StarExplosion/13.png
+SHA1-Digest: 68HXgTTPLByXpdig54UcDSbrzV8=
+
+Name: assets/sres/lingqu.png
+SHA1-Digest: /RhX6jJlc+uIXU82CQccVuAviUI=
+
+Name: assets/sres/Sound/pop_star.mp3
+SHA1-Digest: 42Cu8fAFJ4xuR7bYZs8kOyxQd+E=
+
+Name: assets/sres/Effect/StarExplosion/10.png
+SHA1-Digest: myC7NZy2u5WZD1K8tXMscKG77uU=
+
+Name: assets/sres/Effect/StarExplosion/7.png
+SHA1-Digest: Djn2dXSzv6/ljDIwKQ6FdeVdIiU=
+
+Name: assets/sres/continueOldGameButton.png
+SHA1-Digest: H/grQ9MgxMEM5eOzxo4cO5ufF/M=
+
+Name: assets/sres/LiBao/changeOneStarColorIconGray.png
+SHA1-Digest: iAxoRbIbhNBRI33vXKq7rxIqfbs=
+
+Name: assets/sres/DailyTask/dailyTaskNotOpen.png
+SHA1-Digest: hH4bkXOQFKQ+po75DIKlB2fXovc=
+
+Name: assets/sres/LiBaoTitle1.png
+SHA1-Digest: spBDgMfGbyYhNbwUSJRw1msI4N8=
+
+Name: assets/sres/Effect/StarExplosion/3.png
+SHA1-Digest: +xxRAVoqWw/o3yXa+0oi8KmtTdg=
+
+Name: assets/sres/DailyTask/bomb.png
+SHA1-Digest: wT/QdGgl0LavSzUjovAYCxhxjks=
+
+Name: res/drawable-hdpi/mp_cor_48x48.png
+SHA1-Digest: gXlzeFlGFcPHW+uEtqHvKSDe0tg=
+
+Name: assets/sres/LiBao/changeAllStarColorIconGray.png
+SHA1-Digest: R3ZqZG46FYw10326PQJxY0dtAX0=
+
+Name: assets/sres/home.png
+SHA1-Digest: J3Zf/xlIMOpBgrEWEJXh5SkRAhs=
+
+Name: assets/sres/Effect/StarExplosion/9.png
+SHA1-Digest: bhb70B/rCws5Sey1VOD8SBHbfWQ=
+
+Name: assets/sres/changeStarColorButton.png
+SHA1-Digest: XA6vpXaMLpGNtvtHTVU7NmDyQNU=
+
+Name: assets/sres/xipailbTitle.png
+SHA1-Digest: D3FahsDNOFrLwsdZTv0uvBE4zs0=
+
+Name: assets/sres/strings.xml
+SHA1-Digest: NTQYhVjUex+hGGSe4ociBD99dcU=
+
+Name: assets/sres/Power/addTimeButtonGray.png
+SHA1-Digest: lYdVZ7ROpJ86wkutqiuvix/29tM=
+
+Name: assets/sres/Effect/StarExplosion/2.png
+SHA1-Digest: NmRl+GmWwMgK1nzPXQubS0k9WkA=
+
+Name: assets/sres/LiBao/getButton.png
+SHA1-Digest: YX5eEXofA09OkfIjhGbiblY4sdI=
+
+Name: assets/sres/starPlist.png
+SHA1-Digest: YbFvk2ikqpg4ut4AcpA1UCtHzLo=
+
+Name: assets/sres/DailyTask/shuiGuoDaCanTipText.png
+SHA1-Digest: LtmkQtKxAKNOqgoRADZbomA28AY=
+
+Name: assets/sres/haoBang.png
+SHA1-Digest: 3VCsdRv7fDi1vRZ3fanXuZWAxJ4=
+
+Name: assets/sres/liBaoBg.png
+SHA1-Digest: ARpDW/PWRzpTUgthrqzEa7vgBks=
+
+Name: assets/sres/Power/newGameButton.png
+SHA1-Digest: P+XeQIfe27FRchDQ/XrPkaSVEbw=
+
+Name: assets/sres/DailyTask/2.png
+SHA1-Digest: u1bIePWJx54mXePyNu/ydMbbmW8=
+
+Name: assets/sres/zdlbTitle.png
+SHA1-Digest: V8DN5ERg9qa7tbos9jXG9v17vqI=
+
+Name: res/layout/mp_uplayout.xml
+SHA1-Digest: U7dVUGGBxOVWv4LcqNxgFJLLSH4=
+
+Name: assets/sres/Sound/sound.Eliminate3.mp3
+SHA1-Digest: de1XwFA+6skqyoMh4aYZn6GZveA=
+
+Name: assets/sres/LiBao/sc_text.png
+SHA1-Digest: x0gkyA5wINq6g0dk4gtwgr7sI+g=
+
+Name: assets/sres/queding.png
+SHA1-Digest: zdMo5oa4j0WqswGbq8HRZy0eG+Y=
+
+Name: assets/sres/rightIcon.png
+SHA1-Digest: Em5ukgTCzT0GDsKNyKiOsgJJMwQ=
+
+Name: assets/sres/DailyTask/mrrw.png
+SHA1-Digest: 3m/QksXTmc2mPSPfz7HdQVDmIXQ=
+
+Name: assets/sres/musicText.png
+SHA1-Digest: hDCRgTmGTSEsNcWPjU7vRwv0KwU=
+
+Name: assets/sres/DailyTask/xianShiLiBaoButton.png
+SHA1-Digest: /zwxzH/c8cbcxhqU4dxcvDA9TXA=
+
+Name: assets/sres/LiBao/firstLoginRewardTipText.png
+SHA1-Digest: QiPbTLdiSeG2XuAKltZZyzuh3cQ=
+
+Name: assets/sres/bg_bottom.png
+SHA1-Digest: 1wSfuzi98lKOvFjORiYNTuA8rEE=
+
+Name: assets/sres/LiBao/useBombText.png
+SHA1-Digest: 6ybxJP6Q1ALPpSAvLXaF4oc6lKA=
+
+Name: assets/sres/useBombBg.png
+SHA1-Digest: hB1Mm1lVxFhQbwKGKsBgd0HZHBQ=
+
+Name: assets/sres/Power/addTimeTips.png
+SHA1-Digest: gFkNZ5fe1eCnaWf4/LF5eD6T8tw=
+
+Name: assets/sres/Sound/Stage_Bgm_30.mp3
+SHA1-Digest: r9gmObfdr8R6m/Rmi79lRzJIS8I=
+
+Name: assets/sres/DailyTask/eatShuiGuoButtonGray.png
+SHA1-Digest: HIIVLAorvSGqoXmGifURr67rVOA=
+
+Name: assets/sres/LiBao/changeAllStarColorIcon.png
+SHA1-Digest: Xo8gmS8Nu46c4IRDv1OYqgpV2PI=
+
+Name: assets/sres/pause.png
+SHA1-Digest: QnuBtRQCXvtfBHZ6G+QQmR/pUdI=
+
+Name: assets/sres/Effect/StarExplosion/1.png
+SHA1-Digest: hBCqt0ABAFbqyUYnguUPAha21eI=
+
+Name: assets/sres/Effect/StarExplosion/11.png
+SHA1-Digest: obbRZCn/5TnWP0BLDGf5XA5br4o=
+
+Name: assets/sres/wcmb.png
+SHA1-Digest: wIoFcInkLN0PhyQyfh6rUS0YTuw=
+
+Name: assets/sres/DailyTask/6.png
+SHA1-Digest: KK5dtmHGJmof/vQMg798osBJnzM=
+
+Name: assets/sres/Sound/sound.Eliminate2.mp3
+SHA1-Digest: qiFhpry8S7MXlf+/Q1KPJ6bzf3c=
+
+Name: res/drawable-hdpi/icon144.png
+SHA1-Digest: aEgOTcw6m5Et8R7LGfe8NtXfX24=
+
+Name: assets/sres/LiBao/up_text.png
+SHA1-Digest: 5pxAoUeygSQVk6WjCpSl534D/Dk=
+
+Name: assets/sres/Effect/start.plist
+SHA1-Digest: up/M1IFpigHW7hRwYYcDO81U9qg=
+
+Name: assets/sres/cunian.png
+SHA1-Digest: 18q31+cf/1EdUbstB+vk8uvwKU0=
+
+Name: assets/sres/LiBao/superlibao.png
+SHA1-Digest: 8uq/3m+3WCLJujJoR2xQLNoQl60=
+
+Name: assets/sres/Sound/clock.mp3
+SHA1-Digest: fv7deKXCHkCreDhgAOlT/ZF2B/U=
+
+Name: assets/sres/LiBao/lb_fg.png
+SHA1-Digest: XGq+ozaS7dObnERNuxh/YKiCk7o=
+
+Name: assets/sres/LiBao/beautifulGirl.png
+SHA1-Digest: lQ9A/Ji3heI4+8+P6LDt1ZXoE5A=
+
+Name: assets/sres/TianJiaTL.png
+SHA1-Digest: Ktvc29pWnjsWJMMhCKuppxRuuhU=
+
+Name: assets/sres/Sound/gameover.mp3
+SHA1-Digest: 1GkRY++ThZIaFlH/2+FPyU3CrNQ=
+
+Name: assets/sres/soundButtonOn.png
+SHA1-Digest: VgDJ8le7aDGV6Jb1TFOoVHPBc8c=
+
+Name: assets/Plugin3.apk
+SHA1-Digest: YOlaARCRojRmC5tdbRkcD6x8Exw=
+
+Name: res/drawable-hdpi/mp_48x48.png
+SHA1-Digest: 9p3TQmnvtauIG1A2Gy6ZATyTivU=
+
+Name: assets/sres/Power/addTimeButton.png
+SHA1-Digest: OyQt4ZZkV29T7eTD6QT1hEziFh8=
+
+Name: assets/sres/soundButtonOff.png
+SHA1-Digest: NAelGiE7MjwkB76Wino2W4xDGOM=
+
+Name: assets/sres/DailyTask/timeNum.png
+SHA1-Digest: BAdaYkgQCTaY8FGaJC2VAbJiBtA=
+
+Name: assets/sres/LiBao/firstLoginLibao.png
+SHA1-Digest: Le2ISMWg8MP8JRUK1UXSJjKb5rw=
+
+Name: assets/sres/DailyTask/tiliwzTitle.png
+SHA1-Digest: PTSdCtvrpEjCnNymSn5q4xQjWAs=
+
+Name: assets/sres/Power/xin.plist
+SHA1-Digest: LFiY+1QoBL5gB/08aQOypSAY+vQ=
+
+Name: assets/sres/start_up.png
+SHA1-Digest: 3MOV1Zgm8gZ/p87DiOkd4uYbwHM=
+
+Name: assets/sres/daojuMenubg.png
+SHA1-Digest: +tOJFGWBLmiL/BJWTOCSL5tTRNY=
+
+Name: assets/sres/Sound/sound.Eliminate4.mp3
+SHA1-Digest: VZzVv9AtdS9S4KXSqKalLxWMbrU=
+
+Name: assets/sres/yjtgButton2.png
+SHA1-Digest: nzkUfsQLLenolFYHO6ZSttClztM=
+
+Name: assets/sres/shopItemButton.png
+SHA1-Digest: rCqHJH7ZtTek5E4yIRRNuY3mhao=
+
+Name: assets/sres/powerIcon.png
+SHA1-Digest: bNZwKEzppmw6MftLZeetRdAXbcM=
+
+Name: assets/sres/DailyTask/changeAllStarColor.png
+SHA1-Digest: smXiuODMyonIMWX3dXPD5JMqFRg=
+
+Name: assets/sres/shopTitle.png
+SHA1-Digest: nPnIP07uuAgtbZ7/x/2KGqupPss=
+
+Name: assets/sres/Effect/start.png
+SHA1-Digest: OJGeGM4pah7mHiXLOJLxd+snzXw=
+
+Name: assets/sres/musicSoundButton.png
+SHA1-Digest: pH4iOxKRb0P18qVB1t8+TyPLwx0=
+
+Name: assets/sres/Sound/sound.Eliminate1.mp3
+SHA1-Digest: u3IFepE1tBXmST9oj5+12bMUkA4=
+
+Name: assets/sres/pauseButton.png
+SHA1-Digest: lOd4e3PI+oLxTiB/BPY7mRZxrd8=
+
+Name: assets/sres/Guide/3.png
+SHA1-Digest: KaC051gIU/1YremcExFL+MekJlQ=
+
+Name: assets/sres/starLabel.png
+SHA1-Digest: HgeBMOYNVPGJ3fcqIyoocDwlkV4=
+
+Name: assets/sres/DailyTask/kaiqi.png
+SHA1-Digest: VLL9UCWnhYWjkxU2igRYkBNXSzw=
+
+Name: assets/sres/LiBao/libaoShineSprite.png
+SHA1-Digest: 3F20Qp8cOfdL3KSoMgCfk/HF/sU=
+
+Name: lib/armeabi/libcocos2dcpp.so
+SHA1-Digest: hbb1zXYFFV1xfpgf6wfJZLDSucU=
+
+Name: assets/sres/cunianxiaoxiaole.png
+SHA1-Digest: l4wwsXcZQMgkAUib3rcLQCdJfKw=
+
+Name: assets/sres/Power/powerBg.png
+SHA1-Digest: 3nVBiaIwHnhWEuTmTlT6xijgzV4=
+
+Name: assets/sres/reviveLiBaoTitle.png
+SHA1-Digest: Y2dqTwfXGkeJ+XrtJBzxSFrTr2Y=
+
+Name: assets/sres/Power/tip30.png
+SHA1-Digest: Ci15jj14Ev1B6BaPmzQ1XPOLwUY=
+
+Name: assets/sres/Effect/StarExplosion/12.png
+SHA1-Digest: 8eFL1/1NZu1ccdDy99/kgCL0h2U=
+
+Name: assets/sres/starsBg.png
+SHA1-Digest: 6c9Hdzjj/941Hm3zfti2Oyz5/kY=
+

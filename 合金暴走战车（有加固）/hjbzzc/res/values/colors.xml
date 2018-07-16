@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent_background">#00ffffff</color>
+    <color name="dialog_transparent_background">@android:color/transparent</color>
+    <color name="green">#ff00ff00</color>
+    <color name="input_title">#ff484848</color>
+    <color name="input_hint">#ff282828</color>
+    <color name="input_edit_hint">#ffbbcbd8</color>
+    <color name="input_edit_content">#ff5b6e7c</color>
+    <color name="user_hint">#ff29323b</color>
+    <color name="tab_font">#ff086dba</color>
+    <color name="query_list_even_bg">#ffe8e8e8</color>
+    <color name="query_list_odd_bg">#ffe6eff6</color>
+    <color name="query_list_item_1">#ff29323b</color>
+    <color name="query_list_item_2">#ff5b6e7c</color>
+    <color name="query_list_item_3">#ff5b6e7c</color>
+    <color name="query_list_item_4">#ffec5b29</color>
+    <color name="back_button_normal">#ffffffff</color>
+    <color name="back_button_shadow_normal">#ff359fff</color>
+    <color name="back_button_focus">#fffbd893</color>
+    <color name="back_button_shadow_focus">#ff359fff</color>
+    <color name="lt_transparent_background">#00ffffff</color>
+</resources>

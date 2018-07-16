@@ -1,0 +1,37 @@
+[
+    {
+        "level": 0,
+        "life": 200,
+        "minpower": 10,
+        "maxpower": 18,
+        "maingunpower": 50
+    },
+    {
+        "level": 1,
+        "life": 300,
+        "minpower": 20,
+        "maxpower": 28,
+        "maingunpower": 80
+    },
+    {
+        "level": 2,
+        "life": 500,
+        "minpower": 30,
+        "maxpower": 38,
+        "maingunpower": 120
+    },
+    {
+        "level": 3,
+        "life": 800,
+        "minpower": 40,
+        "maxpower": 48,
+        "maingunpower": 150
+    },
+    {
+        "level": 4,
+        "life": 1000,
+        "minpower": 50,
+        "maxpower": 58,
+        "maingunpower": 200
+    }
+]

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version = "1.0">
+<dict>
+<key>Hammer</key>
+<string>选择要变成的颜色</string>
+<key>bomb</key>
+<string>选择3x3方块的中心</string>
+<key>JumpChapter</key>
+<string>选择颜色</string>
+<key>labelTip</key>
+<string>  连消    分</string>
+</dict>
+</plist>

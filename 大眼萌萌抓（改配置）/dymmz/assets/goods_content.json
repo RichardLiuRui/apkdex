@@ -1,0 +1,156 @@
+{
+    "chinese": [
+        {
+            "beard": [
+                "",
+                "经典的英国绅士",
+                "豪放的酒馆老板",
+                "热情的农场主",
+                "芝士队长"
+            ],
+            "car": [
+                "",
+                "噫哈~！",
+                "我是最酷炫的自行车!",
+                "买了我并不能抓到更多钱!",
+                "超过前面那辆车！"
+            ],
+            "clothes": [
+                "",
+                "暖和的羊毛衫",
+                "甜美的花裙子",
+                "主人！您回来啦！",
+                "商务精英专属！"
+            ],
+            "doubleHand": [
+                "永久解锁双手模式"
+
+            ],
+            "doubleMoney": [
+                "永久解锁获得的金币x2"
+            ],
+            "glass": [
+                "",
+                "戴上就能隐藏我帅气的脸！",
+                "大胆爱~别犹豫！",
+                "潮人专属设备！",
+                "戴着我，就是时尚之王！" 
+
+            ],
+            "hair": [
+                "",
+                "性感稳重的绅士",
+                "永恒的经典",
+                "Yo！Sup man！",
+                "真的会爆炸哦！"
+            ],
+            "hat": [
+                "",
+                "这是一顶帽子",
+                "画家的帽子",
+                "炒鸡萌的女仆装帽子哦！",
+                "一秒变马里奥！"
+            ],
+            "necklace": [
+                "",
+                "一串正常的珍珠项链",
+                "闪瞎我的双眼！",
+                "五彩缤纷的美丽项链",
+                "低调的华丽，土豪的象征！"
+            ],
+            "pet1": [
+                "疯狂的得力小助手"
+            ],
+            "pet2": [
+                "哭泣的得力小助手"
+            ],
+            "pet3": [
+                "呆萌的得力小助手"
+            ],
+            "watch": [
+                "",
+                "交个朋友吧土豪！",
+                "运动达人的象征！",
+                "高端大气上档次！",
+                "神秘的高科技装备！"
+            ]
+        }
+    ],
+	"English": [
+        {
+            "beard": [
+                "",
+                "Classic British Gentleman",
+                "Great-hearted Tavern owner",
+                "Passionate Farmer",
+                "Captain Cheese"
+            ],
+            "car": [
+                "",
+                "Yi~ha~！",
+                "Im the coolest bicycle ever!",
+                "Buy me, and get (no) more money!",
+                "Eat the dirt!"
+            ],
+            "clothes": [
+                "",
+                "Warm Sweater",
+                "Fabulous Skirt",
+                "Welcome Home, Master!",
+                "Business Elite"
+            ],
+            "doubleHand": [
+                "Unlock Dual hands"
+
+            ],
+            "doubleMoney": [
+                "Unlock Double coin"
+            ],
+            "glass": [
+                "",
+                "To cover up my handsome face!",
+                "Bold as love",
+                "Fashionista!",
+                "Become the king of Fashion!" 
+
+            ],
+            "hair": [
+                "",
+                "Sexy and modest Gentleman",
+                "Estatic Fear",
+                "Yo！Sup man！",
+                "Care for explode!"
+            ],
+            "hat": [
+                "",
+                "That's a hat",
+                "Artist's hat",
+                "Cute hat",
+                "Uncle Mario!"
+            ],
+            "necklace": [
+                "",
+                "That's a necklace",
+                "Brighten your eyes",
+                "Colorful necklace",
+                "Lowkey Luxuriance"
+            ],
+            "pet1": [
+                "Crazy pet"
+            ],
+            "pet2": [
+                "Crying pet"
+            ],
+            "pet3": [
+                "Lovely pet"
+            ],
+            "watch": [
+                "",
+                "Be my friend, Tu-Hao!",
+                "The expert of Sport!",
+                "Marvelous,Gorgeous,Splendid",
+                "Mysterious Hi-tech equipment"
+            ]
+        }
+    ]
+}

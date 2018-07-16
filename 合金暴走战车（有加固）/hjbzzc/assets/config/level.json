@@ -1,0 +1,250 @@
+[
+    {
+        "ID": 100,
+        "name": "Desert_01",
+        "map": [0,1],
+		"sky":true,
+		"bg":true,
+        "prefix": "Desert"
+    }, 
+	{
+        "ID": 101,
+        "name": "Desert_01",
+        "map": [0,1,2,1,2],
+		"sky":true,
+		"bg":true,
+        "prefix": "Desert"
+    }, 
+    {
+        "ID": 102,
+        "name": "Desert_02",
+        "map": [0,1,2,2,3],
+		"sky":true,
+		"bg":true,
+        "prefix": "Desert"
+    },
+    {
+        "ID": 103,
+        "name": "Desert_03",
+        "map": [0,1,2,2,3,3],
+		"sky":true,
+		"bg":true,
+        "prefix": "Desert"
+    },
+    {
+        "ID": 104,
+        "name": "Desert_04",
+        "map": [1,1,3,2,3,3],
+		"sky":true,
+		"bg":true,
+        "prefix": "Desert"
+    },
+	{
+        "ID": 105,
+        "name": "Desert_04",
+        "map": [2,1,3,2,3,2],
+		"sky":true,
+		"bg":true,
+        "prefix": "Desert"
+    },	
+	{
+        "ID": 106,
+        "name": "Desert_05",
+        "map": [0,1,3,2,3,2,3],
+		"sky":true,
+		"bg":true,
+        "prefix": "Desert"
+    },
+		{
+        "ID": 107,
+        "name": "Desert_06",
+        "map": [0,2,3,2,3,2,2],
+		"sky":true,
+		"bg":true,
+        "prefix": "Desert"
+    }, 
+	{
+        "ID": 108,
+        "name": "Desert_07",
+        "map": [0,1,2,3,1,2,3],
+		"sky":true,
+		"bg":true,
+        "prefix": "Desert"
+    },
+	{
+        "ID": 109,
+        "name": "Desert_04",
+        "map": [0,1,3,3,2,2,3],
+		"sky":true,
+		"bg":true,
+        "prefix": "Desert"
+    },
+	{
+        "ID": 110,
+        "name": "Desert_04",
+        "map": [0,2,1,2,3,3,3],
+		"sky":true,
+		"bg":true,
+        "prefix": "Desert"
+    },
+	{
+        "ID": 201,
+        "name": "Jungle_01",
+        "map": [0,0,1,2,2],
+		"sky":false,
+		"bg":true,
+        "prefix": "Jungle"
+    },
+    {
+        "ID": 202,
+        "name": "Jungle_02",
+        "map": [0,1,2,2,3],
+		"sky":false,
+		"bg":true,
+        "prefix": "Jungle"
+    },
+    {
+        "ID": 203,
+        "name": "Jungle_03",
+        "map": [0,1,2,2,2,3],
+		"sky":false,
+		"bg":true,
+        "prefix": "Jungle"
+    },
+    {
+        "ID": 204,
+        "name": "Jungle_04",
+        "map": [1,1,3,2,2,3],
+		"sky":false,
+		"bg":true,
+        "prefix": "Jungle"
+    },
+	{
+        "ID": 205,
+        "name": "Jungle_04",
+        "map": [0,1,2,3,2,3],
+		"sky":false,
+		"bg":true,
+        "prefix": "Jungle"
+    },
+	{
+        "ID": 206,
+        "name": "Jungle_04",
+        "map": [0,2,1,2,3,2,3],
+		"sky":false,
+		"bg":true,
+        "prefix": "Jungle"
+    },
+	{
+        "ID": 207,
+        "name": "Jungle_04",
+        "map": [0,2,1,2,3,2,3],
+		"sky":false,
+		"bg":true,
+        "prefix": "Jungle"
+    },
+	{
+        "ID": 208,
+        "name": "Jungle_04",
+        "map": [0,2,1,2,3,2,3],
+		"sky":false,
+		"bg":true,
+        "prefix": "Jungle"
+    },
+	{
+        "ID": 209,
+        "name": "Jungle_04",
+        "map": [0,2,1,2,1,2,3],
+		"sky":false,
+		"bg":true,
+        "prefix": "Jungle"
+    },
+	{
+        "ID": 210,
+        "name": "Jungle_04",
+        "map": [0,2,1,2,3,3,3],
+		"sky":false,
+		"bg":true,
+        "prefix": "Jungle"
+    },
+    {
+        "ID": 301,
+        "name": "Underground_01",
+        "map": [0,1,2,1,2],
+		"sky":false,
+		"bg":false,
+        "prefix": "Underground"
+    },
+    {
+        "ID": 302,
+        "name": "Underground_02",
+        "map": [1,2,1,2,1],
+		"sky":false,
+		"bg":false,
+        "prefix": "Underground"
+    },
+    {
+        "ID": 303,
+        "name": "Underground_03",
+        "map": [2,1,1,2,3,3],
+		"sky":false,
+		"bg":false,
+        "prefix": "Underground"
+    },
+    {
+        "ID": 304,
+        "name": "Underground_03",
+        "map": [1,1,1,2,3,3],
+		"sky":false,
+		"bg":false,
+        "prefix": "Underground"
+    },
+    {
+        "ID": 305,
+        "name": "Underground_03",
+        "map": [2,1,1,2,3,3],
+		"sky":false,
+		"bg":false,
+        "prefix": "Underground"
+    },
+    {
+        "ID": 306,
+        "name": "Underground_03",
+        "map": [1,1,2,2,3,2,3],
+		"sky":false,
+		"bg":false,
+        "prefix": "Underground"
+    },
+    {
+        "ID": 307,
+        "name": "Underground_03",
+        "map": [2,1,2,3,2,1,2],
+		"sky":false,
+		"bg":false,
+        "prefix": "Underground"
+    },
+    {
+        "ID": 308,
+        "name": "Underground_03",
+        "map": [2,1,2,2,1,2,3],
+		"sky":false,
+		"bg":false,
+        "prefix": "Underground"
+    },
+    {
+        "ID": 309,
+        "name": "Underground_03",
+        "map": [1,1,2,2,2,2,3],
+		"sky":false,
+		"bg":false,
+        "prefix": "Underground"
+    },
+    {
+        "ID": 310,
+        "name": "Underground_03",
+        "map": [1,1,2,3,2,3,3],
+		"sky":false,
+		"bg":false,
+        "prefix": "Underground"
+    }
+]

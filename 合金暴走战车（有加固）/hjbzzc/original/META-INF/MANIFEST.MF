@@ -1,0 +1,873 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_66 (Oracle Corporation)
+
+Name: assets/config/playerConfig.json
+SHA1-Digest: 8qcSK1qBVcXU2zt6VC5EOEG8qww=
+
+Name: assets/Enemy/Enemy_030.png
+SHA1-Digest: hSz8KRKhoe8dScTscMKWf/XJpps=
+
+Name: assets/config/levels/enemy_level_304.tmx
+SHA1-Digest: YdiD6C+UL54ZY314hJL/VAnygXE=
+
+Name: assets/Loading/Loading_People.png
+SHA1-Digest: G7s2KXsqSAvAMjBvbLgpcAuzP3g=
+
+Name: assets/Scene/Desert/Desert_Middle_0.tmx
+SHA1-Digest: nI6dwm3LXCuW/osbVB5OmIWl3Zo=
+
+Name: assets/config/levels/enemy_level_207.tmx
+SHA1-Digest: M4hLWquNMizvwBOg6vaLQUj7emU=
+
+Name: assets/MelalTank0.plist
+SHA1-Digest: Ltj9xQgXCcMQHwJvakiAco0N9DQ=
+
+Name: assets/BattleField/btn_strike.png
+SHA1-Digest: xvppeazwu34uyxWujO79W78FehY=
+
+Name: assets/Levels/Node_Level_Boss.csb
+SHA1-Digest: ZNeZVUVA6Tg6vjZTIWFZ1jUOqSc=
+
+Name: assets/Levels/Layer_Level.csb
+SHA1-Digest: cEu9sUYSiDiLUbABepnMDm/u3Es=
+
+Name: assets/Loading/LoadingBar.png
+SHA1-Digest: If8TCCquwQluGzSByrKmqH3Rf5s=
+
+Name: assets/GameOver/Fireworks.png
+SHA1-Digest: vwMwWV+yUXfCBPzjoxlrWw2EImo=
+
+Name: assets/libjiagu.so
+SHA1-Digest: 1zXh+dMbLIr2l50KR0geHTlhCcM=
+
+Name: assets/Garage/Help.png
+SHA1-Digest: H9bw5Afi7ZFeMAFy7+YUIdvtqRQ=
+
+Name: assets/Levels/Exp_01.png
+SHA1-Digest: 2oCmgmNF2h6KpI+UZkNHQFuSc3E=
+
+Name: assets/Scene/Desert/1_3_atlas.png
+SHA1-Digest: Yb+dfl2mkZPtwgelVmBMFgI4vOk=
+
+Name: assets/Garage/Garage_bg.png
+SHA1-Digest: itacw+i8gCvaO499Wv413j5sJAE=
+
+Name: lib/armeabi/libdnlocal.so
+SHA1-Digest: SJ9kHoLGfh01J+IW5ypUO2UkDwU=
+
+Name: assets/Sound/Boss_BGM.mp3
+SHA1-Digest: kdguIxubXyEHXTonKlxuy0d95hU=
+
+Name: assets/Sound/Weapon_ArmorPiercer.mp3
+SHA1-Digest: 0Hh8DNBiVgF3jN13AIq5NZwgCDI=
+
+Name: assets/Scene/Underground/Underground_Middle_1.tmx
+SHA1-Digest: 2Gcjr67WY3ht87/XxVCwNnclC7A=
+
+Name: assets/Layer_Story.csb
+SHA1-Digest: 5Ea7LUFzEFvJ/ZI33xq7biIyo4c=
+
+Name: assets/MelalTank0.png
+SHA1-Digest: ZOy6lNnhA1ce4gP/PDMpIgDyVdE=
+
+Name: assets/Enemy/Boss_000.plist
+SHA1-Digest: W0XFNE9hWrG3zVWVbnnKszRDvxk=
+
+Name: assets/Tank/MelalTank.ExportJson
+SHA1-Digest: ampSYdIwKKeCmGK0F4vWIfPQ/5E=
+
+Name: assets/Garage/Upgrade_Gatling.png
+SHA1-Digest: j1Cc1fziGqCuuAdclpJ12HzUOR0=
+
+Name: assets/config/levels/baseTile.png
+SHA1-Digest: CYmoqs1My0XGaP/6JEnUzyJQp6Y=
+
+Name: assets/Layer_Warning.csb
+SHA1-Digest: HKZYJP37WMtOhdexR/cTrDOr7Iw=
+
+Name: assets/Garage/Upgrade_Cannon.png
+SHA1-Digest: j06UXhFv4NtYxK91WvZS0MAFo1E=
+
+Name: assets/Garage/Item_Shield.png
+SHA1-Digest: Y7Sw40fVGfPHkwN6LA8+H63cK7U=
+
+Name: assets/Sound/Death_01.mp3
+SHA1-Digest: pS2m9YwM6ahultlA3KGs/dgDOew=
+
+Name: assets/config/levels/enemy_level_106.tmx
+SHA1-Digest: R3b9+JO5t3AB+f12+DJjrx8PIXc=
+
+Name: assets/Enemy/Boss_020.plist
+SHA1-Digest: YQ4agOKncXbSwg1ZivhfdIBWOC4=
+
+Name: resources.arsc
+SHA1-Digest: yPSGSGgKS6AUF+4AMKHgOhPqOWw=
+
+Name: assets/Garage/Upgrade_Button.png
+SHA1-Digest: IGlWtPxPI2TF6LDpZ81SxnwrtKU=
+
+Name: assets/Sound/Alert.ogg
+SHA1-Digest: zh4CWICNuvLSD8DFfFiscrZX7Kw=
+
+Name: assets/Scene/Jungle/Jungle_Front_0.tmx
+SHA1-Digest: 3GlbSu9WAzICVTZEMSmwR67qXxs=
+
+Name: assets/Purchase/yijianmanji_2.png
+SHA1-Digest: OakJyY/Bqd+tsnkM3b9lXAVjmwY=
+
+Name: assets/Enemy/Enemy_080.plist
+SHA1-Digest: /mfP1GzFGeyUbnaa/4HGFy7jp20=
+
+Name: AndroidManifest.xml
+SHA1-Digest: FV14JjKAVgs03TU8KrVBsTUDfy8=
+
+Name: assets/GameOver/GameOverTank_2.png
+SHA1-Digest: Nx5eR6KWWrVnW1LiywCJcczjVxM=
+
+Name: assets/Scene/Underground/1_4_atlas.png
+SHA1-Digest: hGbnXN3A9NS3FW0GQW31JWMJAY0=
+
+Name: assets/config/levels/enemy_level_203.tmx
+SHA1-Digest: +ss3q1fsUoRfsvvp4QYMF0wsaU0=
+
+Name: assets/Levels/World_02.png
+SHA1-Digest: Y+OB//vIPVCnUsn/v9sFKgYunp8=
+
+Name: assets/Enemy/Enemy_010.png
+SHA1-Digest: DlvVy+LFDGsTJ2RGfPPhccyQsDM=
+
+Name: assets/Levels/stage_back_03.PNG
+SHA1-Digest: ou0s/8k0aueDFWctpfBvvPXJggo=
+
+Name: assets/Purchase/Node_Double_Prize.csb
+SHA1-Digest: yHv6meGxFWZU2K5DdXS1vXVOP3A=
+
+Name: assets/Setting/Layer_Setting.csb
+SHA1-Digest: ZY8w7qOxwNSR9EWXv1f11UZAQGw=
+
+Name: assets/Sound/MissionStart.ogg
+SHA1-Digest: KpaRcCaGKfDbry/dg9fRNb/915c=
+
+Name: assets/config/levels/enemy_level_308.tmx
+SHA1-Digest: SaqVc6NqB0UaL8suBDmrGVg2jP8=
+
+Name: assets/Enemy/Enemy_04.ExportJson
+SHA1-Digest: sxGbMaBRihfvkfu9mSkG0oebTK8=
+
+Name: assets/empty.png
+SHA1-Digest: EyEEmFFiuMvGbxOs3mrcXFLCFB0=
+
+Name: assets/Guide/Layer_Guide.csb
+SHA1-Digest: 0YyQTLc2WckGpewvIYJfAR2vLRg=
+
+Name: assets/Sound/Fire_LaserGun.mp3
+SHA1-Digest: Ktiw6t75gM06npMmkL0Pw2I2KKo=
+
+Name: assets/Scene/Jungle/Jungle_Middle_1.tmx
+SHA1-Digest: dgk8pUEGKNyZXI9k2IG2fk22QVg=
+
+Name: assets/Enemy/Enemy_050.png
+SHA1-Digest: sIVS5DGFqbfebcXn7ZsB7bmyFeE=
+
+Name: assets/Scene/Desert/DesertLand.png
+SHA1-Digest: qZk3X40HM0dd8EinJpOokgvevGI=
+
+Name: assets/Enemy/Enemy_03.ExportJson
+SHA1-Digest: cFDZJlOyKpHk8YB4R+YWBpdSvZc=
+
+Name: assets/config/levels/enemy_level_103.tmx
+SHA1-Digest: 7UjSyIL5egTAPi2/O7f6jkOwrcc=
+
+Name: assets/BattleField/TankHpF.png
+SHA1-Digest: np4yg+hMRDFGzHR0tgyLAAF/CqE=
+
+Name: assets/Plist_Main.plist
+SHA1-Digest: deR1Qxa3SX0gWBxTyIPt5jDiR+0=
+
+Name: assets/BattleField/TankIcon.png
+SHA1-Digest: 4Vnhm1n3RVU6GI8Bp8JwIqOxrDE=
+
+Name: assets/Enemy/Enemy_02.ExportJson
+SHA1-Digest: yA2jo1l6sJrV8dcb3Kvci7CBfjk=
+
+Name: assets/Sound/MissionClear.mp3
+SHA1-Digest: xXNImYE6g3aHGAwnIqMLn7zEPd0=
+
+Name: assets/Levels/level_gun.png
+SHA1-Digest: NQdwas2BgL+7bvCO5f66cE6X7UY=
+
+Name: assets/Sound/Button.mp3
+SHA1-Digest: ipCrFtjY52sbpRZJiuUWnWJcZVQ=
+
+Name: assets/Tank/MelalTank0.png
+SHA1-Digest: ZOy6lNnhA1ce4gP/PDMpIgDyVdE=
+
+Name: assets/Scene/Underground/Underground_Middle_4.tmx
+SHA1-Digest: bBjlloUlTDqpHy5s6NBnbuWNxPU=
+
+Name: assets/Setting/Layer_Setting_Game.csb
+SHA1-Digest: JhSRwkNokp3CwWVx4v2N86PXMgs=
+
+Name: assets/Guide/Guide_2.png
+SHA1-Digest: I1XZuXesYL76SzIwJgjueumS3UU=
+
+Name: assets/Plist_Main.png
+SHA1-Digest: R4Z2OVFgo8WBhNN+b0qCzoth2oQ=
+
+Name: assets/Sound/Missile_Launch.mp3
+SHA1-Digest: 4irFO4lAY9IEi4s5aB9f0gZuHB8=
+
+Name: assets/Garage/LAN.png
+SHA1-Digest: geuM20NWFCfaovh5rR2pHU/DY2M=
+
+Name: assets/digi_score.png
+SHA1-Digest: eqYkS3J82L9cwDBXcLzQhdOjkSQ=
+
+Name: assets/config/levels/enemy_level_305.tmx
+SHA1-Digest: DplUHzuD84+w4rJtC7DDb0hLNV4=
+
+Name: assets/Scene/Desert/Desert_Middle_1.tmx
+SHA1-Digest: KzHn0gwe35xGLjmHhw2kYR/Y5gk=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: cfvBDdVHfa0DEcB7sV2L3GYc8IE=
+
+Name: assets/Enemy/Enemy_090.png
+SHA1-Digest: z3q2WiGpIGLiItux9utUpZAno80=
+
+Name: assets/Guide/Guide_txt.png
+SHA1-Digest: kmfEStOAvc313mHJ4bItTv+Hk3E=
+
+Name: assets/config/levels/enemy_level_109.tmx
+SHA1-Digest: REi7qD1J0kJYizpqxuC4oYJ9p0I=
+
+Name: assets/Plugin2.apk
+SHA1-Digest: ntCucw0qEout5Qh9KvSDJY1bW18=
+
+Name: assets/boss_hp_bar.png
+SHA1-Digest: SXOqHCw2PvqxfkKHcqdp9JKoCMA=
+
+Name: assets/Enemy/Enemy_080.png
+SHA1-Digest: f0u9ZCn/4ziAPqkuHCWgvagR78s=
+
+Name: assets/Sound/WeaponGet_Laughing.mp3
+SHA1-Digest: /Zh3thD8XTx1HFNreSxpu/qSwe8=
+
+Name: assets/bloodNum.png
+SHA1-Digest: dVVlwnonsxWv0JkSiBO++CtkUeY=
+
+Name: assets/Purchase/Node_Main_Reborn.csb
+SHA1-Digest: 3WJ1nTZPpene89N1U45nAFzfbxA=
+
+Name: assets/Warning/WarningBg.png
+SHA1-Digest: D4uyvTINFR1nJPtoO+rwKxpNrD8=
+
+Name: assets/config/levels/enemy_level_100.tmx
+SHA1-Digest: 525cnUs5Iu65j6o3qBUJxGkhGco=
+
+Name: assets/Sound/Bouncing_03.ogg
+SHA1-Digest: 9gKlcO6P3vfvivy5MKTF5TIJgB0=
+
+Name: assets/Purchase/yijianmanji_1.png
+SHA1-Digest: FOdr9UZEPLAt7Wy0VOA3XEbLMAM=
+
+Name: assets/BattleField/Reload.png
+SHA1-Digest: G5zJS/TmRKjgk24HKB9pwQIEfP8=
+
+Name: assets/Sound/Death_02.mp3
+SHA1-Digest: +yZ1EpLAx3jkPiAK0HGzSdPEVpM=
+
+Name: assets/Sound/Fire_02.mp3
+SHA1-Digest: rRIzHYkSjiI2IsvQzog6j0micA4=
+
+Name: assets/Sound/YouAreGreat.mp3
+SHA1-Digest: wop3eOtkc6N6OukZcQujOtvNPbw=
+
+Name: lib/armeabi/libcocos2dcpp.so
+SHA1-Digest: gkGhYtvTDnLx/fnbvdJ00M0SlC0=
+
+Name: assets/Scene/Underground/Underground_Middle_0.tmx
+SHA1-Digest: JtXgHEe1d7Dz4+kErXm4ZMtokMI=
+
+Name: assets/Sound/Boom_03.mp3
+SHA1-Digest: VoBfDeYG/VJttVk97lR41J0WTTU=
+
+Name: assets/config/levels/enemy_level_110.tmx
+SHA1-Digest: rzJTgsRSZsxlHsxUIJQNDVpNMQI=
+
+Name: assets/config/levels/enemy_level_301.tmx
+SHA1-Digest: epV7uf6WlaqPkTwzFQu+8Hua0qE=
+
+Name: assets/Sound/BGM_Jungle.mp3
+SHA1-Digest: s/SsZuGzQct1XRWmyYjF6J7Rtfs=
+
+Name: assets/Garage/Upgrade_Bot1.png
+SHA1-Digest: uTMD77YCHtvva7bbC5xjiWH2oRo=
+
+Name: assets/Levels/Button_Setting.png
+SHA1-Digest: uemPX1GW0vCw7c3AHJ0VVFmEyr0=
+
+Name: assets/Enemy/Enemy_05.ExportJson
+SHA1-Digest: 8IXqL1HjBa+GRSu8zbbWHpFDwcQ=
+
+Name: assets/Enemy/GiftBox0.plist
+SHA1-Digest: ktHLcBRc0B96xPJARRdt4Z8b+Fo=
+
+Name: assets/Enemy/Enemy_060.plist
+SHA1-Digest: KXhTTBYmlYa0Y/eUIgWldiHSUAw=
+
+Name: assets/Garage/Upgrade_Middle0.png
+SHA1-Digest: mweo0Lp9FCwZlW1KuhFzyZAaab4=
+
+Name: assets/config/levels/enemy_level_204.tmx
+SHA1-Digest: Ia6Cwpj4z2bLwS+LweE/fCa6COE=
+
+Name: assets/Sound/Fire_LaserCannon.mp3
+SHA1-Digest: 72xUHxT9W4sZ4lpL/b2/18l2UGE=
+
+Name: assets/Loading/Logo.png
+SHA1-Digest: JYY3Ab2t/ATai92wOWNBQhu6+wo=
+
+Name: assets/Scene_Main.csb
+SHA1-Digest: TM/T+Nkc4Q/aQR6AEPUJroCdFAE=
+
+Name: assets/config/levels/enemy_level_309.tmx
+SHA1-Digest: REi7qD1J0kJYizpqxuC4oYJ9p0I=
+
+Name: assets/Purchase/Node_Main_Gun.csb
+SHA1-Digest: wwjKIalq+mBV9DTdwB6hG1x/WzA=
+
+Name: assets/Sound/Menu_BGM.mp3
+SHA1-Digest: Lqxg2jnsvY/pnoQ/LOhuqg6VUss=
+
+Name: assets/Loading/LoadingText.png
+SHA1-Digest: V8Yu9bQoI+RicrlwLtNMgg29WYg=
+
+Name: assets/hnnv.ttf
+SHA1-Digest: P0PJgAqfGVNpOBlDGZOffzwOIR4=
+
+Name: assets/Enemy/Boss_00.ExportJson
+SHA1-Digest: An+11LnGQa2GgGySDQGaRDV9lNw=
+
+Name: assets/Purchase/Node_Upgrade_All.csb
+SHA1-Digest: 4iv69Ym8dlr1YO0YjUf0E6IDJCk=
+
+Name: assets/BattleField/TankIconF.png
+SHA1-Digest: 3awIa3u0Sm3xZfzIoFLYHbZ7ZN8=
+
+Name: assets/config/enemys/enemy_level_101.json
+SHA1-Digest: zZQXHIfAKwvMtKDT/MS+j1DIg9A=
+
+Name: assets/config/levels/enemy_level_104.tmx
+SHA1-Digest: Y+1wyvkTQjoZfS4gDhlTY8nrl84=
+
+Name: assets/Scene/Underground/Underground_Front_1.tmx
+SHA1-Digest: Ic6yyAmW3MMonKfkQyp0tVmngRo=
+
+Name: assets/Garage/Item_Ammo.png
+SHA1-Digest: jCx1laWRHkrH8TKrxo7p6QOMcSM=
+
+Name: assets/Enemy/Enemy_Missile_00.ExportJson
+SHA1-Digest: tkMv4dK+oPOFfjOzGhH9N7gWUb8=
+
+Name: assets/Levels/Coin.png
+SHA1-Digest: Hf1gI2Af4GiWRZLhNRBNzISxVhE=
+
+Name: assets/Purchase/10yuan.png
+SHA1-Digest: 9A/6tci0ThHDwYIIMX6lVnGX8nA=
+
+Name: assets/Enemy/Enemy_07.ExportJson
+SHA1-Digest: UsUq55UFvGK7lHXnkG98JImt4tg=
+
+Name: assets/Purchase/yijianmanji_0.png
+SHA1-Digest: rhrvX7/vy4eZhIOBmXcE5UMbFKw=
+
+Name: assets/Guide/Guide_1.png
+SHA1-Digest: OpSFK/toA9erpYq9j2s0zXWMMFk=
+
+Name: assets/Sound/Missile_Flying.mp3
+SHA1-Digest: L9CQqezjDMwAv05LrSaozQKgrpc=
+
+Name: assets/Default/Button_Disable.png
+SHA1-Digest: yu5dx62og5XIafy559FEyhfnW48=
+
+Name: assets/Enemy/Boss_010.plist
+SHA1-Digest: F8U0kRcwfn/iIy3rbvQaeFWO7Xo=
+
+Name: assets/Levels/boss_gun.png
+SHA1-Digest: tMdGRVIrQxuzV8bNTffaAkxWbgM=
+
+Name: assets/Guide/Guide_Submit.png
+SHA1-Digest: o6c51B6QN15+7iWsQ7XDpBSnkMM=
+
+Name: assets/Levels/Node_Level.csb
+SHA1-Digest: pT64M5mTkDN7wlqfjWmB8vpW3nI=
+
+Name: assets/config/levels/enemy_level_209.tmx
+SHA1-Digest: REi7qD1J0kJYizpqxuC4oYJ9p0I=
+
+Name: assets/Scene_Trans.csb
+SHA1-Digest: EKQ1CIl+ga+CVhn66QvoVEunu8Y=
+
+Name: assets/Sound/Bouncing_02.ogg
+SHA1-Digest: 0pLdMoWv9k4jxgtV9d60GpBwgFg=
+
+Name: assets/BattleField/btn_shield.png
+SHA1-Digest: XiJjvgoS4HaZGnWSep4cyKldjoQ=
+
+Name: assets/BattleField/Ammo.png
+SHA1-Digest: R56Rcoj+Az1i+liA6ng5r0Edh38=
+
+Name: assets/Enemy/Enemy_030.plist
+SHA1-Digest: +6Nkx86bBUUt8zPGYsb8ncqUBks=
+
+Name: assets/Enemy/Enemy_09.ExportJson
+SHA1-Digest: US1F8oTlnK2M8Y5UpwJAgnaNlT8=
+
+Name: assets/Levels/World_03.png
+SHA1-Digest: w8uw/vtH6L+qD6rs91Ev5yyNXNU=
+
+Name: assets/Sound/Weapon_Lasergun.mp3
+SHA1-Digest: 81IlUfLLRJIrPzynBVF4fxaaa88=
+
+Name: assets/digi_score.fnt
+SHA1-Digest: TYpvvQlhgZv2+GH87siqwtGJn3A=
+
+Name: assets/GameOver/MissionFailed.png
+SHA1-Digest: TIRNbH/Jna4NdtcJQo8+bHFmeHg=
+
+Name: assets/BattleField/btn_main_gun.png
+SHA1-Digest: Xdex+9nCMGJT/L6xKqUveM+ISbQ=
+
+Name: assets/Scene/Desert/Desert_BG_0.tmx
+SHA1-Digest: H/cbwv/SkuadT0WWCDs/Vb3T7g4=
+
+Name: assets/Scene/Underground/Underground_Middle_3.tmx
+SHA1-Digest: BdcHY2bhHZsXULcZM/WS6goxZZY=
+
+Name: assets/Warning/warningLine.png
+SHA1-Digest: hmVbmxzSlLU9DEfnu6uS6K1MPy0=
+
+Name: assets/config/levels/enemy_level_101.tmx
+SHA1-Digest: ldBQ0RW4w57ATMVZ3nmpCDqGpyM=
+
+Name: assets/Sound/Boss_Death.mp3
+SHA1-Digest: UetgEdl7u51mChVI1a3L1zn/mN0=
+
+Name: assets/Warning/warningTag.png
+SHA1-Digest: 6mfiwO3V6h8wC8sjJAUZ/noU8mo=
+
+Name: assets/Sound/Fire_01_back02.mp3
+SHA1-Digest: bRDvL3zhjI4rLQaBsTCqEEpFS6M=
+
+Name: assets/config/Enemy.json
+SHA1-Digest: HryKjTI3cuFiKS6VZuGuBLYRZbc=
+
+Name: assets/Levels/LevelLab_DigiBack.png
+SHA1-Digest: ZahtiAjJMjhbbeV3VbFFuAjWU94=
+
+Name: assets/Loading/Scene_Loading.csb
+SHA1-Digest: U5d+KscyQXuGq0GmurVkZNLWjDk=
+
+Name: assets/boss_hp_bg.png
+SHA1-Digest: 7OGsXaTcpQ3KcJBj0ry/iDx5gcs=
+
+Name: assets/Levels/LevelLab_Locked.png
+SHA1-Digest: FeGtsYCiMYg5Zo/+d1V5gNpRIGo=
+
+Name: assets/config/enemys/enemy_level_101_back_0512.json
+SHA1-Digest: zZQXHIfAKwvMtKDT/MS+j1DIg9A=
+
+Name: assets/Sound/Death_03.mp3
+SHA1-Digest: OD+ZRwizBT3Q2WwwE1NPFBCFOio=
+
+Name: assets/Enemy/Enemy_020.png
+SHA1-Digest: uGyeSR4ItPf/Ga5X2LFuHGmEO1Q=
+
+Name: assets/MelalTank.ExportJson
+SHA1-Digest: ampSYdIwKKeCmGK0F4vWIfPQ/5E=
+
+Name: assets/Enemy/Boss_02.ExportJson
+SHA1-Digest: MdcCBFkOvX6U7A1YW3j3zqk+4rU=
+
+Name: assets/config/levels/enemy_level_302.tmx
+SHA1-Digest: HpLKZM10wD2tRTccUNH97WKGDE4=
+
+Name: assets/Garage/Upgrade_Middle1.png
+SHA1-Digest: rb4T6DoKJFQHkoTthXCX2SNQROM=
+
+Name: assets/Sound/Boom_02.mp3
+SHA1-Digest: +U75hHhEHe+TPBlVsOEQGyGrxmA=
+
+Name: assets/Sound/StartButton_Push.mp3
+SHA1-Digest: zT5SFi1gm/iQ6lnzj2bEsIpKfG8=
+
+Name: assets/config/levels/enemy_level_108.tmx
+SHA1-Digest: xAIPsTjneS8D8GYasmT8f+y6jWA=
+
+Name: assets/Garage/Upgrade_Bot0.png
+SHA1-Digest: UBokPu9H9PEJaLtQ0rvc83CmoZ4=
+
+Name: assets/Enemy/Enemy_06.ExportJson
+SHA1-Digest: IP+ndF3Uc6fto6OYmJrJ7G3MFLk=
+
+Name: assets/Scene/Jungle/Jungle_Middle_0.tmx
+SHA1-Digest: Kf/dxCXf0B2PtrMkcL+1Snyaf/o=
+
+Name: assets/Sound/Menu_Button.mp3
+SHA1-Digest: peYzxN/mQg1x2Bgl3rdrVd6hr4k=
+
+Name: assets/config/level.json
+SHA1-Digest: 7WrgLpDf3x0qEs6OgKBHaiH9E8k=
+
+Name: assets/config/levels/enemy_level_205.tmx
+SHA1-Digest: nQHGZrgw8gw/NmlkYdouZg2+5kQ=
+
+Name: assets/Enemy/Enemy_040.png
+SHA1-Digest: hBb/6ZWongCOq2THewGfU9lfS9s=
+
+Name: assets/GameOver/Fireworks.plist
+SHA1-Digest: ZidRD4jsmmokcZBnYbJI/pgPWQI=
+
+Name: assets/payment.properties
+SHA1-Digest: KGnQmQGxf+N+UC5q+cPDnmlfDLo=
+
+Name: assets/GameOver/Layer_Complete.csb
+SHA1-Digest: ljay2x2E04g8Wge4/65lB8B37Z8=
+
+Name: assets/Scene/Desert/Desert_Middle_2.tmx
+SHA1-Digest: OeTVb/5o5zgRVlHWv/NndSqYBbU=
+
+Name: assets/Sound/BGM_Desert.mp3
+SHA1-Digest: vP9xedDvQTiR2vVe7z30t9ThMAo=
+
+Name: assets/Scene/Jungle/2_1_atlas.PNG
+SHA1-Digest: SohoBQgdMszaOae+Cw7MOkib9AY=
+
+Name: assets/Sound/Weapon_Firebomb.mp3
+SHA1-Digest: +z9mhdxPjTGxlCEu3KxF6WCVQVI=
+
+Name: assets/Enemy/Enemy_01.ExportJson
+SHA1-Digest: AQhNUslM/RYujUxenWwDR59GW1g=
+
+Name: assets/config/levels/enemy_level_105.tmx
+SHA1-Digest: WkwxWP3BrhGfre5beKj+Y36xBDo=
+
+Name: assets/Sound/Boss_ComeOnBoy.mp3
+SHA1-Digest: ZWiRMMZ3k1aUlj9g/HZKqPmtSTI=
+
+Name: assets/Sound/boom_light.mp3
+SHA1-Digest: ZcUYwB/hQzRhXRtUaLuadd3aDsc=
+
+Name: assets/.appkey
+SHA1-Digest: rtMSu6GpKUZWzmz+tfak+zuAxtc=
+
+Name: assets/Guide/Guide_0.png
+SHA1-Digest: SocPGSaGkQRNKjaB0B6q6Kb0oWg=
+
+Name: assets/config/levels/enemy_level_201.tmx
+SHA1-Digest: x4wzeHK1KQ0JAODeOLETJe2hyWQ=
+
+Name: assets/Garage/Scene_Garage.csb
+SHA1-Digest: MqMcnX0pyxtfHg+T2NmFeKWuzHg=
+
+Name: assets/Sound/Fire_01_back.mp3
+SHA1-Digest: EhasdCG/ZXKJUVwx4TK+8YaDlyg=
+
+Name: assets/config/levels/enemy_level_210.tmx
+SHA1-Digest: VrXefzUeVOXHnvH3I27IJjkPjRg=
+
+Name: assets/sky.png
+SHA1-Digest: xtU6JzbZ8bETt/4vJG7IYl6cZUE=
+
+Name: assets/Scene/Underground/Underground_Front_0.tmx
+SHA1-Digest: BXdhF7myRYmS6ipvDcOEnC0NffE=
+
+Name: assets/Enemy/Enemy_Missile_000.png
+SHA1-Digest: rcmaOXFhKKe5iS/WK2Xw039oCGQ=
+
+Name: assets/Garage/powerup2.png
+SHA1-Digest: bwJDHewPGUrQd8B3a0fEdUrPUEU=
+
+Name: assets/Garage/HONG.png
+SHA1-Digest: qZwoh5YThfUcjndm/Q8XQIsCXKg=
+
+Name: assets/Scene/Jungle/Jungle_BG_0.tmx
+SHA1-Digest: vNpLU/XxccPJxZVDGrQkw1ZzUcY=
+
+Name: assets/Enemy/Enemy_10.ExportJson
+SHA1-Digest: /2lWMYSwl/zCmMga2/IfHVxkbmY=
+
+Name: assets/Enemy/GiftBox.ExportJson
+SHA1-Digest: SxipRCS5gXMK+/vlb54Ec7F9J+M=
+
+Name: assets/Enemy/Enemy_010.plist
+SHA1-Digest: zIbBLjun+yuL03yfuflWoCXTaUQ=
+
+Name: assets/config/levels/enemy_level_306.tmx
+SHA1-Digest: tHQfR5ptMVECd9U/e4tp4+Wp1Ds=
+
+Name: assets/config/levels/enemy_level_208.tmx
+SHA1-Digest: SaqVc6NqB0UaL8suBDmrGVg2jP8=
+
+Name: assets/Enemy/Enemy_050.plist
+SHA1-Digest: hVDeE7WXNkSDDNOdC8ncVwuvxqM=
+
+Name: assets/Enemy/GiftBox0.png
+SHA1-Digest: g56X4WKkPwQDvedgS/uiYM0KTsM=
+
+Name: assets/config/levels/enemy_level_310.tmx
+SHA1-Digest: 2tXp2Zm14SZXHsThRPp5TOU8yH8=
+
+Name: assets/Enemy/Enemy_090.plist
+SHA1-Digest: r2x2uUzfmPabcW0y3cX4joha754=
+
+Name: assets/Enemy/Enemy_Missile_000.plist
+SHA1-Digest: bqbhKdc5Xa23Q7nMG3KjlCbg+kk=
+
+Name: assets/Scene/Desert/Desert_Front_0.tmx
+SHA1-Digest: 468S1VAG3RZM3CVGyOgsCvWAnNI=
+
+Name: assets/Scene/Jungle/Jungle_Middle_3.tmx
+SHA1-Digest: hngGmOZMRK9oSYIvQmubc8wqsIU=
+
+Name: assets/Sound/Menu_Open.mp3
+SHA1-Digest: Lskt1/nQVVVEy3hS8mFLsWwEuFM=
+
+Name: assets/BattleField/ScoreBoard.png
+SHA1-Digest: 6JlzhwBIT4N1aOr5NSApbwk2wmA=
+
+Name: assets/Sound/MissionFailed.mp3
+SHA1-Digest: //T6hyupRrnebz0BKdYjT74YqX8=
+
+Name: assets/Levels/LevelLab_Boss.png
+SHA1-Digest: Ho6TuG+SluXlMBzhZpO/XD4HUDc=
+
+Name: assets/Garage/Car_01.png
+SHA1-Digest: 2FZJsL0EyyTVUEJzcCOa7YGxZ8M=
+
+Name: assets/Sound/Weapon_HeavyMachinegun.mp3
+SHA1-Digest: wM4ltsypAMZy7cCZW8waAYZ1s7U=
+
+Name: assets/Sound/Pause.mp3
+SHA1-Digest: WVAfmGaWXuUdsEdbrb+szy+JgE4=
+
+Name: assets/Sound/BGM_Underground.mp3
+SHA1-Digest: 9SQ6KlVgvYVxqSeefIU4hI8lbPE=
+
+Name: assets/Enemy/Enemy_08.ExportJson
+SHA1-Digest: OUwVRjbZbC/bQQMpDOwPBmvq+rY=
+
+Name: assets/Sound/Fire_Cannon.mp3
+SHA1-Digest: 9pyN1fARmEPA1Ig4k4zaS5jKBh8=
+
+Name: assets/config/levels/enemy_level_101_back2.tmx
+SHA1-Digest: pJE2iD/+llgWoLLoBm8U5T2Ns1U=
+
+Name: assets/Sound/Death_04.mp3
+SHA1-Digest: KULVVSI9ju9TXYTvoveZXL2QEhE=
+
+Name: assets/Garage/HUANG.png
+SHA1-Digest: jEu//6pofZiYeDWz76NBatAAvyA=
+
+Name: assets/Sound/Weapon_Missile.mp3
+SHA1-Digest: xI00OICSV1KZIVHp1DpTq2Eef1M=
+
+Name: assets/Garage/Node_Upgrade.csb
+SHA1-Digest: jH26gdCKJ3UjMiehVXPBmNetNXQ=
+
+Name: assets/Scene/Desert/Desert_BG_1.tmx
+SHA1-Digest: fjbI1WJrdzyUKDGdtiF9uSY2DPw=
+
+Name: assets/config/levels/enemy_level_303.tmx
+SHA1-Digest: ojWO1HoyDCACsqiYlZF6qAChGR8=
+
+Name: assets/Levels/Dimond.png
+SHA1-Digest: 0G89xfqq84qFdUu17VqD/S6hLFM=
+
+Name: assets/Scene/Underground/Underground_Middle_2.tmx
+SHA1-Digest: xRPBWfjw6TNAUs/ltDOTlZDbPQg=
+
+Name: assets/Enemy/Boss_000.png
+SHA1-Digest: poUnMqkmqz7cequmTFydxgai1yU=
+
+Name: assets/Levels/Title.png
+SHA1-Digest: q/CPkrBhQn7iCxblqH52U+BpEVE=
+
+Name: assets/Sound/TankMoving.ogg
+SHA1-Digest: c/SpPy0gdBgOMSg2MznWYjgNbAg=
+
+Name: assets/Tank/MelalTank0.plist
+SHA1-Digest: Ltj9xQgXCcMQHwJvakiAco0N9DQ=
+
+Name: assets/Enemy/Boss_01.ExportJson
+SHA1-Digest: 2dPoGYg9xFNwMo1Y4ROYqBrTFsQ=
+
+Name: assets/Story/Back_Dialoge.png
+SHA1-Digest: X6Er8gZSTLibvMpeMXqWtc6h3bs=
+
+Name: assets/BattleField/TankHp.png
+SHA1-Digest: RjfbZ+XzKhjOJLz5Oaoq/F7ziqQ=
+
+Name: assets/Garage/shop.png
+SHA1-Digest: 9Hf9/K6qb4+J4XhSCvdOL1HBcqs=
+
+Name: assets/config/levels/enemy_level_206.tmx
+SHA1-Digest: R3b9+JO5t3AB+f12+DJjrx8PIXc=
+
+Name: assets/Enemy/Enemy_100.png
+SHA1-Digest: NJ7UtwJeRecK6TlOSyzYaK2dG0E=
+
+Name: assets/Scene/Desert/Desert_Middle_3.tmx
+SHA1-Digest: xfN3JoWo1FYvwUCgSOEeym4foNA=
+
+Name: assets/Levels/LevelLab_Path.png
+SHA1-Digest: yqTh0nUp6DKMSIFUZtTVwkYvtpE=
+
+Name: assets/Purchase/Node_Armor_Box.csb
+SHA1-Digest: ytqdwktqeAEydSo3m8L8bWr0qNE=
+
+Name: assets/GameOver/Layer_Faild.csb
+SHA1-Digest: Z06Nrx2nGmRKIQZGdsFAHWDTvEo=
+
+Name: assets/Sound/Boom_01.mp3
+SHA1-Digest: N7qWpeW4migvKNhLRgC1avm/ZXQ=
+
+Name: assets/Enemy/Boss_020.png
+SHA1-Digest: 60Mgaw/BV5QCE/KCOzMoeMJmn/Q=
+
+Name: assets/Enemy/Enemy_020.plist
+SHA1-Digest: Qjr+yJx7ogu7yMsUO4LSjWDO9Ns=
+
+Name: assets/Enemy/Enemy_070.png
+SHA1-Digest: q02sS+Nn8JVMrMcvdvHIj4RP7Hw=
+
+Name: assets/Scene/Jungle/Jungle_Edges.png
+SHA1-Digest: qjhouWsi8wAi2x0xCyFlhxwyRfo=
+
+Name: assets/Purchase/Node_Super_Pack.csb
+SHA1-Digest: gs34zvorLT5yEcn1DldqYM7Tt0I=
+
+Name: assets/Story/Layer_Point.csb
+SHA1-Digest: tRtNcYeA5Y8t4xhsHS/bHvAGtSM=
+
+Name: assets/config/levels/enemy_level_107.tmx
+SHA1-Digest: M4hLWquNMizvwBOg6vaLQUj7emU=
+
+Name: assets/Enemy/Enemy_040.plist
+SHA1-Digest: /RtesVkyDJn2CpIeqS48r8cUxks=
+
+Name: assets/config/enemys/enemy_level_101_back.json
+SHA1-Digest: P23MIASo08kfiUqSoxhEFlmw3S0=
+
+Name: assets/Levels/Arrow.png
+SHA1-Digest: hhGG8RXl4HLiSBq4oxbpK4iVyN0=
+
+Name: assets/config/levels/enemy_level_101_back.tmx
+SHA1-Digest: /HGTFOwAgLvdCkk45rNp9I7dUqs=
+
+Name: assets/Garage/Start.png
+SHA1-Digest: kmL6j/hMdAW21uSRLYfhp3AOWjo=
+
+Name: assets/Purchase/hd10yuan.png
+SHA1-Digest: 7b4BJXTv8dVOumtvE/Ije8hpiuw=
+
+Name: assets/Scene/Jungle/Jungle_Middle_2.tmx
+SHA1-Digest: D0o3a40dqIUwhqra1JPj8iHKpEc=
+
+Name: assets/Levels/stage_back_02.PNG
+SHA1-Digest: 0Z9NZw5DzFKoqKoYeQWEtaeCXys=
+
+Name: assets/Sound/Fire_01.ogg
+SHA1-Digest: OXA2QElJaaNzW6sec6Iw+JOFHV8=
+
+Name: assets/Enemy/Enemy_070.plist
+SHA1-Digest: GSl4admynroWLZsby0IS9COe9Q0=
+
+Name: assets/Garage/Upgrade_Shield.png
+SHA1-Digest: dKwr66IZXG/gDD6lyIZgZuQnm5M=
+
+Name: assets/DamageFont_0.png
+SHA1-Digest: wFJPcdsOjhhir8Ujp5p5en2gCBg=
+
+Name: assets/Purchase/Node_Main_Zhanshu.csb
+SHA1-Digest: NGO713GrheT1Ry4IEdTb900ZgUo=
+
+Name: assets/Enemy/Enemy_060.png
+SHA1-Digest: Zhcc8K52khdvKCzPMMmfBpmQbHg=
+
+Name: assets/Levels/stage_back_01.PNG
+SHA1-Digest: mlSa7sJss+PswI787QDZYSDo+M4=
+
+Name: assets/BattleField/AmmoF.png
+SHA1-Digest: CnkU73Za7xK0Ur6MERz2Hsa2zWw=
+
+Name: assets/Loading/Loading_BG.png
+SHA1-Digest: GMDdzJniR+KzNjs8pK8ryg5Bz2Q=
+
+Name: assets/btn_pause.png
+SHA1-Digest: nYUjLu07KyMIoSTJbdNpL80Ag34=
+
+Name: assets/Loading/BulletHole.png
+SHA1-Digest: 6ewSIecLQX3h1hR8zxz+xdjl2PA=
+
+Name: assets/Levels/World_01.png
+SHA1-Digest: q3vev2OTqoaRJL+asGUDpuyTCKs=
+
+Name: assets/Purchase/Node_Shield.csb
+SHA1-Digest: ZxojFgsMHrcwG3A+3OiT0xcmrSI=
+
+Name: assets/config/levels/enemy_level_202.tmx
+SHA1-Digest: 3uYFtAD3083pNm6VZPk9jEogo3E=
+
+Name: assets/Garage/Upgrade_bg.png
+SHA1-Digest: aiuyjKOWzs0LxouKkr4XLjbZaPk=
+
+Name: assets/Default/Sprite.png
+SHA1-Digest: NdXYg/RizMp43u/Uplc0cdi+eC0=
+
+Name: assets/config/levels/enemy_level_307.tmx
+SHA1-Digest: 1nehFpGQkjbhy/luNr+gKyMXFyo=
+
+Name: assets/Purchase/Layer_Purcase_0.csb
+SHA1-Digest: Q1pI5s4gTZ5TQKaZKvwpWWHUq9k=
+
+Name: assets/Guide/Guide_Close.png
+SHA1-Digest: o7HE836SRdBI+n+Sg8U+PYkOeaY=
+
+Name: assets/Node_Mission_Start.csb
+SHA1-Digest: g0ZCe/6R92PCIf/JLw/LmH7Vafs=
+
+Name: assets/Garage/Item_Strike.png
+SHA1-Digest: 3HPGqsy36QYKuJedgXjtXb0l+cA=
+
+Name: assets/GameOver/MissionComplete.png
+SHA1-Digest: 7iLc47hI/jDdkabaYgXFpo7hxIE=
+
+Name: assets/Sound/Weapon_Thunder.mp3
+SHA1-Digest: 15z6RvM1UmNlys0uHqbxnpdZsXc=
+
+Name: assets/Enemy/Boss_010.png
+SHA1-Digest: N7K53TcULL2gdAIz2AxmGIpP73s=
+
+Name: assets/Sound/MissionStart.mp3
+SHA1-Digest: 4iPciOpIlYo89gzWUep1scf3Gcc=
+
+Name: assets/config/levels/enemy_level_102.tmx
+SHA1-Digest: wmQzvC72g0zE7GStki3UDUS2880=
+
+Name: assets/Scene/Jungle/Jungle_BG_1.tmx
+SHA1-Digest: fW13g/CdQi+NvXfXeJDMFOFUPcs=
+
+Name: classes.dex
+SHA1-Digest: p2RypeKK3pMA/JU5wDuznMy1dX4=
+
+Name: assets/Enemy/Enemy_100.plist
+SHA1-Digest: GSJE899iukEWdUeMeSYtCaEgjPE=
+
+Name: assets/Warning/WarningArrow.png
+SHA1-Digest: nRN0ElwU+DJrkvGq02G0LEeflCM=
+
+Name: assets/Sound/Death_05.mp3
+SHA1-Digest: 97mlbgWEpxtPldg+cBTHF0RoHkY=
+

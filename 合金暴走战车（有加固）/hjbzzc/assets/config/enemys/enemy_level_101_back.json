@@ -1,0 +1,176 @@
+[
+    {
+        "ID": 1,
+        "posX": 800,
+        "posY": 340,
+        "level": 0
+    },
+    {
+        "ID": 2,
+        "posX": 880,
+        "posY": 130,
+        "level": 0
+    },
+    {
+        "ID": 2,
+        "posX": 960,
+        "posY": 130,
+        "level": 0
+    },
+    {
+        "ID": 1,
+        "posX": 1040,
+        "posY": 340,
+        "level": 0
+    },
+    {
+        "ID": 3,
+        "posX": 1120,
+        "posY": 130,
+        "level": 0
+    },
+    {
+        "ID": 5,
+        "posX": 1200,
+        "posY": 280,
+        "level": 0
+    },
+    {
+        "ID": 2,
+        "posX": 1280,
+        "posY": 130,
+        "level": 0
+    },
+    {
+        "ID": 5,
+        "posX": 1360,
+        "posY": 320,
+        "level": 0
+    },
+    {
+        "ID": 3,
+        "posX": 1440,
+        "posY": 130,
+        "level": 0
+    },
+    {
+        "ID": 2,
+        "posX": 1520,
+        "posY": 130,
+        "level": 0
+    },
+    {
+        "ID": 3,
+        "posX": 1600,
+        "posY": 130,
+        "level": 0
+    },
+    {
+        "ID": 0,
+        "posX": 1680,
+        "posY": 130,
+        "level": 0
+    },
+    {
+        "ID": 2,
+        "posX": 1760,
+        "posY": 130,
+        "level": 0
+    },
+    {
+        "ID": 0,
+        "posX": 1840,
+        "posY": 130,
+        "level": 0
+    },
+    {
+        "ID": 2,
+        "posX": 1920,
+        "posY": 130,
+        "level": 0
+    },
+    {
+        "ID": 3,
+        "posX": 2000,
+        "posY": 130,
+        "level": 0
+    },
+    {
+        "ID": 2,
+        "posX": 2080,
+        "posY": 130,
+        "level": 0
+    },
+    {
+        "ID": 0,
+        "posX": 2160,
+        "posY": 130,
+        "level": 0
+    },
+    {
+        "ID": 3,
+        "posX": 2140,
+        "posY": 130,
+        "level": 0
+    },
+    {
+        "ID": 2,
+        "posX": 2320,
+        "posY": 130,
+        "level": 0
+    },
+    {
+        "ID": 0,
+        "posX": 2400,
+        "posY": 130,
+        "level": 0
+    },
+    {
+        "ID": 2,
+        "posX": 2480,
+        "posY": 130,
+        "level": 0
+    },
+    {
+        "ID": 2,
+        "posX": 2560,
+        "posY": 130,
+        "level": 0
+    },
+    {
+        "ID": 0,
+        "posX": 2640,
+        "posY": 130,
+        "level": 0
+    },
+    {
+        "ID": 1,
+        "posX": 2720,
+        "posY": 340,
+        "level": 0
+    },
+    {
+        "ID": 2,
+        "posX": 2800,
+        "posY": 130,
+        "level": 0
+    },
+    {
+        "ID": 2,
+        "posX": 2880,
+        "posY": 130,
+        "level": 0
+    },
+    {
+        "ID": 2,
+        "posX": 2960,
+        "posY": 130,
+        "level": 0
+    },
+    {
+        "ID": 2,
+        "posX": 3040,
+        "posY": 130,
+        "level": 0
+    }
+]

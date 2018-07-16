@@ -1,0 +1,327 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/StoryScene/only10.png
+SHA1-Digest: d/aTdw5nVl7VWA+GiEoAe6dppQ0=
+
+Name: assets/GameScene/FaceLayer/FaceLayer.csb
+SHA1-Digest: l3KF3zAt174ioXkwFixsbrrYOZo=
+
+Name: assets/ShopLayer/New/Banana2.png
+SHA1-Digest: SC62GdxrG+5ukRU20rd7fHLgxaA=
+
+Name: assets/Tasks.json
+SHA1-Digest: WkKbqJk+p5fnJl3sAyfWtM1/w+c=
+
+Name: assets/Purchase/PurchasePlist.plist
+SHA1-Digest: 5xsIORu+FezJmwJLL6BnQB9KGF0=
+
+Name: assets/ShopLayer/New/ShopLayer_Img_shadow.png
+SHA1-Digest: sLj4GCL4n3dPLghZNm3U16V+ZqE=
+
+Name: assets/StoryScene/StoryPlist.png
+SHA1-Digest: FLBXdsMkX2BnINyEkQfyKyNuXos=
+
+Name: assets/ShopLayer/StoreLayerPlist.png
+SHA1-Digest: ulnOToiD/xtFOIp5yQicpjF5/TE=
+
+Name: assets/GameScene/DoubleMoney.csb
+SHA1-Digest: jTa4pGW35OWyKNxJrr91ULcUV4A=
+
+Name: assets/GameScene/GameScene_Img_guideLine.png
+SHA1-Digest: s/hdEdk6ZAPuArpBWm1Z7eDirTI=
+
+Name: assets/ShopLayer/New/ShopLyaer_Btn_Items_off.png
+SHA1-Digest: eTirvBHjxxWtAjHjbFQXMJsaxSo=
+
+Name: assets/ShopLayer/New/ShopLayer_Btn_add.png
+SHA1-Digest: AyKN9XhcNP+9XwfUquwe0QUN0RU=
+
+Name: assets/music/playingss.mp3
+SHA1-Digest: bHmFRdycDp6rZRdk2FJl4yfnKV8=
+
+Name: lib/armeabi/libdnlocal.so
+SHA1-Digest: SJ9kHoLGfh01J+IW5ypUO2UkDwU=
+
+Name: assets/ChineseWords.xml
+SHA1-Digest: +fUeKNS2sVKql08/ZkL+6I8xTJg=
+
+Name: assets/music/launch.mp3
+SHA1-Digest: /r6FBUC3jkTTsf3XE06ZIA2cErQ=
+
+Name: assets/LevelLayer/LevelScenePlist.png
+SHA1-Digest: YvO8cdCZ58VEyQQ4b6gsfPQeYkY=
+
+Name: assets/music/story1.mp3
+SHA1-Digest: toTeJihUPXbMKMgl0eDeP2FJPoc=
+
+Name: assets/ShopLayer/Goods/GoodsPlist.plist
+SHA1-Digest: co3GC4rtgR79CNSY0RdspYl93Gs=
+
+Name: assets/payment.properties
+SHA1-Digest: KGnQmQGxf+N+UC5q+cPDnmlfDLo=
+
+Name: assets/Purchase/PurchasePlist.png
+SHA1-Digest: I+pWe+UnQxTQ5KuSvPt4cl1sTRE=
+
+Name: assets/MainScene/MainScene.png
+SHA1-Digest: TS8O57fZ5TAjv6X/q45rM+CtI7A=
+
+Name: assets/Num.png
+SHA1-Digest: GQCr5OHHX1PuRis3NtTczoikooQ=
+
+Name: resources.arsc
+SHA1-Digest: dMex0eiAdhXE/hxGSiVu4OlfKqo=
+
+Name: assets/GameScene/redLight.csb
+SHA1-Digest: 6IyXiVvbuqtNiX6WDlSUDsk+t3U=
+
+Name: assets/music/coin1.mp3
+SHA1-Digest: RD+Z2jOcjbstljqoOIgiL54VyyE=
+
+Name: AndroidManifest.xml
+SHA1-Digest: WgYJeuERFPLSrOiMTGnv0Fbh0W8=
+
+Name: assets/Default/Button_Press.png
+SHA1-Digest: 8WyMSYZpFEHJUlNu6oFo2vPH+gM=
+
+Name: assets/stars.png
+SHA1-Digest: jxfuVa876rzvSAAgqC3gWFCLO8o=
+
+Name: assets/Shop.png
+SHA1-Digest: t/zLYFCb/oiFgxb4KoHruXUliDY=
+
+Name: assets/ShopLayer/New/Money2.png
+SHA1-Digest: pQcDrSOYzxeN4wuj7LgamIzZf7o=
+
+Name: assets/rocks_falling.png
+SHA1-Digest: 3F5WWPfrJYd6ySpH1rN1QEqZ2Dk=
+
+Name: assets/music/coin2.mp3
+SHA1-Digest: Ie+VyLkFhnMSbRk2fQVoqo4F7Vw=
+
+Name: assets/goods_content.json
+SHA1-Digest: O0I3qYLgNZfzfQz56Aq0997JgP8=
+
+Name: assets/MainScene/MainScene_bg.jpg
+SHA1-Digest: yT87MHDMDkifhRKI0y+dcxbOL3k=
+
+Name: assets/music/opening.mp3
+SHA1-Digest: q6PhEKL6Lt7LXdJIYx/m51cqOTI=
+
+Name: assets/ShopLayer/New/ShopLayer_Img_banana.png
+SHA1-Digest: wRM27/tBkmBuniDkkfQyOOv2ZBk=
+
+Name: assets/draging.plist
+SHA1-Digest: 6rPdYSNnoyRhYS8yQDPYurTZhjI=
+
+Name: assets/GameOverLayer/PushGoodsPlist.plist
+SHA1-Digest: hzve4Dkp6NE4lhgahHOK1b9u8zQ=
+
+Name: assets/money_falling.png
+SHA1-Digest: A80gwYbYnDZVb7GdHv+uDO3+2QI=
+
+Name: assets/music/button.mp3
+SHA1-Digest: Jdx+Kb6Vts5SY1JEuUmfjkiMcP4=
+
+Name: assets/GameScene/FallingRedBill.csb
+SHA1-Digest: CrRk8YSJFrjXn3ihUuKGXvDS3ag=
+
+Name: assets/title.json
+SHA1-Digest: sI9YBiOb5tC8YpxTrgifdOfexuU=
+
+Name: assets/GameScene/GameScene.csb
+SHA1-Digest: Lxp57xIm/he6dVdS0Z95WFvZtug=
+
+Name: assets/LevelLayer/BarItem.csb
+SHA1-Digest: hVf3NmqLJJ4dgIMA2/jcC2hyqo8=
+
+Name: assets/GameScene/FaceLayer/FacePlist.png
+SHA1-Digest: mHjmPtU6ewW27kfjEEUh0GxdXOQ=
+
+Name: assets/Default/Button_Normal.png
+SHA1-Digest: CJe9xKl0lJTgiEpByjAVoZRd8+o=
+
+Name: assets/GameScene/RedBill.csb
+SHA1-Digest: efQXC1OwPmbm88w8QIY1GNCXc+U=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: VW2UyQrEloY4lNtU0F+FKRGr6f8=
+
+Name: assets/ShopLayer/StoreLayerPlist.plist
+SHA1-Digest: UsK1kajCH855XdFIvw1FTbumxkg=
+
+Name: assets/stars.plist
+SHA1-Digest: rEjNAWxvP6Tg+0uCOH4eFHeBfxg=
+
+Name: assets/LevelLayer/LevelScenePlist.plist
+SHA1-Digest: C7WAopBZ7m/3jCRZshStUnYOm7k=
+
+Name: assets/Plugin2.apk
+SHA1-Digest: ntCucw0qEout5Qh9KvSDJY1bW18=
+
+Name: assets/GameScene/Diamond.csb
+SHA1-Digest: UgCcP/VSVNUcpJe+rQdBbU97a9I=
+
+Name: assets/ShopLayer/New/ShopLyaer_Btn_buy_normal.png
+SHA1-Digest: MYXttdqqyyYqxuoSZDllIslicVg=
+
+Name: assets/ShopLayer/ShopLayer_new.csb
+SHA1-Digest: Ccch1h22K7wDdsnatQ+XYCbNRoY=
+
+Name: assets/ShopLayer/New/Banana1.png
+SHA1-Digest: wRM27/tBkmBuniDkkfQyOOv2ZBk=
+
+Name: assets/ShopLayer/New/ShopLyaer_Img_Item_bought.png
+SHA1-Digest: 55BSbD/DJKbwzuDP/4ay/O3L6Bw=
+
+Name: assets/GameScene/SilverCoin.csb
+SHA1-Digest: Hk3JSZra48XubFeen5KrN1OGhk0=
+
+Name: assets/GameOverLayer/GameOverLayer.csb
+SHA1-Digest: Ahw/x/DlkQb47KK6xFxOSnMXFhc=
+
+Name: assets/ShopLayer/New/ShopLayer_Btn_close.png
+SHA1-Digest: bt3Ca2QgdafvE4x5XpzcdtZp18c=
+
+Name: assets/ShopLayer/New/ShopLayer_Img_glod.png
+SHA1-Digest: stE3K8Ol3ng/YOG40r3aulOVE00=
+
+Name: lib/armeabi/libcocos2dcpp.so
+SHA1-Digest: uchztcufkc6foeEXmb/cQSvwMD8=
+
+Name: assets/ShopLayer/New/ShopLayer_Num.png
+SHA1-Digest: EbS8Ct+EqWg1y4tzfraCPnqc7xg=
+
+Name: assets/GameScene/GameScene.png
+SHA1-Digest: flx5EpLJ1CT/BCrkcLBHxcxJukc=
+
+Name: assets/ShopLayer/New/Money3.png
+SHA1-Digest: 4HoyLn2GhswtdfcfkN/Lr2RWJjA=
+
+Name: assets/Num.fnt
+SHA1-Digest: VFwgvEa9unF2zIfsLUUWNU882ow=
+
+Name: assets/StoryScene/StoryScene.csb
+SHA1-Digest: UzrUpNZCwo4aasbiCcsSDL0fQAw=
+
+Name: assets/rocket.png
+SHA1-Digest: 48+tiuTaspmRmQhSEgmTlt2PNOw=
+
+Name: assets/ShopLayer/New/ShopLyaer_Btn_Items_on.png
+SHA1-Digest: YcDinZi3BHnxGv+ww8FUHemz0dc=
+
+Name: assets/GameScene/FallingGreenBill.csb
+SHA1-Digest: Jz3Lc8R8xNItscq/i/QzgLD6I0w=
+
+Name: assets/draging.png
+SHA1-Digest: OjI65KDsTrKsYo8R/U42tCfm+I4=
+
+Name: assets/music/coin3.mp3
+SHA1-Digest: PvPEvwuqWwyKGl2mC8TnFB2iteQ=
+
+Name: assets/rocks_falling.plist
+SHA1-Digest: IH3cj54iubcYFihdT56tffEegsA=
+
+Name: assets/GameScene/GameScene.plist
+SHA1-Digest: QPfLN07H04qKIsguYCG2wnYM45Y=
+
+Name: assets/ShopLayer/New/ShopLyaer_Btn_buy_press.png
+SHA1-Digest: c6zA+7R4AQ9Cjn+VMVG/5+eOo+U=
+
+Name: assets/ShopInfo.json
+SHA1-Digest: qt58ofhj+LpgNs42MkNOOe8gVJc=
+
+Name: assets/GameScene/FaceLayer/FacePlist.plist
+SHA1-Digest: YgNpcyGL9ofnKL1gh0i3RCQMmpE=
+
+Name: assets/GameScene/GameOverLayer.csb
+SHA1-Digest: /W5Pj1re3acm7Xhxl80Zfgw7tzI=
+
+Name: assets/Purchase/PurchaseLayer.csb
+SHA1-Digest: lG7yVflHlDwm6OaxvhE6vv6y8+U=
+
+Name: assets/MainScene/MainScene.plist
+SHA1-Digest: ysf0t9hwJhKWzGNAGrcIvVfsI4c=
+
+Name: assets/ShopLayer/New/ShopLayer_Img_ItemsBg.png
+SHA1-Digest: q/cqbNgt+R3hlB9jXE1O26jlVyQ=
+
+Name: assets/StoryScene/StoryPlist.plist
+SHA1-Digest: CoyOu6ioaMgyqh6+OH3ywBuogIY=
+
+Name: assets/ShopLayer/New/ShopLayer_Btn_title_choosed.png
+SHA1-Digest: fpHAy1c3F+PQb8yge/+xnBNvJ+8=
+
+Name: assets/ShopLayer/Goods/GoodsPlist.png
+SHA1-Digest: DkkynzADsEVYM+dq8fglnKQSh8M=
+
+Name: assets/music/boom.mp3
+SHA1-Digest: y+vyfBcdU11X6aZf1OPnhvL33Xo=
+
+Name: assets/music/story2.mp3
+SHA1-Digest: wJ0NRKTyEj461DMTNmSiFa3/+PQ=
+
+Name: assets/ShopLayer/New/Money1.png
+SHA1-Digest: DcF9tNfcRZQVhyYvl7eJm+CZZh4=
+
+Name: assets/ShopLayer/New/ShopLayer_Img_background.png
+SHA1-Digest: ApNtLpJnCLF544UwJCDe4BTTg94=
+
+Name: assets/GameScene/GoldCoin.csb
+SHA1-Digest: 2dbUG8KkHmzaN3x62fuXFL18XTw=
+
+Name: assets/GameScene/GreenBill.csb
+SHA1-Digest: wqehsv33S7JTK52sJsdkUogv4RE=
+
+Name: assets/GameScene/Hand.csb
+SHA1-Digest: 3q85pNhvpTGddHP2c91S9xBZZYQ=
+
+Name: assets/music/what.mp3
+SHA1-Digest: vYz9EdK7bvGFGBBEp38SZmP4HFk=
+
+Name: assets/money_falling.plist
+SHA1-Digest: 7nCwDkJ0/gcoik31ohTNTi3CBtU=
+
+Name: assets/Default/Button_Disable.png
+SHA1-Digest: yu5dx62og5XIafy559FEyhfnW48=
+
+Name: assets/ShopLayer/New/ShopLyaer_Img_Item_choosed.png
+SHA1-Digest: 2dxwZA7BQLNEtScUtWRD+0+MB38=
+
+Name: assets/spark.png
+SHA1-Digest: jxfuVa876rzvSAAgqC3gWFCLO8o=
+
+Name: assets/ShopLayer/OrnamentItem.csb
+SHA1-Digest: F3RmUxT0O8vhEU3f82iuggAET0s=
+
+Name: assets/ShopLayer/ShopLayer.csb
+SHA1-Digest: yrS+a8E63Z47zwfBipVZWBbirqY=
+
+Name: assets/LevelLayer/LevelLayer.csb
+SHA1-Digest: AI/LhubwXJbxDepRArbH2dI2as8=
+
+Name: assets/GameOverLayer/PushGoodsPlist.png
+SHA1-Digest: 8IuAIWtGlBu8XKOMCEr7vL8GTyE=
+
+Name: assets/Shop.fnt
+SHA1-Digest: kWSgiWewMt/FzFu/zDbsRykkU4M=
+
+Name: assets/ShopLayer/New/Banana3.png
+SHA1-Digest: BsJsGcKysXbCGRZTvllUjbJdXTs=
+
+Name: assets/ShopLayer/New/ShopLayer_Btn_title_normal.png
+SHA1-Digest: ku+grpGr1/jihTygAqprhYifRhI=
+
+Name: classes.dex
+SHA1-Digest: ePkise/gz4r/mOfp0EoNvPNuJWQ=
+
+Name: assets/LevelLayer/LevelLayer_Img_num.png
+SHA1-Digest: k4yYWvQbpv1CTS8Vylr9GcWTJlM=
+
+Name: assets/MainScene/MainScene.csb
+SHA1-Digest: dDFpXfueYUyWVX1ay1M9fGrq4oM=
+
+Name: assets/spark.plist
+SHA1-Digest: bRlJi4Crwa3kJns/2iNKdVW3N0I=
+

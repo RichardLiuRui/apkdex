@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="icon" id="0x7f020000" />
+    <public type="color" name="transparent_background" id="0x7f030000" />
+    <public type="color" name="dialog_transparent_background" id="0x7f030001" />
+    <public type="color" name="green" id="0x7f030002" />
+    <public type="color" name="input_title" id="0x7f030003" />
+    <public type="color" name="input_hint" id="0x7f030004" />
+    <public type="color" name="input_edit_hint" id="0x7f030005" />
+    <public type="color" name="input_edit_content" id="0x7f030006" />
+    <public type="color" name="user_hint" id="0x7f030007" />
+    <public type="color" name="tab_font" id="0x7f030008" />
+    <public type="color" name="query_list_even_bg" id="0x7f030009" />
+    <public type="color" name="query_list_odd_bg" id="0x7f03000a" />
+    <public type="color" name="query_list_item_1" id="0x7f03000b" />
+    <public type="color" name="query_list_item_2" id="0x7f03000c" />
+    <public type="color" name="query_list_item_3" id="0x7f03000d" />
+    <public type="color" name="query_list_item_4" id="0x7f03000e" />
+    <public type="color" name="back_button_normal" id="0x7f03000f" />
+    <public type="color" name="back_button_shadow_normal" id="0x7f030010" />
+    <public type="color" name="back_button_focus" id="0x7f030011" />
+    <public type="color" name="back_button_shadow_focus" id="0x7f030012" />
+    <public type="color" name="lt_transparent_background" id="0x7f030013" />
+    <public type="style" name="lttransparent" id="0x7f040000" />
+    <public type="style" name="AppBaseTheme" id="0x7f040001" />
+    <public type="style" name="AppTheme" id="0x7f040002" />
+    <public type="style" name="mytheme" id="0x7f040003" />
+    <public type="style" name="transparent" id="0x7f040004" />
+    <public type="style" name="CustomDialog" id="0x7f040005" />
+    <public type="style" name="WxDialog" id="0x7f040006" />
+    <public type="string" name="app_name" id="0x7f050000" />
+</resources>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>game_scene_di</key>
+	<string>第</string>
+	<key>game_scene_guan</key>
+	<string>关</string>
+	<key>game_scene_target</key>
+	<string>目标</string>
+	<key>game_scene_fen</key>
+	<string>分</string>
+	<key>game_scene_over</key>
+	<string>游戏结束</string>
+	<key>game_scene_bomb</key>
+	<string>选择3×3方块的中心</string>
+	<key>game_scene_paint1</key>
+	<string>选择要变色的方块</string>
+	<key>game_scene_paint2</key>
+	<string>选择要变成的颜色</string>
+	<key>game_scene_left</key>
+	<string>剩余</string>
+	<key>game_scene_block</key>
+	<string>个方块</string>
+	<key>game_scene_jiang</key>
+	<string>奖励</string>
+	<key>game_scene_lian</key>
+	<string>连消</string>
+</dict>
+</plist>

@@ -1,0 +1,231 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/titleAnimation/animation6.png
+SHA1-Digest: zh/TIv//UsSyz7kTGKvEm6NmHLE=
+
+Name: assets/titleAnimation/animation11.png
+SHA1-Digest: gpYm/SxA1CZOywEsYNAeH8fBTAc=
+
+Name: assets/second/jifei.png
+SHA1-Digest: CfCHvetGxLOUWR2tjKUPEa45mnc=
+
+Name: assets/music/hit.wav
+SHA1-Digest: OTKjubDC98nKgoDKNBvNaUKbr8Y=
+
+Name: assets/music/current.wav
+SHA1-Digest: NoKf77CiT+grP9gCDO4IlzzXj8o=
+
+Name: assets/titleAnimation/title12.png
+SHA1-Digest: aDvSQ1Pj4lRkii8g86UOspl9800=
+
+Name: assets/titleAnimation/title7.png
+SHA1-Digest: DvuW3UMagem88eFcJ7EU6TOUj/A=
+
+Name: assets/failLayer.csb
+SHA1-Digest: ozO3a1yXzPodt3SyDr6cTbmYQ0g=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: B2vylgUPLRhyBhUVhZeTVQGz/1M=
+
+Name: assets/number/number_target_score.png
+SHA1-Digest: 59eQtbznNpYo7WPq+8XLMfLiLIo=
+
+Name: assets/titleAnimation/animation12.png
+SHA1-Digest: AVtzck7TSNHevWTkPSNAw4Aefr0=
+
+Name: assets/music/breakup.wav
+SHA1-Digest: mYiqZdSZlbW9Dp32TtIzaFTu6PI=
+
+Name: assets/ui/20yuan.png
+SHA1-Digest: xmOOnLCY2sZQawXqxca+Vc3AZWc=
+
+Name: assets/titleAnimation/animation7.png
+SHA1-Digest: lzlWnoB61gy6DZgzhbOLwpCcvVc=
+
+Name: assets/titleAnimation/title11.png
+SHA1-Digest: JFMujR8ZWVNHJhNpYLQg5OZDi3M=
+
+Name: assets/second/ok_btn.png
+SHA1-Digest: 3+399bvZRRYVSDjIW/ns5PTTQH4=
+
+Name: assets/titleAnimation/title6.png
+SHA1-Digest: h4SYqVrsKzNwdmKdnxLbzXq6oIM=
+
+Name: assets/ui/alignment.png
+SHA1-Digest: YxEd+Y2SUUPI2VxMEoCPatkNdzw=
+
+Name: assets/number/small_number.png
+SHA1-Digest: Ot9lWwVSqKsPadA5SDF2D6p8iuI=
+
+Name: assets/gameLayer.csb
+SHA1-Digest: FfUpn6LTTLhcISp95sYMaxXZdjQ=
+
+Name: assets/titleAnimation/animation18.png
+SHA1-Digest: D94FVTkpQmn72zOnNDH13fkdip0=
+
+Name: assets/titleAnimation/title4.png
+SHA1-Digest: 8ijy/YWbmgZ4yigbH+qCMb7RpXA=
+
+Name: assets/titleAnimation/title15.png
+SHA1-Digest: 9cLikcfOrhGj3lJJ97lP0e+cJrU=
+
+Name: assets/number/big_number.png
+SHA1-Digest: HNsmEoZC/8LuOoBeTDADi7sePIQ=
+
+Name: assets/titleAnimation/title10.png
+SHA1-Digest: 2IRUgbZMePnhaMa36Jhmo1b2oOQ=
+
+Name: assets/titleAnimation/animation8.png
+SHA1-Digest: wXVHu5M/ekOLbWo+SHa7jjsxAEo=
+
+Name: assets/bg/lotter_bg.png
+SHA1-Digest: HV3Xwsd/gAx3EBFp718BZPF2cZA=
+
+Name: assets/titleAnimation/animation9.png
+SHA1-Digest: 5qDnGxEW2OqPeCRIjQW/pQIP9Zs=
+
+Name: assets/number/game_number.png
+SHA1-Digest: w/xHDFp8X9goqfcZ4/D6EtzvoQg=
+
+Name: assets/bg/game_bg.png
+SHA1-Digest: AKHDUPaAraVdxlIfN0HZIzmnJeI=
+
+Name: lib/armeabi/libcocos2dcpp.so
+SHA1-Digest: gEdBxGZCE2j+7tWQN12WteJtQjI=
+
+Name: assets/music/Bomb.wav
+SHA1-Digest: DvorRwukH/DWhetxxMLN/0whiO4=
+
+Name: assets/titleAnimation/title16.png
+SHA1-Digest: yGs4TsiijcMlOjigZb5IAaE/j6g=
+
+Name: assets/shopLayer.csb
+SHA1-Digest: iYxtrYAsYGf/AklXCPpYmaHDnAI=
+
+Name: assets/titleAnimation/title5.png
+SHA1-Digest: TkP9Ny+vuG/QIm8a/cE7JeqgmeY=
+
+Name: assets/bg/fail_bg.png
+SHA1-Digest: 9G1WjB2TaR3Qbzf6D9LTCmkBVXA=
+
+Name: resources.arsc
+SHA1-Digest: xREBYTzjcMuks1ghBW4UvkvnqA8=
+
+Name: assets/second/second_bg.png
+SHA1-Digest: hMzMH5c1awHSSadj7QOyEIyqZ04=
+
+Name: assets/bg/login_bg.png
+SHA1-Digest: 0iMsjP+DWduqJ29HyTmmx6ka63I=
+
+Name: assets/titleAnimation/animation10.png
+SHA1-Digest: J9aB/8VfoTqEf7Q9QRn8jJLq9C8=
+
+Name: assets/startLayer.csb
+SHA1-Digest: Uqo2xf8WzcNUWxklXR2d1qo458o=
+
+Name: assets/titleAnimation/animation1.png
+SHA1-Digest: c3Pwmak2XFNoh2tx/0E5i6N6ios=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 2RmCwSkgxWAPhcGlIdO+0kfjhVQ=
+
+Name: assets/titleAnimation/title17.png
+SHA1-Digest: H+EP2o6fH8H7PuOSnZ9MNT7rTDo=
+
+Name: res/drawable-ldpi-v4/icon.png
+SHA1-Digest: uZHGrSqUvJWoaRmTcd6jqierJA0=
+
+Name: assets/music/fail.wav
+SHA1-Digest: 9CDpX739XVg4k1neJ1gzUWeWBAg=
+
+Name: assets/bg/level.png
+SHA1-Digest: UjqcKpvouAAvUbXVJy/wKdat5B8=
+
+Name: assets/titleAnimation/title1.png
+SHA1-Digest: K0gSnOuB0m0HKFqLq7wdWWIjRQU=
+
+Name: assets/titleAnimation/animation2.png
+SHA1-Digest: sHjlkkglUtVHYhcsKn2HFw0BVTM=
+
+Name: assets/ui/ui.plist
+SHA1-Digest: m/cEMJUGZUhWnKFUJAJXbAenQ/U=
+
+Name: assets/titleAnimation/animation15.png
+SHA1-Digest: eXDfOUfwTuXsQfSq9CaWpXZ/y98=
+
+Name: assets/titleAnimation/animation17.png
+SHA1-Digest: dSUCPogve1/WQzjkJkIB7XlN9YM=
+
+Name: assets/ui/ui.png
+SHA1-Digest: e+e7VzjgpsNvDsGT6CcGIMriC8o=
+
+Name: assets/titleAnimation/title3.png
+SHA1-Digest: hT/syy2jq6IsgQQMKk6KrKupk8o=
+
+Name: assets/bg/shop_bg.png
+SHA1-Digest: 63ZX+nu1QtDBLYCVyaYMKmqoFaw=
+
+Name: assets/titleAnimation/animation3.png
+SHA1-Digest: cY+jD5vxZrpuXyuRjJ/zesZn2DY=
+
+Name: assets/bg/bg.jpg
+SHA1-Digest: ZcWWq/Bd5aRQ4ce4movfpYa8ndg=
+
+Name: assets/titleAnimation/animation16.png
+SHA1-Digest: YtE/+jMwwthiT7svJllq11o5xVY=
+
+Name: assets/titleAnimation/title2.png
+SHA1-Digest: RSHUcz21/k9IfEMoBq+V5gnhZoA=
+
+Name: assets/second/tip.png
+SHA1-Digest: j5/E8beU0dRMiYoxYLsNCoZhbMs=
+
+Name: assets/titleAnimation/title9.png
+SHA1-Digest: Xl+070bKUxvrp+cs2J5MEXF1aV8=
+
+Name: assets/music/backgroud1.mp3
+SHA1-Digest: dAM3qEs58cCov9hp3yTk2MjXBE8=
+
+Name: assets/Default/Button_Disable.png
+SHA1-Digest: ElrxAPZj/h2MkOT2vZwyVq1RCGw=
+
+Name: assets/titleAnimation/title14.png
+SHA1-Digest: MqKF8jOcl11wQV1xp5UHYZ1Welg=
+
+Name: assets/titleAnimation/animation4.png
+SHA1-Digest: zkHCEwNJ9zlZnhCOcfF/72u+4SQ=
+
+Name: assets/titleAnimation/animation13.png
+SHA1-Digest: GRkke9josZpqMVVpMQ0MGg3Hr60=
+
+Name: assets/second/close_btn.png
+SHA1-Digest: Fi4eSFFo3Dr4Dek3JPqP8aQngus=
+
+Name: assets/music/clock_stop.wav
+SHA1-Digest: d6YiE7O2ld+n7hwuYeuyJqyrBxw=
+
+Name: assets/number/numbersmap.png
+SHA1-Digest: N/JTKPUhHIKwVapHkJY49NqBeR8=
+
+Name: assets/titleAnimation/animation5.png
+SHA1-Digest: D+IKAGb3nFZ1qwpavfUfGkX2L2c=
+
+Name: assets/titleAnimation/title13.png
+SHA1-Digest: IgxbJq4Z10n9xXLATndrsE2E0w4=
+
+Name: assets/titleAnimation/title8.png
+SHA1-Digest: ZPEYtlqhCy+z7lf4hGfgnKPGL/Y=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA1-Digest: unLVC/w2TH/SWPUP0HQ+/X1FT04=
+
+Name: classes.dex
+SHA1-Digest: h6+UzPoJHvLAnWO8O+4kKR+EvnU=
+
+Name: assets/bg/lotter_round_bg.png
+SHA1-Digest: JZAUqc2Q0SkgYD8zGLOCjIdUd8Q=
+
+Name: assets/titleAnimation/animation14.png
+SHA1-Digest: O9JyjjFClgr7Gv1flspUdm/aOW0=
+

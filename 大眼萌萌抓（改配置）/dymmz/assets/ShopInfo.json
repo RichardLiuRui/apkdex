@@ -1,0 +1,152 @@
+{
+    "ornament": [
+        {
+            "name": "Beard1",
+            "price": "100",
+            "type": "money",
+            "title":"大胡子"
+        },
+        {
+            "name": "Glasses1",
+            "price": "200",
+            "type": "money",
+            "title":"墨镜"
+        },
+        {
+            "name": "Tottoo1",
+            "price": "300",
+            "type": "money",
+            "title":"水手纹身"
+        },
+        {
+            "name": "Tottoo2",
+            "price": "400",
+            "type": "money",
+            "title":"爱心纹身"
+        },
+        {
+            "name": "Hair1",
+            "price": "400",
+            "type": "money",
+            "title":"方便面发型"
+        },
+        {
+            "name": "Hair2",
+            "price": "500",
+            "type": "money",
+            "title":"型男发型"
+        },
+        {
+            "name": "Watch1",
+            "price": "500",
+            "type": "money",
+            "title":"苹果手表"
+        },
+        {
+            "name": "Watch2",
+            "price": "800",
+            "type": "money",
+            "title":"劳力士手表"
+        },
+        {
+            "name": "Clothes1",
+            "price": "1000",
+            "type": "money",
+            "title":"貂皮大衣"
+        },
+        {
+            "name": "Hat1",
+            "price": "1200",
+            "type": "money",
+            "title":"貂皮帽"
+        },
+        {
+            "name": "Clothes2",
+            "price": "1200",
+            "type": "money",
+            "title":"黑风衣"
+        },
+        {
+            "name": "Hat2",
+            "price": "1400",
+            "type": "money",
+            "title":"黑礼帽"
+        },
+        {
+            "name": "Clothes3",
+            "price": "2000",
+            "type": "money",
+            "title":"圣诞牛仔"
+        },
+        {
+            "name": "Hat3",
+            "price": "2200",
+            "type": "money",
+            "title":"圣诞帽"
+        },
+        {
+            "name": "Clothes4",
+            "price": "4000",
+            "type": "money",
+            "title":"皇马球衣"
+        },
+        {
+            "name": "Hat4",
+            "price": "4200",
+            "type": "money",
+            "title":"皇马头带"
+        }
+    ],
+    "prop": [
+        {
+            "name": "Pet1",
+            "price": "6",
+            "type": "RMB",
+            "title":"小紫人"
+        },
+        {
+            "name": "Pet2",
+            "price": "8",
+            "type": "RMB",
+            "title":"摩托小黄人"
+        },
+        {
+            "name": "Pet3",
+            "price": "10",
+            "type": "RMB",
+            "title":"超人小黄人"
+        },
+        {
+            "name": "DoubleHand4",
+            "price": "10",
+            "type": "RMB",
+            "title":"双手模式"
+        },
+        {
+            "name": "DoubleMoney5",
+            "price": "10",
+            "type": "RMB",
+            "title":"双倍金币"
+        }
+    ],
+    "store": [
+        {
+            "name": "Money1",
+            "price": "6",
+            "type": "RMB",
+            "title":"500金币"
+        },
+        {
+            "name": "Money2",
+            "price": "8",
+            "type": "RMB",
+            "title":"1000金币"
+        },
+        {
+            "name": "Money3",
+            "price": "10",
+            "type": "RMB",
+            "title":"3000金币"
+        }
+    ]
+}

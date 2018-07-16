@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>ShopLayer/New/ShopLayer_Btn_add.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{111,978},{175,39}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{175,39}</string>
+			</dict>
+			<key>ShopLayer/New/ShopLayer_Btn_close.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{235,898},{51,60}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{51,60}</string>
+			</dict>
+			<key>ShopLayer/New/ShopLayer_Btn_title_choosed.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{133,810},{117,45}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{117,45}</string>
+			</dict>
+			<key>ShopLayer/New/ShopLayer_Btn_title_normal.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{235,857},{104,39}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,39}</string>
+			</dict>
+			<key>ShopLayer/New/ShopLayer_Img_background.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{480,687}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{480,687}</string>
+			</dict>
+			<key>ShopLayer/New/ShopLayer_Img_banana.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{288,898},{42,49}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{42,49}</string>
+			</dict>
+			<key>ShopLayer/New/ShopLayer_Img_glod.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{252,810},{43,43}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{43,43}</string>
+			</dict>
+			<key>ShopLayer/New/ShopLayer_Img_ItemsBg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,858},{108,145}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{108,145}</string>
+			</dict>
+			<key>ShopLayer/New/ShopLayer_Img_shadow.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1005},{65,14}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{65,14}</string>
+			</dict>
+			<key>ShopLayer/New/ShopLyaer_Btn_buy_normal.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{111,858},{122,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{122,58}</string>
+			</dict>
+			<key>ShopLayer/New/ShopLyaer_Btn_buy_press.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{111,918},{122,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{122,58}</string>
+			</dict>
+			<key>ShopLayer/New/ShopLyaer_Btn_Items_off.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{133,690},{122,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{122,58}</string>
+			</dict>
+			<key>ShopLayer/New/ShopLyaer_Btn_Items_on.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{133,750},{122,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{122,58}</string>
+			</dict>
+			<key>ShopLayer/New/ShopLyaer_Img_Item_bought.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{288,949},{34,34}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{34,34}</string>
+			</dict>
+			<key>ShopLayer/New/ShopLyaer_Img_Item_choosed.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,690},{130,166}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{130,166}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>StoreLayerPlist.png</string>
+			<key>realTextureFileName</key>
+			<string>StoreLayerPlist.png</string>
+			<key>size</key>
+			<string>{512,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

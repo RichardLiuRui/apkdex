@@ -1,0 +1,156 @@
+{
+    "chinese": [
+        {
+            "beard": [
+                "",
+                "绅士",
+                "酒馆老板",
+                "农场主",
+                "芝士"
+            ],
+            "car": [
+                "",
+                "小木马",
+                "捷安特",
+                "宝马",
+                "法拉利"
+            ],
+            "clothes": [
+                "",
+                "羊毛衫",
+                "花裙子",
+                "女仆装",
+                "精致西装"
+            ],
+            "doubleHand": [
+                "双手"
+            ],
+            "doubleMoney": [
+                "双倍金币"
+            ],
+            "glass": [
+                "",
+                "帅气的眼镜",
+                "爱心眼镜",
+                "潮人眼镜",
+                "时尚墨镜"
+            ],
+            "hair": [
+                "",
+                "中分",
+                "流海",
+                "酷炫发型",
+                "爆炸发型"
+            ],
+            "hat": [
+                "",
+                "正常的帽子",
+                "画家",
+                "女仆帽",
+                "马里奥"
+            ],
+            "necklace": [
+                "",
+                "珍珠项链",
+                "黄金项链",
+                "玛瑙项链",
+                "宝石项链"
+            ],
+            "pet1": [
+                "小紫人"
+            ],
+            "pet2": [
+                "水母君"
+
+            ],
+            "pet3": [
+                "小蝙蝠" 
+
+            ],
+            "watch": [
+                "",
+                "劳丽诗",
+                "大米手环",
+                "爱沃趣",
+                "UTX-400"
+            ]
+        }
+    ],
+	    "English": [
+        {
+            "beard": [
+                "",
+                "Gentlemen",
+                "Tavern owner",
+                "Farmer",
+                "Cheese"
+            ],
+            "car": [
+                "",
+                "Pony",
+                "Giant",
+                "BMW",
+                "Ferrari"
+            ],
+            "clothes": [
+                "",
+                "Sweater",
+                "Skirt",
+                "Apron Dress",
+                "Delicate suit"
+            ],
+            "doubleHand": [
+                "Dual hands"
+            ],
+            "doubleMoney": [
+                "Double coin"
+            ],
+            "glass": [
+                "",
+                "Handsome glasses",
+                "Love glasses",
+                "Fashion glasses",
+                "Sunglasses"
+            ],
+            "hair": [
+                "",
+                "Midsplit",
+                "Fringe",
+                "Punk",
+                "Afro"
+            ],
+            "hat": [
+                "",
+                "Hat",
+                "Artist's hat",
+                "A Maid's hat",
+                "Mario's hat"
+            ],
+            "necklace": [
+                "",
+                "Pearl necklace",
+                "Gold necklace",
+                "Agate necklace",
+                "Gem necklace"
+            ],
+            "pet1": [
+                "Purple Minion"
+            ],
+            "pet2": [
+                "Mr. Jellyfish"
+
+            ],
+            "pet3": [
+                "The Bat" 
+
+            ],
+            "watch": [
+                "",
+                "Rolux",
+                "Sport Bracelet",
+                "i-what",
+                "UTX-400"
+            ]
+        }
+    ]
+}

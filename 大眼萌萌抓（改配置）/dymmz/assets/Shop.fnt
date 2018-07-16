@@ -1,0 +1,11 @@
+info face="Î¢ÈíÑÅºÚ" size=22 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,2,1,2 spacing=0,0
+common lineHeight=31 base=24 scaleW=256 scaleH=32 pages=1 packed=0
+page id=0 file="Shop.png"
+chars count=6
+char id=32   x=0     y=0     width=0     height=0     xoffset=0     yoffset=24    xadvance=11     page=0  chnl=0 
+char id=35013   x=0     y=0     width=28     height=24     xoffset=-2     yoffset=5    xadvance=26     page=0  chnl=0 
+char id=36947   x=28     y=0     width=28     height=24     xoffset=-2     yoffset=5    xadvance=26     page=0  chnl=0 
+char id=24215   x=56     y=0     width=28     height=24     xoffset=-2     yoffset=5    xadvance=26     page=0  chnl=0 
+char id=39280   x=84     y=0     width=28     height=23     xoffset=-2     yoffset=6    xadvance=26     page=0  chnl=0 
+char id=20855   x=112     y=0     width=28     height=23     xoffset=-2     yoffset=6    xadvance=26     page=0  chnl=0 
+char id=21830   x=140     y=0     width=28     height=23     xoffset=-2     yoffset=6    xadvance=26     page=0  chnl=0 

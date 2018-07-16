@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-up" width="125" height="15" tilewidth="32" tileheight="32" nextobjectid="54">
+ <tileset firstgid="1" name="base" tilewidth="32" tileheight="32" tilecount="1" columns="1">
+  <image source="baseTile.png" trans="ff00ff" width="32" height="32"/>
+ </tileset>
+ <objectgroup name="Enemy" offsetx="-185" offsety="-180">
+  <object id="1" name="9" x="1105" y="346">
+   <properties>
+    <property name="ID" value="9"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="2" name="3" x="1217" y="377">
+   <properties>
+    <property name="ID" value="3"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="3" name="7" x="1327" y="351">
+   <properties>
+    <property name="ID" value="7"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="4" name="1" x="1480" y="108">
+   <properties>
+    <property name="ID" value="1"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="5" name="1" x="1649" y="122">
+   <properties>
+    <property name="ID" value="1"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="6" name="1" x="1757" y="175">
+   <properties>
+    <property name="ID" value="1"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="7" name="1" x="1933" y="171">
+   <properties>
+    <property name="ID" value="1"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="8" name="7" x="1615" y="339">
+   <properties>
+    <property name="ID" value="7"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="9" name="1" x="2067" y="171">
+   <properties>
+    <property name="ID" value="1"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="10" name="3" x="1545" y="374">
+   <properties>
+    <property name="ID" value="3"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="11" name="6" x="1952" y="358">
+   <properties>
+    <property name="ID" value="6"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="12" name="2" x="2099" y="352">
+   <properties>
+    <property name="ID" value="2"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="15" name="5" x="2197" y="156">
+   <properties>
+    <property name="ID" value="1"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="20" name="2" x="2202" y="371">
+   <properties>
+    <property name="ID" value="2"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="42" name="2" x="2269" y="348">
+   <properties>
+    <property name="ID" value="2"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="44" name="100" x="2333" y="348">
+   <properties>
+    <property name="ID" value="100"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="46" name="8" x="994" y="372">
+   <properties>
+    <property name="ID" value="8"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="49" name="1" x="1252" y="114">
+   <properties>
+    <property name="ID" value="1"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="50" name="6" x="1446" y="391">
+   <properties>
+    <property name="ID" value="6"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

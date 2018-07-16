@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="15" height="100" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="rock0" tilewidth="32" tileheight="32">
+  <image source="rock0.png" width="144" height="274"/>
+ </tileset>
+ <tileset firstgid="33" name="rock1" tilewidth="32" tileheight="32">
+  <image source="rock1.png" width="479" height="392"/>
+ </tileset>
+ <tileset firstgid="201" name="rock2" tilewidth="32" tileheight="32">
+  <image source="rock2.png" width="159" height="287"/>
+ </tileset>
+ <tileset firstgid="233" name="rock3" tilewidth="32" tileheight="32">
+  <image source="rock3.png" width="321" height="395"/>
+ </tileset>
+ <tileset firstgid="353" name="rock4" tilewidth="32" tileheight="32">
+  <image source="rock4.png" width="476" height="350"/>
+ </tileset>
+ <tileset firstgid="493" name="rock5" tilewidth="32" tileheight="32">
+  <image source="rock5.png" width="334" height="543"/>
+ </tileset>
+ <tileset firstgid="653" name="rock6" tilewidth="32" tileheight="32">
+  <image source="rock6.png" width="277" height="318"/>
+ </tileset>
+ <tileset firstgid="725" name="rock7" tilewidth="32" tileheight="32">
+  <image source="rock7.png" width="287" height="328"/>
+ </tileset>
+ <layer name="land1" width="15" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt2FdbD3AcxuH/W0khM5sQ2XtWNtl7771DiYxky2wpMzuyeVndB79Drovz7+e67sPnDTyZTBT9uSw6kU0OnelCV3LpRnd60JNe9E7bPPrQl370ZwADGcRghpDPUIYxPG0LGMFIChnFaMYwlnGMZwITmcTktJ3CVKYxnRnMZBazKaKYEuYwl3lpO58FLGQRi1lCKUtZxnJWsJJVrE7bNaxlHevZwEY2sZktbGUb29nBzrTdxW72sJd97OcABznEYY5wlGMcT9sTnKSMU5zmDOVUcJZKznGeKi6k7UUucZlqrlDDVa5xnRvc5Ba3uZOJoiiKoiiKoiiKouhfil8lfpW//Sq13OUe93nAQx5RRz0NNNLEY5rTtoUnPOUZz3nBS1p5xWve8JZ3vE/bD7TxkU+085kvfOUb3/nBT37xOxP9bx2X+Xt2
+  </data>
+ </layer>
+ <layer name="land7" width="15" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt2MlOAkEYReGyW8CBUUYRZHz/twEFccIBRFFxQlCR03Eli64ENsbck3yrv2/S6zLmdw3HmCYOcIgW2jhCxzG+HXM/wSnOcI4uLnBp2V5xv0YPfdxggFvcWbZD7vd4wCNGeMIzXizbV+5vGOMdE0zxgU/L9ov7DN/ed64xa3DgYt313wa4BxHCBjaxhW2EfbZpbhFEEUMcCewgiZTPtuj+7DPIIodd5LGHguWflVJKKaWUUkoppZT6r+ld9G+/i3ot+y7qtcq7qPeuuo8SyqigihrqC9s5PQZUdw==
+  </data>
+ </layer>
+ <layer name="land0" width="15" height="100">
+  <data encoding="base64" compression="zlib">
+   eJztlDcOQzEUw5ze89N7u/8pw1nDB4QMgRMR4KiBwLNLCSGEEEII4ffoYBd72De3AxziCMfmdoJTnOHc3C5wiQ2uzO0aN7jFnbkN4Zv8+1t1+vd4wCOeitd/xgte8Va8/js+8Imv4vVrn/NXaZ/2t6F92t+G9ml/G5/8xU6fon3OXWlfDe+qxrtSnLsKIdTFG/hzCWE=
+  </data>
+ </layer>
+ <layer name="land4" width="15" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt1Nk2lnEYxuHvO9TmUpRS0kAlEiljSUUjaUAhVBrMQmmQZk3S4CBca/WeQBth4/mtda1769n7v28qFUVR9O+tSqdSq1nDWtaxng1sZBMZbGYLmWSl/95utdvIZjs7yGEnu8hlN3nsYS/7ktv9Np8CDnCQQxRymCKKOUIJRylNbsvsMco5zgkqqKSKamqo5SSnqEtuT9t6znCWczTQyHkucJFLXOYKTclts71KC9e4zg1u0kob7dziNh10Jrdd9g7d9NDLXe5xnz4e8JBHPKY/vXTvIFqe4vuL7y+Klrr476z8/86AHWSIYUYYZYwnjDPBJE95xlRy+9y+4CWvmOY1M7zhLe94zwc+8im5nbWf+cJXvvGdOX4wz09+8Zs/LKT/73uNoiiKoihazhYBD87LxQ==
+  </data>
+ </layer>
+ <layer name="land3" width="15" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzty7USwlAURdEEd3cL9v//hTsJJMim53YUFGfPW8W7M8dxlFJKKaXUL1tgiRXW2GCLHfY44GhsTzjjgit8BLjhjhCRsX3gidfn4/IQQxwJJJFyv2/T3DPIIoc8CiiihDIqxrbKvYY6GmiihTY66KJnbPvcBxhiBA9jTDDFDHNjq5RSSimllFL/1hsX2Bis
+  </data>
+ </layer>
+ <layer name="land6" width="15" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzty1UOwmAUROE/3T9FipfiDkWKuy6MswLuezMn+Z4m45xSSqm0lfGc85FFDnkUEKDo/f+W2MuooIoa6gjRML4RexMttNFBFz30je+AfYgRxphgihnmxjdmX2CJFdZIsMHW+O7Y9zjgiBPOuOBqfG/sdzzwxAtvfPA1vkoppZRSSimllEpfP+tfJU0=
+  </data>
+ </layer>
+ <objectgroup name="objects" width="15" height="100">
+  <object name="others" type="BirthPoint" x="232" y="2905" width="54" height="26"/>
+  <object name="enemy" type="monster" x="368" y="2734" width="44" height="31">
+   <properties>
+    <property name="enemyID" value="0"/>
+   </properties>
+  </object>
+  <object name="enemy" type="monster" x="242" y="2686" width="53" height="38">
+   <properties>
+    <property name="enemyID" value="1"/>
+   </properties>
+  </object>
+  <object name="enemy" type="monster" x="98" y="2661" width="42" height="29">
+   <properties>
+    <property name="enemyID" value="2"/>
+   </properties>
+  </object>
+  <object name="enemy" type="monster" x="144" y="2559" width="38" height="21">
+   <properties>
+    <property name="enemyID" value="3"/>
+   </properties>
+  </object>
+  <object name="enemy" type="monster" x="267" y="2426" width="49" height="30">
+   <properties>
+    <property name="enemyID" value="4"/>
+   </properties>
+  </object>
+  <object name="enemy" type="monster" x="133" y="2226" width="48" height="32">
+   <properties>
+    <property name="enemyID" value="5"/>
+   </properties>
+  </object>
+  <object name="enemy" type="monster" x="268" y="2099" width="49" height="35">
+   <properties>
+    <property name="enemyID" value="6"/>
+   </properties>
+  </object>
+  <object name="enemy" type="monster" x="141" y="1977" width="40" height="27">
+   <properties>
+    <property name="enemyID" value="7"/>
+   </properties>
+  </object>
+  <object name="enemy" type="monster" x="115" y="1695" width="45" height="32">
+   <properties>
+    <property name="enemyID" value="8"/>
+   </properties>
+  </object>
+  <object name="enemy" type="monster" x="247" y="1680" width="51" height="41">
+   <properties>
+    <property name="enemyID" value="9"/>
+   </properties>
+  </object>
+  <object name="enemy" type="monster" x="380" y="1654" width="43" height="32">
+   <properties>
+    <property name="enemyID" value="10"/>
+   </properties>
+  </object>
+  <object name="enemy" type="monster" x="302" y="1455" width="41" height="39">
+   <properties>
+    <property name="enemyID" value="11"/>
+   </properties>
+  </object>
+  <object name="enemy" type="monster" x="128" y="1272" width="53" height="44">
+   <properties>
+    <property name="enemyID" value="12"/>
+   </properties>
+  </object>
+  <object name="enemy" type="monster" x="66" y="1097" width="45" height="29">
+   <properties>
+    <property name="enemyID" value="13"/>
+   </properties>
+  </object>
+  <object name="enemy" type="monster" x="197" y="1085" width="41" height="33">
+   <properties>
+    <property name="enemyID" value="14"/>
+   </properties>
+  </object>
+  <object name="enemy" type="monster" x="331" y="1047" width="48" height="35">
+   <properties>
+    <property name="enemyID" value="15"/>
+   </properties>
+  </object>
+  <object name="enemy" type="monster" x="88" y="790" width="62" height="41">
+   <properties>
+    <property name="enemyID" value="16"/>
+   </properties>
+  </object>
+  <object name="enemy" type="monster" x="93" y="614" width="53" height="31">
+   <properties>
+    <property name="enemyID" value="17"/>
+   </properties>
+  </object>
+  <object name="enemy" type="monster" x="235" y="596" width="52" height="38">
+   <properties>
+    <property name="enemyID" value="18"/>
+   </properties>
+  </object>
+  <object name="enemy" type="monster" x="342" y="559" width="56" height="40">
+   <properties>
+    <property name="enemyID" value="19"/>
+   </properties>
+  </object>
+  <object name="enemy" type="monster" x="369" y="335" width="42" height="44">
+   <properties>
+    <property name="enemyID" value="20"/>
+   </properties>
+  </object>
+  <object name="enemy" type="monster" x="243" y="303" width="52" height="34">
+   <properties>
+    <property name="enemyID" value="21"/>
+   </properties>
+  </object>
+  <object name="enemy" type="monster" x="95" y="266" width="38" height="43">
+   <properties>
+    <property name="enemyID" value="22"/>
+   </properties>
+  </object>
+  <object name="enemy" type="monster" x="224" y="14" width="68" height="38">
+   <properties>
+    <property name="enemyID" value="23"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

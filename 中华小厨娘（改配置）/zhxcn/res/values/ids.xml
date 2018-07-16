@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="cancelBtn">false</item>
+    <item type="id" name="titleLayout">false</item>
+    <item type="id" name="icon">false</item>
+    <item type="id" name="title">false</item>
+    <item type="id" name="content">false</item>
+    <item type="id" name="textMsg">false</item>
+    <item type="id" name="editText">false</item>
+    <item type="id" name="rGroup">false</item>
+    <item type="id" name="rbtn0">false</item>
+    <item type="id" name="rbtn1">false</item>
+    <item type="id" name="rbtn2">false</item>
+    <item type="id" name="rbtn3">false</item>
+    <item type="id" name="rbtn4">false</item>
+    <item type="id" name="btn2">false</item>
+    <item type="id" name="btn1">false</item>
+    <item type="id" name="pBar">false</item>
+</resources>

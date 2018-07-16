@@ -1,0 +1,14 @@
+java -jar apktool_2.0.1.jar d xxxxl.apk
+
+java -jar apktool_2.0.1.jar b xxxxl
+
+WINDOWS----> d2j-dex2jar ../xxxxl.apk
+MAC---->   sh d2j-dex2jar.sh ../xxxxl.apk
+
+keytool -genkey -alias xxxxl.keystore -keyalg RSA -validity 20000 -keystore xxxxl.keystore 
+
+jarsigner -verbose -keystore xxxxl.keystore -signedjar xxxxl_signed.apk xxxxl.apk xxxxl.keystore
+
+jarsigner -verbose -keystore xxxxl.keystore -signedjar xxxxl_signed.apk xxxxl.apk xxxxl.keystore
+
+jarsigner -verify xxxxl_signed.apk

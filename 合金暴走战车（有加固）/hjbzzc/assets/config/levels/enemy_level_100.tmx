@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="75" height="15" tilewidth="32" tileheight="32" nextobjectid="42">
+ <tileset firstgid="1" name="baseTile" tilewidth="32" tileheight="32" tilecount="1" columns="1">
+  <image source="baseTile.png" trans="ff00ff" width="32" height="32"/>
+ </tileset>
+ <objectgroup name="Enemy">
+  <object id="1" name="7" x="1088.67" y="342.667">
+   <properties>
+    <property name="BOSS" value="0"/>
+    <property name="ID" value="7"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="2" name="7" x="1024.67" y="354.333">
+   <properties>
+    <property name="BOSS" value="0"/>
+    <property name="ID" value="7"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="3" name="7" x="1156.67" y="357.333">
+   <properties>
+    <property name="BOSS" value="0"/>
+    <property name="ID" value="7"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="4" name="7" x="1241.67" y="348.333">
+   <properties>
+    <property name="BOSS" value="0"/>
+    <property name="ID" value="7"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="5" name="0" x="866.667" y="355.667">
+   <properties>
+    <property name="BOSS" value="0"/>
+    <property name="ID" value="0"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="6" name="6" x="1354" y="353.333">
+   <properties>
+    <property name="BOSS" value="0"/>
+    <property name="ID" value="6"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="7" name="6" x="1417" y="360">
+   <properties>
+    <property name="BOSS" value="0"/>
+    <property name="ID" value="6"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="8" name="6" x="1526" y="352">
+   <properties>
+    <property name="BOSS" value="0"/>
+    <property name="ID" value="6"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="9" name="6" x="970" y="378">
+   <properties>
+    <property name="BOSS" value="0"/>
+    <property name="ID" value="6"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="10" name="6" x="1064" y="384">
+   <properties>
+    <property name="BOSS" value="0"/>
+    <property name="ID" value="6"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="11" name="6" x="1206" y="382">
+   <properties>
+    <property name="BOSS" value="0"/>
+    <property name="ID" value="6"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="12" name="6" x="1288" y="373">
+   <properties>
+    <property name="BOSS" value="0"/>
+    <property name="ID" value="6"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="13" name="6" x="1469" y="372">
+   <properties>
+    <property name="BOSS" value="0"/>
+    <property name="ID" value="6"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="14" name="6" x="1807.33" y="382.667">
+   <properties>
+    <property name="BOSS" value="0"/>
+    <property name="ID" value="6"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="15" name="7" x="1690" y="343.334">
+   <properties>
+    <property name="BOSS" value="0"/>
+    <property name="ID" value="7"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="18" name="7" x="1758" y="358">
+   <properties>
+    <property name="BOSS" value="0"/>
+    <property name="ID" value="7"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="19" name="7" x="1614" y="352.333">
+   <properties>
+    <property name="BOSS" value="0"/>
+    <property name="ID" value="7"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="21" name="7" x="1843" y="349">
+   <properties>
+    <property name="BOSS" value="0"/>
+    <property name="ID" value="7"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="22" name="6" x="1665.33" y="384.667">
+   <properties>
+    <property name="BOSS" value="0"/>
+    <property name="ID" value="6"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="23" name="6" x="1889.33" y="373.667">
+   <properties>
+    <property name="BOSS" value="0"/>
+    <property name="ID" value="6"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="24" name="100" x="1955.33" y="354">
+   <properties>
+    <property name="BOSS" value="1"/>
+    <property name="ID" value="100"/>
+    <property name="Level" value="2"/>
+   </properties>
+  </object>
+  <object id="25" name="6" x="1453" y="396">
+   <properties>
+    <property name="BOSS" value="0"/>
+    <property name="ID" value="6"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="26" name="6" x="1843.33" y="418.667">
+   <properties>
+    <property name="BOSS" value="0"/>
+    <property name="ID" value="6"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="27" name="6" x="1614.66" y="408.667">
+   <properties>
+    <property name="BOSS" value="0"/>
+    <property name="ID" value="6"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="28" name="6" x="1562" y="388">
+   <properties>
+    <property name="BOSS" value="0"/>
+    <property name="ID" value="6"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="29" name="6" x="1096" y="402.667">
+   <properties>
+    <property name="BOSS" value="0"/>
+    <property name="ID" value="6"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="30" name="7" x="1794" y="394">
+   <properties>
+    <property name="BOSS" value="0"/>
+    <property name="ID" value="7"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="31" name="7" x="1726" y="379.334">
+   <properties>
+    <property name="BOSS" value="0"/>
+    <property name="ID" value="7"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="32" name="6" x="1925.33" y="409.667">
+   <properties>
+    <property name="BOSS" value="0"/>
+    <property name="ID" value="6"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="33" name="6" x="1246" y="406">
+   <properties>
+    <property name="BOSS" value="0"/>
+    <property name="ID" value="6"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="34" name="7" x="1662" y="391">
+   <properties>
+    <property name="BOSS" value="0"/>
+    <property name="ID" value="7"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="35" name="7" x="1879" y="385">
+   <properties>
+    <property name="BOSS" value="0"/>
+    <property name="ID" value="7"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="36" name="6" x="1505" y="408">
+   <properties>
+    <property name="BOSS" value="0"/>
+    <property name="ID" value="6"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="37" name="7" x="1124.67" y="378.667">
+   <properties>
+    <property name="BOSS" value="0"/>
+    <property name="ID" value="7"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="38" name="7" x="1277.67" y="384.333">
+   <properties>
+    <property name="BOSS" value="0"/>
+    <property name="ID" value="7"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="39" name="6" x="1324" y="409">
+   <properties>
+    <property name="BOSS" value="0"/>
+    <property name="ID" value="6"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="40" name="6" x="1390" y="389.333">
+   <properties>
+    <property name="BOSS" value="0"/>
+    <property name="ID" value="6"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+  <object id="41" name="7" x="1192.67" y="393.333">
+   <properties>
+    <property name="BOSS" value="0"/>
+    <property name="ID" value="7"/>
+    <property name="Level" value="0"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>
