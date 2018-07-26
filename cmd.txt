@@ -1,12 +1,14 @@
-java -jar apktool_2.0.1.jar d tcs.apk
+java -jar apktool_2.0.1.jar d x0050.apk
 
-java -jar apktool_2.0.1.jar b tcs
+java -jar ../apktool_2.0.1.jar b x0050
 
-WINDOWS----> d2j-dex2jar ../tcs.apk
-MAC---->   sh d2j-dex2jar.sh ../tcs.apk
+WINDOWS----> d2j-dex2jar ../x0050.apk
+MAC---->   sh d2j-dex2jar.sh ../x0050.apk
 
-keytool -genkey -alias tcs.keystore -keyalg RSA -validity 20000 -keystore tcs.keystore 
+keytool -genkey -alias x0050.keystore -keyalg RSA -validity 20000 -keystore x0050.keystore 
 
-jarsigner -verbose -keystore tcs.keystore -signedjar tcs_signed.apk tcs.apk tcs.keystore
+jarsigner -verbose -keystore x0050.keystore -signedjar x0050_signed.apk x0050.apk x0050.keystore
 
-jarsigner -verify tcs_signed.apk
+jarsigner -verify x0050_signed.apk
+
+password:android
